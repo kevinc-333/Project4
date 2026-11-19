@@ -1,1308 +1,1308 @@
-,Unnamed: 0_x,RegionName,State,2026-10-31,Unnamed: 0_y,NAME,STNAME,POPESTIMATE2025
-0,0,New York,New York,827886.4650772455,46510,New York,New York,8584629
-1,1,Los Angeles,California,926191.6178117011,3098,Los Angeles,California,3869089
-2,3,Chicago,Illinois,336918.18490364274,8178,Chicago,Illinois,2731585
-3,4,San Antonio,Texas,243796.20780298105,72039,San Antonio,Texas,1548422
-4,5,Philadelphia,Pennsylvania,230399.87720976525,62038,Philadelphia,Pennsylvania,1574281
-5,6,Phoenix,Arizona,401740.730187234,1518,Phoenix,Arizona,1665481
-6,7,Las Vegas,Nevada,413872.9856121622,43915,Las Vegas,Nevada,679817
-7,8,San Diego,California,980476.2961768252,3228,San Diego,California,1406106
-8,10,Austin,Texas,488879.80335993,71119,Austin,Texas,1002632
-9,11,San Jose,California,1360455.250357856,3236,San Jose,California,989814
-10,12,Jacksonville,Florida,283673.39778708154,5218,Jacksonville,Florida,1017689
-11,14,Indianapolis,Indiana,226172.07717229173,15891,Indianapolis,Indiana,910638
-12,15,Fort Worth,Texas,291578.7097940372,71443,Fort Worth,Texas,1028117
-13,16,Orlando,Florida,370483.3531847596,5332,Orlando,Florida,333888
-14,17,San Francisco,California,1483667.9138629928,3231,San Francisco,California,826079
-15,18,Tucson,Arizona,317277.0172544369,1545,Tucson,Arizona,548371
-16,20,Miami,Florida,584741.2859092519,5289,Miami,Florida,489812
-17,23,Denver,Colorado,517745.137635313,4001,Denver,Colorado,740613
-18,24,Seattle,Washington,818392.5617378401,76089,Seattle,Washington,784777
-19,28,Sacramento,California,469280.9992577666,3218,Sacramento,California,536449
-20,29,Boston,Massachusetts,772404.6070174119,28313,Boston,Massachusetts,672973
-21,30,Detroit,Michigan,74983.46289362719,28984,Detroit,Michigan,649095
-22,31,Pittsburgh,Pennsylvania,233434.7191090077,62045,Pittsburgh,Pennsylvania,307632
-23,32,Albuquerque,New Mexico,341530.59322507,45866,Albuquerque,New Mexico,556588
-24,33,Memphis,Tennessee,152615.91841806448,70341,Memphis,Tennessee,609647
-25,34,Fresno,California,385532.3090848974,3009,Fresno,California,555549
-26,35,Baltimore,Maryland,185534.45905595264,27946,Baltimore,Maryland,569997
-27,36,Omaha,Nebraska,293000.8225680739,42312,Omaha,Nebraska,488797
-28,37,Atlanta,Georgia,377969.4732774839,6034,Atlanta,Georgia,529110
-29,38,Milwaukee,Wisconsin,221614.3190034523,77445,Milwaukee,Wisconsin,562407
-30,39,Oklahoma City,Oklahoma,204098.86244571896,59779,Oklahoma City,Oklahoma,719849
-31,40,Raleigh,North Carolina,423295.2704166653,49932,Raleigh,North Carolina,506306
-32,41,Mesa,Arizona,426277.3706960927,1508,Mesa,Arizona,513656
-33,42,Colorado Springs,Colorado,435351.4853620499,3985,Colorado Springs,Colorado,494743
-34,46,Cincinnati,Ohio,245256.49489562176,53966,Cincinnati,Ohio,314367
-35,47,Long Beach,California,854209.4533170679,3093,Long Beach,California,450469
-36,48,Virginia Beach,Virginia,425656.4120409426,75409,Virginia Beach,Virginia,453737
-37,49,Bakersfield,California,385863.13867329614,2884,Bakersfield,California,422165
-38,50,Tampa,Florida,375171.8814532908,5417,Tampa,Florida,413554
-39,51,Oakland,California,718270.5460038699,3150,Oakland,California,440838
-40,52,Tulsa,Oklahoma,216654.7175236201,59914,Tulsa,Oklahoma,416209
-41,53,Minneapolis,Minnesota,328551.907780583,33077,Minneapolis,Minnesota,430324
-42,54,Aurora,Colorado,446352.25114247,3946,Aurora,Colorado,410053
-43,56,Honolulu,Hawaii,780798.6352357529,7464,Honolulu,Hawaii,988703
-44,57,Knoxville,Tennessee,367379.5526393315,70305,Knoxville,Tennessee,202021
-45,59,Baton Rouge,Louisiana,228458.6110102004,26591,Baton Rouge,Louisiana,222795
-46,60,New Orleans,Louisiana,242494.5010248229,26775,New Orleans,Louisiana,362154
-47,61,Wichita,Kansas,202898.3619503006,21878,Wichita,Kansas,400987
-48,63,Riverside,California,643121.3757536473,3210,Riverside,California,323057
-49,64,Anaheim,California,942424.4445516746,2867,Anaheim,California,341008
-50,65,Vancouver,Washington,494235.9196479528,76129,Vancouver,Washington,199698
-51,66,Stockton,California,422040.5178995289,3281,Stockton,California,324597
-52,67,Marietta,Georgia,465240.0595119232,6314,Marietta,Georgia,63574
-53,69,Greensboro,North Carolina,258431.1709972357,49740,Greensboro,North Carolina,308667
-54,70,Fort Wayne,Indiana,244637.2606230292,15491,Fort Wayne,Indiana,275203
-55,74,Corpus Christi,Texas,218714.5139815771,71304,Corpus Christi,Texas,317247
-56,76,Santa Ana,California,864802.7292310186,3247,Santa Ana,California,315586
-57,77,Durham,North Carolina,381755.7284790461,49677,Durham,North Carolina,305561
-58,80,Spokane,Washington,387370.96308533446,76103,Spokane,Washington,230783
-59,84,Irvine,California,1466014.1707777623,3052,Irvine,California,318764
-60,86,Toledo,Ohio,131008.81049258295,54615,Toledo,Ohio,263423
-61,87,Chandler,Arizona,512425.46637633024,1474,Chandler,Arizona,278748
-62,88,Tallahassee,Florida,289470.0641072793,5415,Tallahassee,Florida,204902
-63,89,Jersey City,New Jersey,664702.0519616507,44422,Jersey City,New Jersey,302013
-64,90,Plano,Texas,484787.1209717293,71921,Plano,Texas,293028
-65,91,Lubbock,Texas,208822.821796588,71722,Lubbock,Texas,273071
-66,92,Modesto,California,441475.0316033669,3122,Modesto,California,219652
-67,95,Chula Vista,California,847670.3566809138,2932,Chula Vista,California,275533
-68,98,Gilbert,Arizona,564078.5139732345,1492,Gilbert,Arizona,287285
-69,99,Winston-Salem,North Carolina,258802.90037223653,50085,Winston-Salem,North Carolina,257271
-70,101,Laredo,Texas,218863.61925171505,71674,Laredo,Texas,269515
-71,102,North Las Vegas,Nevada,398995.8313492904,43918,North Las Vegas,Nevada,296653
-72,103,San Bernardino,California,491402.097407861,3222,San Bernardino,California,222044
-73,104,Lakeland,Florida,307947.2736778981,5244,Lakeland,Florida,125520
-74,105,Fort Myers,Florida,306195.97136272566,5160,Fort Myers,Florida,101581
-75,106,Irving,Texas,333282.9829600838,71591,Irving,Texas,257076
-76,107,Mobile,Alabama,193892.8318872189,281,Mobile,Alabama,200824
-77,108,Glendale,Arizona,397829.542318617,1493,Glendale,Arizona,260572
-78,109,Pensacola,Florida,261307.87258961555,5355,Pensacola,Florida,53817
-79,110,Anchorage,Alaska,419376.8457176439,1123,Anchorage,Alaska,287155
-80,111,Chesapeake,Virginia,423901.92462559306,75238,Chesapeake,Virginia,255332
-81,112,Sarasota,Florida,415081.9809148056,5392,Sarasota,Florida,58458
-82,114,Birmingham,Alabama,133592.9630939294,43,Birmingham,Alabama,195893
-83,115,Hialeah,Florida,443688.00326564704,5192,Hialeah,Florida,230968
-84,117,Kissimmee,Florida,353640.3281914769,5233,Kissimmee,Florida,85591
-85,119,Scottsdale,Arizona,860329.4045788413,1529,Scottsdale,Arizona,243006
-86,121,Ocala,Florida,263613.50404342124,5322,Ocala,Florida,71753
-87,122,Santa Clarita,California,782916.341551349,3250,Santa Clarita,California,228430
-88,123,Fremont,California,1431548.6718876194,3008,Fremont,California,226442
-89,124,Fontana,California,631672.0402490366,3001,Fontana,California,221223
-90,127,Boca Raton,Florida,587442.5973867524,5079,Boca Raton,Florida,101582
-91,128,Grand Rapids,Michigan,301477.94747071713,29057,Grand Rapids,Michigan,201183
-92,129,Bradenton,Florida,352433.5642713548,5084,Bradenton,Florida,58014
-93,130,Little Rock,Arkansas,217637.97736839764,1962,Little Rock,Arkansas,206427
-94,131,Gainesville,Florida,290125.9132279305,5168,Gainesville,Florida,148671
-95,133,Tacoma,Washington,478378.9595099733,76115,Tacoma,Washington,229816
-96,135,Amarillo,Texas,209084.1794301237,71089,Amarillo,Texas,205130
-97,136,Des Moines,Iowa,206630.84643933785,19342,Des Moines,Iowa,212086
-98,137,Savannah,Georgia,317792.0340464425,6435,Savannah,Georgia,149440
-99,138,Oxnard,California,762457.7939533811,3160,Oxnard,California,199651
-100,139,Santa Rosa,California,705654.6410788543,3256,Santa Rosa,California,179437
-101,140,Huntsville,Alabama,287503.1845620363,217,Huntsville,Alabama,233627
-102,141,Akron,Ohio,139664.00944350517,53809,Akron,Ohio,189691
-103,143,Brownsville,Texas,192242.03960617608,71208,Brownsville,Texas,192957
-104,144,Yonkers,New York,701495.9253321333,46737,Yonkers,New York,212603
-105,145,Eugene,Oregon,466800.9071845876,60835,Eugene,Oregon,178618
-106,146,Corona,California,751474.9513672624,2950,Corona,California,161734
-107,147,Dayton,Ohio,137207.69026384252,54013,Dayton,Ohio,136688
-108,148,Syracuse,New York,219439.42476371792,46666,Syracuse,New York,144896
-109,149,Montgomery,Alabama,148724.24588745311,284,Montgomery,Alabama,195300
-110,151,Oceanside,California,868126.7005562581,3152,Oceanside,California,170483
-111,152,Trenton,New Jersey,340653.0847117584,44579,Trenton,New Jersey,91506
-112,153,Moreno Valley,California,549833.4300154847,3132,Moreno Valley,California,214263
-113,154,Shreveport,Louisiana,144174.36589581435,26828,Shreveport,Louisiana,175902
-114,155,Wilmington,Delaware,326993.7041184991,4973,Wilmington,Delaware,73512
-115,156,Murfreesboro,Tennessee,420822.017996498,70361,Murfreesboro,Tennessee,171178
-116,157,West Palm Beach,Florida,408814.58446853136,5441,West Palm Beach,Florida,127189
-117,159,Fort Collins,Colorado,552277.5844056852,4024,Fort Collins,Colorado,171500
-118,160,Salt Lake City,Utah,564107.0155750449,74404,Salt Lake City,Utah,218428
-119,161,Beaverton,Oregon,517865.1367383226,60789,Beaverton,Oregon,97842
-120,162,Salinas,California,750963.3249517555,3220,Salinas,California,159134
-121,163,Frisco,Texas,626532.391253644,71451,Frisco,Texas,236955
-122,164,McKinney,Texas,464773.9176066348,71734,McKinney,Texas,236001
-123,165,Sioux Falls,South Dakota,326841.33262467565,68091,Sioux Falls,South Dakota,213748
-124,167,Reading,Pennsylvania,265032.23612031824,62078,Reading,Pennsylvania,95832
-125,168,Lancaster,California,458246.04029146297,3074,Lancaster,California,170084
-126,169,Huntington Beach,California,1350894.0141141638,3042,Huntington Beach,California,191451
-127,170,Cape Coral,Florida,336432.97623808176,5098,Cape Coral,Florida,236264
-128,171,Lake Worth Beach,Florida,446007.74823977513,5249,Lake Worth Beach,Florida,43970
-129,172,Hayward,California,812969.9718350964,3030,Hayward,California,157113
-130,174,Clarksville,Tennessee,316597.90398793225,70198,Clarksville,Tennessee,188829
-131,175,Grand Prairie,Texas,311236.59752515616,71491,Grand Prairie,Texas,209434
-132,176,Charleston,South Carolina,589324.4283685267,67218,Charleston,South Carolina,159423
-133,178,Peoria,Arizona,477635.7542814506,1517,Peoria,Arizona,200881
-134,180,Providence,Rhode Island,429578.01918342273,67114,Providence,Rhode Island,195310
-135,181,Whittier,California,815114.5337857143,3325,Whittier,California,85815
-136,182,Overland Park,Kansas,479299.8266780179,21711,Overland Park,Kansas,203677
-137,183,Henrico,Virginia,403049.451347304,75580,Henrico,Virginia,342775
-138,184,Palmdale,California,495746.7211239848,3163,Palmdale,California,161845
-139,186,Chattanooga,Tennessee,313815.964797155,70195,Chattanooga,Tennessee,194144
-140,187,Homestead,Florida,435290.4975751283,5203,Homestead,Florida,86242
-141,189,Fort Lauderdale,Florida,511977.3085264582,5158,Fort Lauderdale,Florida,188677
-142,190,Elk Grove,California,619910.89228447,2983,Elk Grove,California,185007
-143,191,Rockford,Illinois,185447.9165485048,8960,Rockford,Illinois,147384
-144,192,Columbus,Georgia,173652.1502775266,6123,Columbus,Georgia,202171
-145,193,Evansville,Indiana,201803.32499410264,15479,Evansville,Indiana,116176
-146,195,Edmond,Oklahoma,352240.510873744,59547,Edmond,Oklahoma,100479
-147,197,Ontario,California,660106.1364336325,3154,Ontario,California,187013
-148,198,Killeen,Texas,216148.84446282164,71632,Killeen,Texas,161883
-149,199,Allentown,Pennsylvania,315215.260918728,61352,Allentown,Pennsylvania,126044
-150,200,Tempe,Arizona,458010.2367137888,1541,Tempe,Arizona,190571
-151,201,Garden Grove,California,1004467.5494811074,3013,Garden Grove,California,170455
-152,203,Escondido,California,837122.840240334,2990,Escondido,California,146030
-153,204,El Cajon,California,812925.802644155,2980,El Cajon,California,101755
-154,205,Rancho Cucamonga,California,778836.0400953373,3193,Rancho Cucamonga,California,177856
-155,206,Round Rock,Texas,389450.5440270716,72021,Round Rock,Texas,141282
-156,207,Newport News,Virginia,290682.3388166515,75342,Newport News,Virginia,183230
-157,208,Conroe,Texas,308522.91742922313,71295,Conroe,Texas,119564
-158,209,Boynton Beach,Florida,407108.29740797,5083,Boynton Beach,Florida,82396
-159,210,Harrisburg,Pennsylvania,263791.7892867948,61714,Harrisburg,Pennsylvania,50522
-160,211,Roanoke,Virginia,275943.2068689749,75373,Roanoke,Virginia,99111
-161,212,Ann Arbor,Michigan,514159.63732107874,28872,Ann Arbor,Michigan,122233
-162,214,Sugar Land,Texas,435437.2679182603,72133,Sugar Land,Texas,107726
-163,215,Naperville,Illinois,617002.8615299071,8762,Naperville,Illinois,153114
-164,216,Fairfax,Virginia,774083.0536010647,75526,Fairfax,Virginia,1167873
-165,217,Pembroke Pines,Florida,487394.2814903348,5353,Pembroke Pines,Florida,176714
-166,219,Edinburg,Texas,212418.1083848733,71394,Edinburg,Texas,110700
-167,220,Topeka,Kansas,193661.4082559088,21833,Topeka,Kansas,125795
-168,223,Pueblo,Colorado,277443.8077476672,4145,Pueblo,Colorado,110404
-169,224,Visalia,California,394099.8014540674,3310,Visalia,California,146541
-170,225,Odessa,Texas,248280.6565777645,71861,Odessa,Texas,122707
-171,226,Cary,North Carolina,612632.5883148347,49624,Cary,North Carolina,183582
-172,227,Schenectady,New York,329618.00818438485,46626,Schenectady,New York,69471
-173,229,Paterson,New Jersey,527642.4806850996,44503,Paterson,New Jersey,161793
-174,230,Tyler,Texas,246234.82223694408,72196,Tyler,Texas,113723
-175,231,Clearwater,Florida,342029.32325463387,5109,Clearwater,Florida,114364
-176,232,Sunnyvale,California,2019152.027264367,3283,Sunnyvale,California,156577
-177,233,Kansas City,Kansas,200110.0649017742,21558,Kansas City,Kansas,157805
-178,235,Lansing,Michigan,164518.17659710054,29128,Lansing,Michigan,113884
-179,236,Las Cruces,New Mexico,285198.68970798934,45919,Las Cruces,New Mexico,116978
-180,238,Hollywood,Florida,443775.20777980704,5201,Hollywood,Florida,157019
-181,241,Pomona,California,682928.9632449877,3186,Pomona,California,147807
-182,242,Roseville,California,643048.5544418955,3216,Roseville,California,167302
-183,243,South Bend,Indiana,197040.5417060785,15795,South Bend,Indiana,103201
-184,245,Mesquite,Texas,254984.7521591192,71771,Mesquite,Texas,150693
-185,247,Renton,Washington,714943.9841793203,76073,Renton,Washington,104975
-186,249,Surprise,Arizona,414111.0743188185,1539,Surprise,Arizona,175304
-187,250,Denton,Texas,340530.6681102604,71354,Denton,Texas,169431
-188,251,Pasadena,California,1183262.7790920322,3171,Pasadena,California,135804
-189,253,Santa Maria,California,670936.3296620544,3253,Santa Maria,California,111390
-190,255,Thornton,Colorado,485177.1740540748,4184,Thornton,Colorado,147766
-191,256,Torrance,California,1108203.2981648743,3293,Torrance,California,138391
-192,257,Victorville,California,432218.41368719685,3308,Victorville,California,141395
-193,260,Summerville,South Carolina,376450.1740929292,67413,Summerville,South Carolina,53177
-194,261,Bridgeport,Connecticut,357170.8568795285,4633,Bridgeport,Connecticut,152273
-195,262,McAllen,Texas,225321.70788741388,71731,McAllen,Texas,150640
-196,263,Manassas,Virginia,543583.8303847727,75326,Manassas,Virginia,44332
-197,264,Yuma,Arizona,299298.6695967177,1554,Yuma,Arizona,105227
-198,265,Cedar Rapids,Iowa,211046.4294231592,19253,Cedar Rapids,Iowa,137935
-199,266,Fullerton,California,1036714.912693683,3010,Fullerton,California,138675
-200,267,Olathe,Kansas,431770.5605811626,21696,Olathe,Kansas,150025
-201,269,Myrtle Beach,South Carolina,319699.5531245678,67338,Myrtle Beach,South Carolina,40937
-202,270,Frederick,Maryland,453960.3900012029,27998,Frederick,Maryland,92059
-203,273,Billings,Montana,395546.4200571281,41595,Billings,Montana,121239
-204,274,Abilene,Texas,224960.29165813903,71070,Abilene,Texas,131588
-205,275,West Valley City,Utah,460511.8914279062,74450,West Valley City,Utah,137491
-206,276,Orange,California,1119746.0289842857,3155,Orange,California,138365
-207,279,Pearland,Texas,374499.1918148191,71898,Pearland,Texas,129930
-208,280,Kalamazoo,Michigan,237583.07598398035,29107,Kalamazoo,Michigan,72683
-209,281,Compton,California,640491.2357505095,2946,Compton,California,90500
-210,282,Lake Charles,Louisiana,200250.36664640563,26726,Lake Charles,Louisiana,82676
-211,283,Hampton,Virginia,279081.8540891845,75295,Hampton,Virginia,137315
-212,284,Miramar,Florida,520055.6507009154,5299,Miramar,Florida,142570
-213,286,Stamford,Connecticut,717831.9691998553,4655,Stamford,Connecticut,139535
-214,287,Hemet,California,441258.9937646696,3032,Hemet,California,93649
-215,288,Carrollton,Texas,392681.8608410593,71244,Carrollton,Texas,134562
-216,289,Coral Springs,Florida,520773.6881337012,5119,Coral Springs,Florida,138783
-217,290,Sterling Heights,Michigan,302459.97405250295,29329,Sterling Heights,Michigan,133931
-218,291,Murrieta,California,683153.3857970024,3138,Murrieta,California,114124
-219,292,Elizabeth,New Jersey,542543.5001776464,44361,Elizabeth,New Jersey,141675
-220,293,Inglewood,California,751839.1825987942,3050,Inglewood,California,101662
-221,294,Clovis,California,513923.7560563501,2938,Clovis,California,129347
-222,295,Concord,California,718177.3852874488,2947,Concord,California,123261
-223,296,Melbourne,Florida,358623.99383927183,5285,Melbourne,Florida,87097
-224,298,New Haven,Connecticut,334143.72634106706,4649,New Haven,Connecticut,138774
-225,299,Santa Fe,New Mexico,575314.2718450691,45950,Santa Fe,New Mexico,89837
-226,301,Boulder,Colorado,942097.7206800462,3957,Boulder,Colorado,105689
-227,302,Tracy,California,663574.3176494768,3294,Tracy,California,101901
-228,303,Broken Arrow,Oklahoma,286572.06587737566,59447,Broken Arrow,Oklahoma,124991
-229,304,Bend,Oregon,716100.049656194,60790,Bend,Oregon,107342
-230,307,College Station,Texas,342958.335288559,71284,College Station,Texas,127472
-231,309,Rochester,Minnesota,338028.6789367769,33209,Rochester,Minnesota,124292
-232,310,Puyallup,Washington,552643.1363748068,76067,Puyallup,Washington,42682
-233,311,Flint,Michigan,63738.6091797334,29026,Flint,Michigan,79306
-234,312,Simi Valley,California,829518.0370146729,3269,Simi Valley,California,124861
-235,313,Fargo,North Dakota,320827.6450485759,51008,Fargo,North Dakota,136275
-236,314,Sparks,Nevada,534592.340527536,43920,Sparks,Nevada,111902
-237,315,Santa Clara,California,1655102.84771957,3249,Santa Clara,California,133446
-238,316,Saginaw,Michigan,131041.92754293769,29291,Saginaw,Michigan,42863
-239,317,Nampa,Idaho,415973.1280227779,7595,Nampa,Idaho,120384
-240,318,Vallejo,California,513893.89307977626,3306,Vallejo,California,123287
-241,319,Temecula,California,753527.746795951,3289,Temecula,California,114865
-242,320,Norman,Oklahoma,259542.9300518404,59766,Norman,Oklahoma,130943
-243,321,Thousand Oaks,California,1025741.7510079622,3291,Thousand Oaks,California,122230
-244,323,Meridian,Idaho,531312.1899934764,7583,Meridian,Idaho,142988
-245,324,Joliet,Illinois,268285.2292742204,8537,Joliet,Illinois,152241
-246,325,Richmond,California,602064.4317278195,3204,Richmond,California,114861
-247,326,Charlottesville,Virginia,505387.9288839143,75234,Charlottesville,Virginia,44388
-248,327,Bellingham,Washington,651904.2123223423,75887,Bellingham,Washington,96395
-249,328,Arvada,Colorado,590179.1697936067,3943,Arvada,Colorado,122901
-250,332,Yakima,Washington,355963.9414211666,76151,Yakima,Washington,97458
-251,333,Tuscaloosa,Alabama,242085.82278750165,424,Tuscaloosa,Alabama,114316
-252,336,Elgin,Illinois,338726.46643354185,8308,Elgin,Illinois,115476
-253,337,Chico,California,455480.4996228085,2928,Chico,California,105081
-254,338,Spartanburg,South Carolina,228849.5275595396,67406,Spartanburg,South Carolina,39978
-255,339,Bowling Green,Kentucky,278254.14287748374,25427,Bowling Green,Kentucky,78505
-256,340,Largo,Florida,336697.1210416981,5251,Largo,Florida,80690
-257,342,Springfield,Illinois,168844.36514062193,9067,Springfield,Illinois,112989
-258,343,Hartford,Connecticut,202390.87940621792,4641,Hartford,Connecticut,121981
-259,344,Toms River,New Jersey,463403.17003727023,45618,Toms River,New Jersey,100899
-260,345,Lewisville,Texas,381505.5772919239,71691,Lewisville,Texas,139006
-261,347,Berkeley,California,1483806.019582783,2895,Berkeley,California,121911
-262,349,Gresham,Oregon,456635.2861658229,60853,Gresham,Oregon,111513
-263,350,Palm Bay,Florida,303561.7557336854,5338,Palm Bay,Florida,148092
-264,351,Asheville,North Carolina,440721.1255476127,49559,Asheville,North Carolina,93523
-265,353,Delray Beach,Florida,346944.80910740333,5136,Delray Beach,Florida,69809
-266,355,New Braunfels,Texas,342676.1654410855,71827,New Braunfels,Texas,122492
-267,356,Cambridge,Massachusetts,1038098.0345976396,28317,Cambridge,Massachusetts,122588
-268,357,Carlsbad,California,1548772.4860354902,2921,Carlsbad,California,112260
-269,359,Perris,California,542997.003569336,3173,Perris,California,83237
-270,360,West Jordan,Utah,549406.8166575603,74448,West Jordan,Utah,116812
-271,361,Vista,California,873300.1059976815,3311,Vista,California,98274
-272,362,Fairfield,California,595662.3900888567,2995,Fairfield,California,122489
-273,363,Hillsboro,Oregon,506572.8279397897,60862,Hillsboro,Oregon,111126
-274,364,Waco,Texas,191915.3633928436,72218,Waco,Texas,147788
-275,365,Richardson,Texas,432748.8727551115,71980,Richardson,Texas,118542
-276,368,Lowell,Massachusetts,476490.9614553591,28333,Lowell,Massachusetts,119971
-277,369,Costa Mesa,California,1424599.564299513,2953,Costa Mesa,California,108881
-278,370,Santa Barbara,California,1850615.7838675568,3248,Santa Barbara,California,86422
-279,371,Rock Hill,South Carolina,317594.934433717,67381,Rock Hill,South Carolina,75911
-280,372,Waterbury,Connecticut,283927.41273481754,4658,Waterbury,Connecticut,115771
-281,373,Downey,California,878142.1677688016,2974,Downey,California,108468
-282,374,League City,Texas,370292.0046133169,71681,League City,Texas,119905
-283,375,Pflugerville,Texas,358097.7618253326,71910,Pflugerville,Texas,68316
-284,376,Provo,Utah,476073.9669454754,74388,Provo,Utah,114527
-285,377,Ventura,California,889164.2848363317,3914,Ventura,California,830851
-286,378,Lexington,South Carolina,303963.4669879934,67701,Lexington,South Carolina,317588
-287,380,Antioch,California,586725.1316934859,2870,Antioch,California,118958
-288,381,Redding,California,385779.4550681768,3198,Redding,California,94092
-289,382,Kennesaw,Georgia,397719.2330334826,6270,Kennesaw,Georgia,37970
-290,383,El Monte,California,748967.1077575997,2984,El Monte,California,105075
-291,384,North Charleston,South Carolina,306962.92333906307,67347,North Charleston,South Carolina,129245
-292,385,West Covina,California,831533.1219533904,3318,West Covina,California,105301
-293,386,Pompano Beach,Florida,352596.2081727243,5364,Pompano Beach,Florida,117211
-294,387,San Leandro,California,798070.7330115371,3239,San Leandro,California,85353
-295,388,Vacaville,California,597512.6081533289,3305,Vacaville,California,103850
-296,389,High Point,North Carolina,246451.9394339286,49762,High Point,North Carolina,120571
-297,391,Winter Haven,Florida,270796.4903296902,5451,Winter Haven,Florida,62313
-298,392,Grand Junction,Colorado,416766.5623325417,4043,Grand Junction,Colorado,71827
-299,393,Miami Gardens,Florida,478844.5607096755,5291,Miami Gardens,Florida,113579
-300,394,Centennial,Colorado,624632.5738311632,3975,Centennial,Colorado,108658
-301,396,Menifee,California,580084.6974173518,3115,Menifee,California,118592
-302,397,Hesperia,California,458471.7664784589,3035,Hesperia,California,102605
-303,398,Bothell,Washington,964518.730012372,75893,Bothell,Washington,52199
-304,399,San Mateo,California,1692923.7192304183,3243,San Mateo,California,103337
-305,400,Douglasville,Georgia,298994.6090952833,6164,Douglasville,Georgia,41523
-306,402,Green Bay,Wisconsin,281944.3385462204,77319,Green Bay,Wisconsin,106675
-307,403,Lynnwood,Washington,729313.1597954907,76006,Lynnwood,Washington,42132
-308,406,Madera,California,421885.29983090615,3104,Madera,California,69017
-309,407,Greenville,North Carolina,233551.165522712,49741,Greenville,North Carolina,96443
-310,408,Burbank,California,1165754.6115613466,2909,Burbank,California,102988
-311,409,Baytown,Texas,242416.42763764423,71142,Baytown,Texas,86561
-312,410,Davie,Florida,516351.3344656876,5129,Davie,Florida,110851
-313,412,Edison,New Jersey,632153.9997679628,45304,Edison,New Jersey,109077
-314,414,Greeley,Colorado,409819.0249547477,4045,Greeley,Colorado,115073
-315,416,Merced,California,391661.9259825868,3117,Merced,California,99724
-316,417,Rockville,Maryland,592824.09652876,28071,Rockville,Maryland,67563
-317,418,Longmont,Colorado,539286.8109391849,4093,Longmont,Colorado,100109
-318,419,Sandy Springs,Georgia,685551.1832056657,6431,Sandy Springs,Georgia,105013
-319,420,Missouri City,Texas,327415.94910303905,71787,Missouri City,Texas,77327
-320,421,Gaithersburg,Maryland,511047.5540237944,28003,Gaithersburg,Maryland,71113
-321,422,Chapel Hill,North Carolina,618649.8582237813,49633,Chapel Hill,North Carolina,63565
-322,423,Woodstock,Georgia,449626.0726236909,6537,Woodstock,Georgia,39895
-323,424,Daly City,California,1135439.3152930995,2961,Daly City,California,101261
-324,425,Jurupa Valley,California,671519.5440811291,3056,Jurupa Valley,California,107311
-325,426,Idaho Falls,Idaho,389411.2748516477,7555,Idaho Falls,Idaho,71785
-326,427,Rio Rancho,New Mexico,357391.40904881264,45943,Rio Rancho,New Mexico,114419
-327,428,Apopka,Florida,392149.9520002762,5053,Apopka,Florida,65552
-328,429,Davenport,Iowa,193386.52899517264,19325,Davenport,Iowa,100358
-329,432,Brockton,Massachusetts,502009.7064434938,28316,Brockton,Massachusetts,106134
-330,433,Wichita Falls,Texas,172411.7614371009,72260,Wichita Falls,Texas,101951
-331,434,Longview,Texas,229791.2556709912,71712,Longview,Texas,83236
-332,435,Norwalk,California,756260.6863943255,3147,Norwalk,California,97104
-333,436,Plainfield,Illinois,424625.5970943069,8896,Plainfield,Illinois,50043
-334,437,Parker,Colorado,668674.5861217872,4138,Parker,Colorado,65985
-335,438,Rialto,California,588291.1483577375,3203,Rialto,California,106554
-336,439,Roswell,Georgia,646743.675362002,6425,Roswell,Georgia,91505
-337,441,Lafayette,Indiana,264133.2462912908,15577,Lafayette,Indiana,71238
-338,444,Federal Way,Washington,573797.5515880306,75953,Federal Way,Washington,99729
-339,446,Elkhart,Indiana,230022.30769558056,15473,Elkhart,Indiana,54092
-340,449,Fayetteville,Arkansas,379540.1310576641,1838,Fayetteville,Arkansas,106623
-341,450,Gastonia,North Carolina,270804.0809314222,49725,Gastonia,North Carolina,87067
-342,455,Kennewick,Washington,423728.8172627853,75983,Kennewick,Washington,88366
-343,457,Lawton,Oklahoma,143238.99793724998,59689,Lawton,Oklahoma,90503
-344,458,Champaign,Illinois,233907.641009664,8165,Champaign,Illinois,91195
-345,459,Clermont,Florida,425229.1623891526,5110,Clermont,Florida,52812
-346,460,Lynchburg,Virginia,261351.769802518,75323,Lynchburg,Virginia,81347
-347,461,Sandy,Utah,653720.4371340813,74405,Sandy,Utah,92386
-348,462,Redwood City,California,1907047.646036825,3201,Redwood City,California,82178
-349,463,Fishers,Indiana,443133.4863334972,15487,Fishers,Indiana,104812
-350,464,Carmel,Indiana,574899.1464562708,15397,Carmel,Indiana,105634
-351,466,Livermore,California,1063376.8498093945,3087,Livermore,California,83457
-352,467,Canton,Georgia,506520.8864899911,6092,Canton,Georgia,40778
-353,469,Fort Mill,South Carolina,516569.2500707206,67256,Fort Mill,South Carolina,38673
-354,471,Lynn,Massachusetts,574287.0268740514,28334,Lynn,Massachusetts,104236
-355,474,Portsmouth,Virginia,265308.177947727,75362,Portsmouth,Virginia,96777
-356,475,Kenosha,Wisconsin,279721.777145683,77370,Kenosha,Wisconsin,99239
-357,476,Scranton,Pennsylvania,200581.25514822616,62129,Scranton,Pennsylvania,75514
-358,477,New Bedford,Massachusetts,437828.3548924382,28340,New Bedford,Massachusetts,101834
-359,480,Bowie,Maryland,513185.7334607834,27956,Bowie,Maryland,58383
-360,481,San Marcos,California,953540.8400138968,3241,San Marcos,California,94908
-361,482,Napa,California,853267.4744178117,3139,Napa,California,76562
-362,484,Annapolis,Maryland,617723.9503568389,27945,Annapolis,Maryland,40634
-363,486,San Angelo,Texas,206978.417206154,72038,San Angelo,Texas,100640
-364,488,Pittsburg,California,556230.2129946193,3179,Pittsburg,California,77542
-365,489,Chino,California,742096.885012169,2929,Chino,California,96957
-366,490,Johnson City,Tennessee,291666.67046543694,70298,Johnson City,Tennessee,74943
-367,491,Mission Viejo,California,1197504.6716227194,3121,Mission Viejo,California,90484
-368,492,Missoula,Montana,558936.2318274658,41666,Missoula,Montana,78903
-369,493,Newnan,Georgia,361071.4887218734,6353,Newnan,Georgia,45867
-370,494,Sunrise,Florida,358703.38638024445,5412,Sunrise,Florida,98846
-371,495,Hawthorne,California,869636.0657627602,3029,Hawthorne,California,82741
-372,496,Orem,Utah,495547.8175219996,74373,Orem,Utah,95214
-373,497,Rapid City,South Dakota,360378.9079169352,68072,Rapid City,South Dakota,80589
-374,498,Spokane Valley,Washington,401530.5522567613,76104,Spokane Valley,Washington,108405
-375,499,Livonia,Michigan,310770.34628225694,29143,Livonia,Michigan,92603
-376,501,Loveland,Colorado,490183.63717414415,4095,Loveland,Colorado,81387
-377,503,Indio,California,507811.1416637323,3048,Indio,California,94269
-378,505,Cheyenne,Wyoming,389025.9964776553,81122,Cheyenne,Wyoming,66507
-379,506,Valdosta,Georgia,211312.9737954534,6503,Valdosta,Georgia,56186
-380,508,South Gate,California,693815.6287784157,3276,South Gate,California,90071
-381,509,Gulfport,Mississippi,203567.0370803316,38124,Gulfport,Mississippi,76506
-382,510,Flagstaff,Arizona,651494.275180771,1487,Flagstaff,Arizona,77260
-383,511,Ogden,Utah,387098.8653582946,74370,Ogden,Utah,89510
-384,512,Apex,North Carolina,586718.8299025407,49554,Apex,North Carolina,80419
-385,513,Plantation,Florida,494008.3065677194,5360,Plantation,Florida,99183
-386,515,Fort Smith,Arkansas,189874.3737271425,1846,Fort Smith,Arkansas,90855
-387,516,Terre Haute,Indiana,157793.85833248784,15821,Terre Haute,Indiana,58764
-388,517,Holland,Michigan,367880.5854790054,29085,Holland,Michigan,35372
-389,519,Santa Monica,California,1677414.659378997,3254,Santa Monica,California,90082
-390,520,Goodyear,Arizona,460979.7455380524,1495,Goodyear,Arizona,125359
-391,521,Lacey,Washington,501787.7341491229,75990,Lacey,Washington,58833
-392,523,Bismarck,North Dakota,376045.5569509292,50939,Bismarck,North Dakota,77963
-393,524,Fort Pierce,Florida,276724.48207555874,5162,Fort Pierce,Florida,51737
-394,525,Manteca,California,570528.3296038028,3108,Manteca,California,96693
-395,528,Fall River,Massachusetts,446240.902710048,28322,Fall River,Massachusetts,95298
-396,530,Florissant,Missouri,192748.3259914801,39096,Florissant,Missouri,51124
-397,531,Palm Coast,Florida,344176.38407249795,5342,Palm Coast,Florida,109886
-398,532,Albany,Georgia,130661.8978480698,6015,Albany,Georgia,66907
-399,533,Macomb,Michigan,422440.9412473132,31091,Macomb,Michigan,886221
-400,534,Greenwood,Indiana,324653.01148804405,15525,Greenwood,Indiana,69349
-401,536,Duluth,Minnesota,290139.1358875105,32766,Duluth,Minnesota,88330
-402,537,Westminster,California,1093450.3440880743,3321,Westminster,California,88966
-403,540,Nashua,New Hampshire,502368.3917804453,43980,Nashua,New Hampshire,92435
-404,541,Appleton,Wisconsin,302521.8427678512,77119,Appleton,Wisconsin,75452
-405,543,Deltona,Florida,296800.81588362873,5137,Deltona,Florida,100267
-406,544,Harlingen,Texas,194880.385533807,71522,Harlingen,Texas,72467
-407,546,Greer,South Carolina,347547.53361788293,67271,Greer,South Carolina,50007
-408,547,Muncie,Indiana,153973.01441958034,15668,Muncie,Indiana,65466
-409,548,Waukegan,Illinois,245845.81852351944,9189,Waukegan,Illinois,87940
-410,551,Sanford,Florida,338349.6267600052,5390,Sanford,Florida,67483
-411,554,Clifton,New Jersey,600047.2026723386,44344,Clifton,New Jersey,91127
-412,555,Stafford,Virginia,544562.6960428096,75752,Stafford,Virginia,170803
-413,557,Warner Robins,Georgia,213607.1508119249,6516,Warner Robins,Georgia,87761
-414,559,Walnut Creek,California,994044.1435440182,3313,Walnut Creek,California,70012
-415,563,Jonesboro,Arkansas,224123.3506252643,1934,Jonesboro,Arkansas,83296
-416,564,San Ramon,California,1436135.4362249963,3246,San Ramon,California,86209
-417,565,Citrus Heights,California,467046.4604308219,2933,Citrus Heights,California,86348
-418,566,Mooresville,North Carolina,471966.90024121135,49868,Mooresville,North Carolina,55842
-419,567,Owensboro,Kentucky,211829.7759515985,25676,Owensboro,Kentucky,60892
-420,569,Victoria,Texas,212645.5010947229,72213,Victoria,Texas,66500
-421,573,Sioux City,Iowa,198667.70696284567,19907,Sioux City,Iowa,86356
-422,575,Poughkeepsie,New York,427976.8821835247,47345,Poughkeepsie,New York,45986
-423,576,Iowa City,Iowa,299413.2396071465,19524,Iowa City,Iowa,76229
-424,577,Buckeye,Arizona,389055.0331842199,1468,Buckeye,Arizona,125445
-425,579,Bloomington,Illinois,265772.2235755669,8069,Bloomington,Illinois,78804
-426,580,Danbury,Connecticut,488173.9250616861,4635,Danbury,Connecticut,89033
-427,581,Rancho Cordova,California,525260.3840607424,3192,Rancho Cordova,California,87554
-428,583,Newport Beach,California,3770005.26538602,3145,Newport Beach,California,81977
-429,584,Mission,Texas,215282.44500542065,71786,Mission,Texas,88992
-430,585,Brooklyn Park,Minnesota,340959.33415573643,32647,Brooklyn Park,Minnesota,83543
-431,587,Alpharetta,Georgia,707904.8884489835,6020,Alpharetta,Georgia,66921
-432,588,Westland,Michigan,210931.57044587424,29373,Westland,Michigan,82333
-433,589,Avondale,Arizona,390773.0436494432,1465,Avondale,Arizona,100983
-434,590,Cedar Park,Texas,451890.56351522607,71250,Cedar Park,Texas,79032
-435,591,Cicero,Illinois,279258.4523992675,8184,Cicero,Illinois,81858
-436,592,Kirkland,Washington,1135829.426417929,75986,Kirkland,Washington,97410
-437,593,Springdale,Arkansas,336305.54755157564,2114,Springdale,Arkansas,90685
-438,594,Eau Claire,Wisconsin,314581.0151583,77258,Eau Claire,Wisconsin,72465
-439,595,Hattiesburg,Mississippi,218733.36107233155,38128,Hattiesburg,Mississippi,48802
-440,596,Temple,Texas,242597.01838906147,72155,Temple,Texas,98412
-441,597,Deerfield Beach,Florida,272559.99675961264,5133,Deerfield Beach,Florida,89339
-442,598,Apple Valley,California,429044.0940996544,2871,Apple Valley,California,75247
-443,600,Valparaiso,Indiana,360519.6471050375,15835,Valparaiso,Indiana,35177
-444,601,Battle Creek,Michigan,181768.4939608993,28889,Battle Creek,Michigan,52021
-445,602,Buena Park,California,930671.5974409943,2908,Buena Park,California,81741
-446,606,Covina,California,787245.3800350657,2955,Covina,California,49404
-447,607,Watsonville,California,820588.8542921343,3316,Watsonville,California,50716
-448,608,Camarillo,California,905177.7778776708,2917,Camarillo,California,68652
-449,611,Farmington Hills,Michigan,380657.1481196834,29018,Farmington Hills,Michigan,83291
-450,612,Arlington Heights,Illinois,491430.9759866477,7996,Arlington Heights,Illinois,76216
-451,613,Smyrna,Georgia,437321.1187930121,6447,Smyrna,Georgia,57513
-452,614,Conway,Arkansas,247824.598860432,1784,Conway,Arkansas,72328
-453,615,Wake Forest,North Carolina,500280.6107290797,50050,Wake Forest,North Carolina,58147
-454,616,Mountain View,California,1962122.4852317544,3136,Mountain View,California,85438
-455,617,Des Plaines,Illinois,356408.0373746978,8259,Des Plaines,Illinois,58772
-456,618,Oviedo,Florida,503232.138962372,5335,Oviedo,Florida,41317
-457,619,Alhambra,California,912308.9608545098,2862,Alhambra,California,79820
-458,620,Evanston,Illinois,494577.2817646728,8333,Evanston,Illinois,76380
-459,621,Cranston,Rhode Island,452340.74877166445,67110,Cranston,Rhode Island,84647
-460,622,Westerville,Ohio,444580.94712594966,54673,Westerville,Ohio,38165
-461,623,Miami Beach,Florida,537083.5992788214,5290,Miami Beach,Florida,81594
-462,626,Upland,California,810363.2985728496,3304,Upland,California,79446
-463,628,Kingsport,Tennessee,253321.39917358052,70302,Kingsport,Tennessee,57530
-464,629,Carson,California,788964.0059621393,2924,Carson,California,90808
-465,630,Schaumburg,Illinois,357299.0436844568,9014,Schaumburg,Illinois,77249
-466,632,Lakewood,California,872154.9535540525,3071,Lakewood,California,78010
-467,633,Salisbury,North Carolina,277029.5406665213,49971,Salisbury,North Carolina,36879
-468,635,Johns Creek,Georgia,683819.0397405149,6267,Johns Creek,Georgia,80401
-469,636,Noblesville,Indiana,391172.3926430233,15692,Noblesville,Indiana,76111
-470,637,Turlock,California,479611.202514712,3299,Turlock,California,72864
-471,639,Pharr,Texas,160326.27067865303,71911,Pharr,Texas,80830
-472,640,Tustin,California,1140707.541170127,3300,Tustin,California,77843
-473,641,Parma,Ohio,214713.045122664,54441,Parma,Ohio,78581
-474,642,Milpitas,California,1388850.739473501,3120,Milpitas,California,78596
-475,643,Yuba City,California,435579.0340538311,3338,Yuba City,California,69485
-476,644,Lodi,California,506703.7523867841,3089,Lodi,California,69100
-477,647,State College,Pennsylvania,412007.1520967826,62193,State College,Pennsylvania,40844
-478,650,Marysville,Washington,606390.4103193918,76013,Marysville,Washington,77686
-479,651,Lake Forest,California,1165081.8797525223,3069,Lake Forest,California,86333
-480,653,Porterville,California,327643.94546174904,3187,Porterville,California,63088
-481,654,Lake Elsinore,California,580997.4378655992,3068,Lake Elsinore,California,75067
-482,655,Plant City,Florida,335960.4064708273,5361,Plant City,Florida,44118
-483,656,Hoover,Alabama,434933.4043658917,214,Hoover,Alabama,93550
-484,659,Dalton,Georgia,236468.28323085493,6142,Dalton,Georgia,35322
-485,660,Rome,Georgia,229841.5702367636,6422,Rome,Georgia,38934
-486,661,Somerville,Massachusetts,911857.5253664228,28353,Somerville,Massachusetts,84211
-487,663,Folsom,California,750809.1355568726,3000,Folsom,California,91983
-488,664,Bellflower,California,796077.4775011963,2890,Bellflower,California,74719
-489,666,Layton,Utah,516743.4466762117,74324,Layton,Utah,85308
-490,668,Rogers,Arkansas,377977.1414899631,2086,Rogers,Arkansas,76956
-491,669,Castle Rock,Colorado,653052.9552068961,3973,Castle Rock,Colorado,83815
-492,670,Olympia,Washington,520047.903832489,76049,Olympia,Washington,56724
-493,673,Tulare,California,355283.43304188503,3297,Tulare,California,73907
-494,674,Redlands,California,634223.7737508338,3199,Redlands,California,74128
-495,675,Bozeman,Montana,716411.4087851628,41597,Bozeman,Montana,58814
-496,678,Dothan,Alabama,202321.1741065561,116,Dothan,Alabama,72060
-497,682,Jupiter,Florida,714735.9032750167,5225,Jupiter,Florida,62350
-498,683,Madison,Alabama,373930.6229209289,265,Madison,Alabama,67968
-499,684,Leander,Texas,411734.6267365259,71683,Leander,Texas,91132
-500,685,La Mesa,California,886585.0973510869,3072,La Mesa,California,59914
-501,686,Racine,Wisconsin,216133.6040143788,77545,Racine,Wisconsin,77908
-502,687,Hagerstown,Maryland,297001.7176494433,28013,Hagerstown,Maryland,44228
-503,688,Rochester Hills,Michigan,460998.9592155742,29278,Rochester Hills,Michigan,77539
-504,689,Southfield,Michigan,246605.35787525176,29314,Southfield,Michigan,76111
-505,690,White Plains,New York,802519.5446396662,46724,White Plains,New York,62871
-506,691,Binghamton,New York,189768.3073845064,46195,Binghamton,New York,46418
-507,693,Pleasanton,California,1494916.7721585054,3183,Pleasanton,California,74556
-508,694,Bremerton,Washington,475577.13483162224,75894,Bremerton,Washington,45482
-509,697,New Rochelle,New York,943082.8798543812,46508,New Rochelle,New York,85864
-510,698,Brentwood,California,775842.1751599178,2905,Brentwood,California,66607
-511,699,Pawtucket,Rhode Island,393854.7232123222,67113,Pawtucket,Rhode Island,77065
-512,700,Hot Springs,Arkansas,240717.4478582537,1916,Hot Springs,Arkansas,37979
-513,702,Flower Mound,Texas,594819.6257762845,71436,Flower Mound,Texas,79540
-514,703,Chino Hills,California,965462.8678541392,2930,Chino Hills,California,77519
-515,704,New Britain,Connecticut,308033.3244068849,4648,New Britain,Connecticut,76286
-516,706,Caldwell,Idaho,398251.7922986,7492,Caldwell,Idaho,76629
-517,707,Gary,Indiana,88808.32647387976,15505,Gary,Indiana,67289
-518,708,Palm Beach Gardens,Florida,703917.5111370786,5340,Palm Beach Gardens,Florida,63883
-519,709,Queen Creek,Arizona,626011.868070037,1524,Queen Creek,Arizona,89770
-520,710,Petaluma,California,896877.526344493,3174,Petaluma,California,59688
-521,711,Great Falls,Montana,337010.5019234705,41637,Great Falls,Montana,60208
-522,713,Warwick,Rhode Island,419161.4526815308,67115,Warwick,Rhode Island,84187
-523,714,South Jordan,Utah,654836.7742030673,74414,South Jordan,Utah,87614
-524,715,Davis,California,827846.4784509306,2964,Davis,California,66110
-525,716,North Port,Florida,304326.94360310794,5317,North Port,Florida,96551
-526,718,Lauderhill,Florida,208022.34046401992,5254,Lauderhill,Florida,75668
-527,719,Aiken,South Carolina,273990.10881586507,67460,Aiken,South Carolina,181515
-528,722,Broomfield,Colorado,614097.0109122165,3963,Broomfield,Colorado,79174
-529,725,Mount Vernon,New York,596431.4431824394,46491,Mount Vernon,New York,72304
-530,726,Brick,New Jersey,521622.39623267454,45579,Brick,New Jersey,77402
-531,727,Kokomo,Indiana,181965.63977221632,15572,Kokomo,Indiana,59999
-532,728,Baldwin Park,California,707752.7838566027,2885,Baldwin Park,California,68880
-533,731,Utica,New York,209087.85058905603,46686,Utica,New York,62978
-534,732,Lakeville,Minnesota,477469.1918890989,32990,Lakeville,Minnesota,79270
-535,734,Daytona Beach,Florida,245731.81303700985,5130,Daytona Beach,Florida,88471
-536,735,Wilkes-Barre,Pennsylvania,184833.3651746211,62320,Wilkes-Barre,Pennsylvania,44523
-537,737,Grants Pass,Oregon,393274.0629691855,60851,Grants Pass,Oregon,39239
-538,738,Lebanon,Pennsylvania,289213.4574245525,65160,Lebanon,Pennsylvania,146380
-539,740,San Rafael,California,1320989.4036871332,3245,San Rafael,California,59410
-540,742,Bossier City,Louisiana,227640.1130611704,26600,Bossier City,Louisiana,63259
-541,743,North Little Rock,Arkansas,164313.1814281029,2027,North Little Rock,Arkansas,65120
-542,744,Casper,Wyoming,308861.1731660585,81121,Casper,Wyoming,58771
-543,745,Framingham,Massachusetts,650426.449775458,28324,Framingham,Massachusetts,73021
-544,746,Bolingbrook,Illinois,369369.4089458968,8074,Bolingbrook,Illinois,74803
-545,748,West Lafayette,Indiana,360899.5959537912,15860,West Lafayette,Indiana,45747
-546,749,Council Bluffs,Iowa,224869.9498533781,19307,Council Bluffs,Iowa,62680
-547,750,Harrisonburg,Virginia,350519.715009018,75296,Harrisonburg,Virginia,50839
-548,751,Hendersonville,Tennessee,511921.7062397296,70280,Hendersonville,Tennessee,64266
-549,752,Corvallis,Oregon,551385.0872321517,60813,Corvallis,Oregon,61499
-550,754,Yorba Linda,California,1394912.075381643,3335,Yorba Linda,California,65632
-551,755,Huntersville,North Carolina,539095.0529998918,49775,Huntersville,North Carolina,68535
-552,756,Auburn,Alabama,415731.6790818832,25,Auburn,Alabama,85113
-553,757,Maple Grove,Minnesota,418474.95866794366,33046,Maple Grove,Minnesota,73893
-554,758,Waterloo,Iowa,144755.96309943552,20003,Waterloo,Iowa,66919
-555,759,Hickory,North Carolina,290831.3426961575,49760,Hickory,North Carolina,45975
-556,760,Winter Garden,Florida,564334.8234420292,5450,Winter Garden,Florida,48063
-557,762,Hanford,California,380277.6062208363,3027,Hanford,California,62229
-558,763,Lehi,Utah,563475.7238415369,74327,Lehi,Utah,95313
-559,765,Palatine,Illinois,389091.5645644648,8854,Palatine,Illinois,65842
-560,766,Passaic,New Jersey,550889.315147847,44502,Passaic,New Jersey,71337
-561,767,Dubuque,Iowa,245750.01705396967,19358,Dubuque,Iowa,59148
-562,768,Huntington Park,California,668317.449091975,3043,Huntington Park,California,51544
-563,769,Stockbridge,Georgia,287007.5666102408,6459,Stockbridge,Georgia,36331
-564,771,North Richland Hills,Texas,362533.5268204656,71849,North Richland Hills,Texas,70843
-565,773,Tamarac,Florida,289086.6337022096,5416,Tamarac,Florida,74134
-566,774,Snohomish,Washington,888528.1729438951,76416,Snohomish,Washington,870656
-567,775,Hammond,Indiana,176405.00183770797,15531,Hammond,Indiana,75712
-568,779,Ames,Iowa,298143.69006926223,19143,Ames,Iowa,68220
-569,781,Blaine,Minnesota,376324.0648758536,32627,Blaine,Minnesota,76603
-570,783,Redondo Beach,California,1475219.9814924176,3200,Redondo Beach,California,67281
-571,784,Palo Alto,California,3664292.697397692,3166,Palo Alto,California,67609
-572,785,East Orange,New Jersey,479575.5828132005,44356,East Orange,New Jersey,72159
-573,787,Dover,Delaware,339787.8088810776,4935,Dover,Delaware,40592
-574,789,Jefferson City,Missouri,277563.2343355103,39233,Jefferson City,Missouri,42489
-575,791,Alameda,California,1152811.9037955855,2860,Alameda,California,76876
-576,792,Norristown,Pennsylvania,330490.0760339782,61984,Norristown,Pennsylvania,35911
-577,794,Eagan,Minnesota,394937.9634889739,32771,Eagan,Minnesota,67109
-578,795,Cookeville,Tennessee,317109.0582436701,70207,Cookeville,Tennessee,38212
-579,796,Portland,Maine,546949.0596091632,27332,Portland,Maine,69911
-580,797,Union City,California,1189097.1404925296,3303,Union City,California,65282
-581,798,Woodland,California,548644.1280439025,3333,Woodland,California,62513
-582,801,Littleton,Colorado,609387.7774701742,4089,Littleton,Colorado,46246
-583,802,Waukesha,Wisconsin,419595.9087936135,77663,Waukesha,Wisconsin,70872
-584,806,Weatherford,Texas,391637.3238444317,72228,Weatherford,Texas,40634
-585,808,Maricopa,Arizona,338366.1164384641,1507,Maricopa,Arizona,78362
-586,810,Bellevue,Nebraska,298048.6202471582,41998,Bellevue,Nebraska,64863
-587,811,Casa Grande,Arizona,313744.0528614447,1472,Casa Grande,Arizona,69753
-588,812,Haverhill,Massachusetts,540992.4310706098,28329,Haverhill,Massachusetts,68361
-589,816,Shawnee,Kansas,422026.9138146253,21801,Shawnee,Kansas,69848
-590,817,Doral,Florida,542039.4301752056,5139,Doral,Florida,81634
-591,818,Arcadia,California,1360201.0924250989,2872,Arcadia,California,54117
-592,819,Kenner,Louisiana,255883.0008892148,26718,Kenner,Louisiana,65136
-593,820,Lynwood,California,689395.6565593411,3102,Lynwood,California,63512
-594,822,Tigard,Oregon,596072.8567146558,60982,Tigard,Oregon,57929
-595,823,Oshkosh,Wisconsin,258325.4603535765,77506,Oshkosh,Wisconsin,67460
-596,824,Grove City,Ohio,329631.08632157743,54126,Grove City,Ohio,45180
-597,825,Weston,Florida,717774.3234552414,5440,Weston,Florida,69588
-598,826,Manhattan,Kansas,291892.8856395401,21629,Manhattan,Kansas,54673
-599,828,Gilroy,California,1042616.0623511744,3014,Gilroy,California,60764
-600,830,Vineland,New Jersey,304719.78721557534,44586,Vineland,New Jersey,62703
-601,831,Lorain,Ohio,154050.55608566248,54238,Lorain,Ohio,65366
-602,832,Pocatello,Idaho,337951.4660063384,7617,Pocatello,Idaho,58771
-603,834,Bluffton,South Carolina,497660.4113959169,67201,Bluffton,South Carolina,36807
-604,835,Malden,Massachusetts,664414.6562521596,28335,Malden,Massachusetts,66370
-605,837,West Des Moines,Iowa,317544.0193251623,20022,West Des Moines,Iowa,74224
-606,838,Rocklin,California,684759.3208282888,3211,Rocklin,California,76821
-607,839,Orland Park,Illinois,410512.6634304349,8849,Orland Park,Illinois,57954
-608,841,Port Orange,Florida,337565.5285984805,5367,Port Orange,Florida,66395
-609,843,Sammamish,Washington,1462545.4869312886,76087,Sammamish,Washington,66110
-610,844,Midland,Michigan,246810.3987781164,29183,Midland,Michigan,42806
-611,845,Medina,Ohio,379092.1335734649,57474,Medina,Ohio,185025
-612,847,Eastvale,California,924865.6367390436,2979,Eastvale,California,70594
-613,849,Prescott,Arizona,591507.3010650725,1521,Prescott,Arizona,48420
-614,851,West Hartford,Connecticut,500783.5385780127,4703,West Hartford,Connecticut,64242
-615,853,Little Elm,Texas,386192.4951499139,71699,Little Elm,Texas,62727
-616,854,Statesboro,Georgia,269005.886804102,6456,Statesboro,Georgia,35366
-617,856,Decatur,Alabama,219249.8336841632,111,Decatur,Alabama,58056
-618,857,Waltham,Massachusetts,805925.36301173,28357,Waltham,Massachusetts,65037
-619,859,South San Francisco,California,1233037.349237568,3279,South San Francisco,California,64941
-620,860,Mansfield,Ohio,152166.44323615657,54270,Mansfield,Ohio,47381
-621,861,San Luis Obispo,California,1086813.3874341834,3240,San Luis Obispo,California,50636
-622,862,Crown Point,Indiana,360339.5057268627,15437,Crown Point,Indiana,35616
-623,863,La Crosse,Wisconsin,281950.2807386378,77380,La Crosse,Wisconsin,50784
-624,865,Burnsville,Minnesota,361514.3750184428,32662,Burnsville,Minnesota,65244
-625,869,West Chester,Ohio,417577.04892246966,55168,West Chester,Ohio,67165
-626,870,Valley Stream,New York,768371.5527299267,46689,Valley Stream,New York,40379
-627,871,Biloxi,Mississippi,237156.8774682897,38040,Biloxi,Mississippi,48516
-628,872,Laguna Niguel,California,1482575.380046526,3064,Laguna Niguel,California,64107
-629,873,Niagara Falls,New York,168250.7146489128,46512,Niagara Falls,New York,47255
-630,874,Dublin,California,1206586.7389413535,2976,Dublin,California,71602
-631,877,Eden Prairie,Minnesota,495416.42591933993,32779,Eden Prairie,Minnesota,63075
-632,878,Goldsboro,North Carolina,187426.40898029777,49731,Goldsboro,North Carolina,35012
-633,879,Coon Rapids,Minnesota,324533.62848267454,32720,Coon Rapids,Minnesota,64193
-634,880,San Gabriel,California,1088791.1772498728,3232,San Gabriel,California,38186
-635,881,Taylor,Michigan,176520.23330501645,29338,Taylor,Michigan,61279
-636,884,Hilliard,Ohio,379558.7217410064,54157,Hilliard,Ohio,38898
-637,885,Mount Juliet,Tennessee,554874.5456665138,70358,Mount Juliet,Tennessee,45172
-638,887,Brookline,Massachusetts,1260771.0127482463,28710,Brookline,Massachusetts,63414
-639,888,Commerce City,Colorado,474254.74719365104,3987,Commerce City,Colorado,72345
-640,889,Fond du Lac,Wisconsin,261271.23351267944,77288,Fond du Lac,Wisconsin,44541
-641,892,Ankeny,Iowa,336028.1089030267,19148,Ankeny,Iowa,77833
-642,893,Euless,Texas,348447.2502405175,71416,Euless,Texas,60008
-643,894,Youngstown,Ohio,69968.05562325683,54722,Youngstown,Ohio,58832
-644,895,Dearborn Heights,Michigan,210605.25890826425,28979,Dearborn Heights,Michigan,60664
-645,896,Elyria,Ohio,185490.5195733922,54048,Elyria,Ohio,53634
-646,900,Skokie,Illinois,427671.9453615987,9044,Skokie,Illinois,66544
-647,901,Janesville,Wisconsin,292537.0018837184,77360,Janesville,Wisconsin,66929
-648,902,Montebello,California,817611.9366335003,3126,Montebello,California,60693
-649,903,Panama City,Florida,280266.3264342486,5347,Panama City,Florida,37806
-650,906,Phenix City,Alabama,211043.3418461985,333,Phenix City,Alabama,38344
-651,907,La Habra,California,898771.8353653284,3066,La Habra,California,60908
-652,909,Florence,Alabama,213240.70342174373,147,Florence,Alabama,42581
-653,910,Medford,Massachusetts,811246.0130339717,28337,Medford,Massachusetts,59834
-654,911,Altamonte Springs,Florida,289027.28948412806,5049,Altamonte Springs,Florida,48000
-655,913,Pico Rivera,California,746473.334971062,3175,Pico Rivera,California,58915
-656,914,Downers Grove,Illinois,501748.46425203286,8275,Downers Grove,Illinois,50365
-657,916,Bentonville,Arkansas,486710.9920309552,1723,Bentonville,Arkansas,63057
-658,917,Novato,California,1063413.15442816,3148,Novato,California,51947
-659,918,Pontiac,Michigan,134200.3942193871,29257,Pontiac,Michigan,62077
-660,920,Wylie,Texas,404364.8526254848,72287,Wylie,Texas,63842
-661,921,Encinitas,California,1936633.8380975013,2988,Encinitas,California,60736
-662,922,San Clemente,California,1757242.7415855292,3226,San Clemente,California,62226
-663,923,Wellington,Florida,662857.2175350072,5436,Wellington,Florida,62662
-664,925,Greenwich,Connecticut,2432982.2249550256,4901,Greenwich,Connecticut,64801
-665,927,Hamden,Connecticut,363385.1773092246,4837,Hamden,Connecticut,61824
-666,928,Altoona,Pennsylvania,136416.3907268315,61353,Altoona,Pennsylvania,42347
-667,929,Piscataway,New Jersey,593125.5927883409,45324,Piscataway,New Jersey,62253
-668,930,Grand Forks,North Dakota,303174.63343842473,51040,Grand Forks,North Dakota,60365
-669,932,Gardena,California,778668.3473699972,3012,Gardena,California,58460
-670,933,Azusa,California,704076.7412335832,2883,Azusa,California,47447
-671,934,Novi,Michigan,462598.0989640132,29221,Novi,Michigan,67319
-672,935,Monterey Park,California,906273.8888860918,3128,Monterey Park,California,57457
-673,937,Mishawaka,Indiana,211348.63615328408,15642,Mishawaka,Indiana,51226
-674,938,Bristol,Connecticut,346983.58212505904,4634,Bristol,Connecticut,62341
-675,940,Joplin,Missouri,204612.1723831352,39237,Joplin,Missouri,53930
-676,941,Taylorsville,Utah,487543.195801865,74427,Taylorsville,Utah,57484
-677,943,Irvington,New Jersey,420266.4004237889,45107,Irvington,New Jersey,62233
-678,945,West Allis,Wisconsin,271258.98525176296,77674,West Allis,Wisconsin,60119
-679,947,New Castle,Delaware,276200.4644439097,4998,New Castle,Delaware,588026
-680,952,North Miami,Florida,427077.7293777967,5314,North Miami,Florida,60884
-681,954,Meriden,Connecticut,323846.3266517178,4644,Meriden,Connecticut,60810
-682,957,Hoboken,New Jersey,916860.4890333444,44415,Hoboken,New Jersey,59027
-683,958,Rosemead,California,890367.3091584357,3215,Rosemead,California,49410
-684,959,Texarkana,Texas,202271.6553540237,72159,Texarkana,Texas,36195
-685,960,Manchester,Connecticut,331653.0062774307,4687,Manchester,Connecticut,59773
-686,961,Lompoc,California,598759.3482058174,3092,Lompoc,California,43315
-687,962,Coeur d'Alene,Idaho,602459.9132748861,7502,Coeur d'Alene,Idaho,58179
-688,965,Helena,Montana,474104.2475270885,41643,Helena,Montana,35138
-689,966,Farmington,New Mexico,285379.5924822651,45901,Farmington,New Mexico,46055
-690,967,Oak Lawn,Illinois,300297.9954138124,8819,Oak Lawn,Illinois,56450
-691,970,Tinley Park,Illinois,335634.9842823404,9121,Tinley Park,Illinois,55140
-692,971,Wheaton,Illinois,508882.0849937017,9211,Wheaton,Illinois,54065
-693,972,Goose Creek,South Carolina,318196.0448509459,67264,Goose Creek,South Carolina,52010
-694,973,Hempstead,New York,646284.4112740856,46374,Hempstead,New York,59819
-695,976,Taunton,Massachusetts,516007.4082460837,28356,Taunton,Massachusetts,62522
-696,977,Edmonds,Washington,892668.5447714353,75940,Edmonds,Washington,42748
-697,980,Bayonne,New Jersey,590999.0802176436,44306,Bayonne,New Jersey,74744
-698,981,Twin Falls,Idaho,368594.7399567599,7655,Twin Falls,Idaho,56216
-699,982,Lake Havasu City,Arizona,458981.61740013934,1503,Lake Havasu City,Arizona,59358
-700,985,Danville,California,1824108.8169790723,2963,Danville,California,43302
-701,986,Wilson,North Carolina,213483.1273568236,50080,Wilson,North Carolina,49572
-702,987,Ormond Beach,Florida,363439.5612109367,5333,Ormond Beach,Florida,44692
-703,988,Royal Oak,Michigan,323609.8662901,29290,Royal Oak,Michigan,57583
-704,991,Cupertino,California,3007135.193198036,2959,Cupertino,California,58333
-705,994,National City,California,690792.5425724706,3140,National City,California,57807
-706,995,Stillwater,Oklahoma,266204.7414853641,59879,Stillwater,Oklahoma,50046
-707,997,Waxahachie,Texas,365090.314877788,72227,Waxahachie,Texas,50090
-708,998,Mount Prospect,Illinois,448303.9012163056,8750,Mount Prospect,Illinois,55395
-709,999,Lenexa,Kansas,475400.8154800215,21587,Lenexa,Kansas,60506
-710,1001,Blacksburg,Virginia,407382.766218078,75212,Blacksburg,Virginia,45104
-711,1003,Freehold,New Jersey,648345.6307111509,45408,Freehold,New Jersey,36052
-712,1004,Apache Junction,Arizona,365843.3045420887,1464,Apache Junction,Arizona,45672
-713,1005,Margate,Florida,320488.850904801,5278,Margate,Florida,60070
-714,1009,Titusville,Florida,270795.6623033536,5422,Titusville,Florida,49800
-715,1010,Leesburg,Florida,272732.4991069844,5260,Leesburg,Florida,38905
-716,1012,Glenview,Illinois,693670.1884405619,8407,Glenview,Illinois,47711
-717,1013,Santee,California,792701.522188912,3257,Santee,California,58205
-718,1015,Bensalem,Pennsylvania,424042.85596966505,63282,Bensalem,Pennsylvania,62783
-719,1016,Mason,Ohio,503627.2020975195,54285,Mason,Ohio,35834
-720,1018,Kingman,Arizona,272911.0392606973,1502,Kingman,Arizona,35829
-721,1019,Kettering,Ohio,242729.01685849973,54197,Kettering,Ohio,57396
-722,1020,Midwest City,Oklahoma,167502.14825364863,59737,Midwest City,Oklahoma,58799
-723,1021,Colton,California,494263.6719292775,2943,Colton,California,53383
-724,1022,Berwyn,Illinois,318942.2721376092,8059,Berwyn,Illinois,55001
-725,1024,Fountain Valley,California,1384552.622812868,3006,Fountain Valley,California,55508
-726,1025,Oregon City,Oregon,586971.6975214869,60931,Oregon City,Oregon,38175
-727,1026,Bonita Springs,Florida,505222.2265898148,5081,Bonita Springs,Florida,57634
-728,1031,Coconut Creek,Florida,277668.6058262465,5115,Coconut Creek,Florida,58626
-729,1032,Olive Branch,Mississippi,330636.247250971,38208,Olive Branch,Mississippi,47563
-730,1035,Shoreline,Washington,769425.7332536746,76094,Shoreline,Washington,66542
-731,1037,Hollister,California,756721.4543569068,3039,Hollister,California,45695
-732,1038,Wyoming,Michigan,288569.11424295814,29386,Wyoming,Michigan,78588
-733,1042,La Puente,California,716090.7336260034,3076,La Puente,California,36423
-734,1043,Muskegon,Michigan,189898.9810980705,29202,Muskegon,Michigan,37224
-735,1044,Blue Springs,Missouri,307716.737873487,38888,Blue Springs,Missouri,61632
-736,1045,Revere,Massachusetts,605718.4343715789,28351,Revere,Massachusetts,60141
-737,1048,New Brunswick,New Jersey,442030.1819724138,44477,New Brunswick,New Jersey,57133
-738,1049,El Centro,California,391227.2506346077,2981,El Centro,California,44382
-739,1051,Grand Island,Nebraska,248851.9389610424,42158,Grand Island,Nebraska,53943
-740,1052,Wausau,Wisconsin,247242.2662202544,77668,Wausau,Wisconsin,40188
-741,1053,Garner,North Carolina,374515.9956464598,49722,Garner,North Carolina,41562
-742,1057,Port Arthur,Texas,126532.62757922588,71934,Port Arthur,Texas,55804
-743,1058,Lincoln,California,636744.0554648614,3084,Lincoln,California,57367
-744,1059,Palm Desert,California,538453.7518877911,3164,Palm Desert,California,53259
-745,1061,Chicopee,Massachusetts,318531.51377181144,28319,Chicopee,Massachusetts,55310
-746,1062,Anderson,Indiana,130860.1818011763,15337,Anderson,Indiana,56153
-747,1065,Alexandria,Louisiana,145289.8297361662,26576,Alexandria,Louisiana,42938
-748,1069,Beaumont,California,534030.4202618684,2888,Beaumont,California,60835
-749,1070,Brookhaven,Georgia,746577.9644570397,6074,Brookhaven,Georgia,59643
-750,1074,Delano,California,330936.8818276192,2965,Delano,California,52334
-751,1075,Perth Amboy,New Jersey,496722.6913020303,44509,Perth Amboy,New Jersey,56739
-752,1078,Kentwood,Michigan,328142.7908398092,29112,Kentwood,Michigan,54776
-753,1080,Collierville,Tennessee,498727.33050814254,70204,Collierville,Tennessee,51909
-754,1081,Mankato,Minnesota,299172.3341759257,33044,Mankato,Minnesota,46529
-755,1083,Nacogdoches,Texas,222353.292667615,73641,Nacogdoches,Texas,66035
-756,1084,Minot,North Dakota,276493.5227004373,51129,Minot,North Dakota,47308
-757,1085,Rocky Mount,North Carolina,184239.72399098644,49953,Rocky Mount,North Carolina,55120
-758,1087,Glendora,California,876013.6087543959,3016,Glendora,California,49671
-759,1090,Rowlett,Texas,358862.5569090287,72023,Rowlett,Texas,67890
-760,1091,Oak Park,Illinois,482078.4254956303,8820,Oak Park,Illinois,52823
-761,1092,San Jacinto,California,480416.67071277247,3234,San Jacinto,California,56014
-762,1097,Findlay,Ohio,243493.1586746616,54065,Findlay,Ohio,40370
-763,1100,Seminole,Florida,384656.8238606116,5943,Seminole,Florida,491884
-764,1102,West Sacramento,California,519377.2472503097,3323,West Sacramento,California,56216
-765,1104,Peabody,Massachusetts,688665.9727573324,28347,Peabody,Massachusetts,55953
-766,1105,Yucaipa,California,573596.0072047737,3339,Yucaipa,California,54953
-767,1109,Rosenberg,Texas,308030.47899803903,72016,Rosenberg,Texas,42701
-768,1110,West Haven,Connecticut,360812.1980655265,4659,West Haven,Connecticut,55351
-769,1115,Paramount,California,649018.1872844095,3169,Paramount,California,50755
-770,1118,Edina,Minnesota,617929.9407852845,32782,Edina,Minnesota,54356
-771,1119,Crystal Lake,Illinois,380171.1275922893,8229,Crystal Lake,Illinois,42288
-772,1120,Lombard,Illinois,386032.2214184206,8629,Lombard,Illinois,44399
-773,1122,Elizabethtown,Kentucky,264691.01680478663,25501,Elizabethtown,Kentucky,35448
-774,1126,Methuen,Massachusetts,614828.1469359644,28339,Methuen,Massachusetts,54584
-775,1127,West New York,New Jersey,462358.26600215695,44596,West New York,New Jersey,53192
-776,1129,Bloomfield,New Jersey,605025.7290439367,45095,Bloomfield,New Jersey,56375
-777,1131,Cuyahoga Falls,Ohio,215466.2983706573,54007,Cuyahoga Falls,Ohio,50975
-778,1132,Placentia,California,1101177.6220200686,3180,Placentia,California,54911
-779,1133,Mentor,Ohio,274277.9081351455,54295,Mentor,Ohio,47010
-780,1135,Sheboygan,Wisconsin,262422.7885021892,77589,Sheboygan,Wisconsin,49376
-781,1136,Galveston,Texas,314694.5457289048,71460,Galveston,Texas,53636
-782,1137,Highland,California,537962.7696363396,3037,Highland,California,57614
-783,1138,East Lansing,Michigan,312821.5401142889,28997,East Lansing,Michigan,49355
-784,1140,Draper,Utah,805317.0921211267,74249,Draper,Utah,50652
-785,1142,Normal,Illinois,262598.14303475845,8796,Normal,Illinois,53275
-786,1144,Plymouth,Massachusetts,649520.4942779989,28739,Plymouth,Massachusetts,546829
-787,1147,Lake Stevens,Washington,672269.9821236572,75994,Lake Stevens,Washington,42091
-788,1148,Kannapolis,North Carolina,273358.25837240927,49784,Kannapolis,North Carolina,61708
-789,1150,Prescott Valley,Arizona,453143.5986975751,1522,Prescott Valley,Arizona,52423
-790,1152,Morgan Hill,California,1313111.9325758724,3133,Morgan Hill,California,45625
-791,1155,Kyle,Texas,290448.57209053094,71646,Kyle,Texas,69917
-792,1156,Forney,Texas,301349.233348446,71440,Forney,Texas,41658
-793,1159,Enid,Oklahoma,134673.30216635417,59555,Enid,Oklahoma,50297
-794,1161,Cypress,California,1068637.1815923874,2960,Cypress,California,48781
-795,1162,Stratford,Connecticut,462280.8197058863,4716,Stratford,Connecticut,53908
-796,1164,Diamond Bar,California,998035.050403548,2969,Diamond Bar,California,51884
-797,1166,Sherman,Texas,245709.19718227847,72084,Sherman,Texas,52417
-798,1167,Pinellas Park,Florida,301654.29395839485,5359,Pinellas Park,Florida,52295
-799,1168,Aliso Viejo,California,977389.6744760048,2863,Aliso Viejo,California,49844
-800,1169,East Hartford,Connecticut,306381.7270700818,4677,East Hartford,Connecticut,50968
-801,1170,Issaquah,Washington,1072018.6798312992,75978,Issaquah,Washington,39423
-802,1172,Grapevine,Texas,546847.436777473,71498,Grapevine,Texas,50714
-803,1173,Belleville,Illinois,157516.07152541343,8045,Belleville,Illinois,40237
-804,1175,Seguin,Texas,267499.0574975713,72072,Seguin,Texas,41048
-805,1176,Wentzville,Missouri,400019.6466554026,39702,Wentzville,Missouri,49495
-806,1177,Hobbs,New Mexico,208075.81167625336,45911,Hobbs,New Mexico,40863
-807,1178,Brea,California,1114974.879347001,2904,Brea,California,47260
-808,1180,Quincy,Illinois,182158.87169359185,8921,Quincy,Illinois,38918
-809,1182,New Albany,Indiana,235102.09981154103,15673,New Albany,Indiana,37463
-810,1183,Dunwoody,Georgia,667502.4210233362,6168,Dunwoody,Georgia,51792
-811,1184,Lawrence,Indiana,265583.1409971928,15589,Lawrence,Indiana,50420
-812,1185,Poway,California,1203530.900084272,3191,Poway,California,49180
-813,1186,Post Falls,Idaho,532116.2826642677,7619,Post Falls,Idaho,46715
-814,1187,Sierra Vista,Arizona,297874.9702799491,1532,Sierra Vista,Arizona,44907
-815,1188,Minnetonka,Minnesota,478461.0754303385,33082,Minnetonka,Minnesota,53969
-816,1189,Burien,Washington,619814.5599972936,75900,Burien,Washington,51859
-817,1190,Cathedral City,California,473078.7815892185,2925,Cathedral City,California,52375
-818,1192,Salina,Kansas,177361.1696440454,21782,Salina,Kansas,46094
-819,1194,Benton,Arkansas,237136.6964966225,1722,Benton,Arkansas,38898
-820,1195,Georgetown,Kentucky,340760.41291204444,25532,Georgetown,Kentucky,40883
-821,1200,Cerritos,California,1083291.911643115,2927,Cerritos,California,46367
-822,1202,Hutchinson,Kansas,149044.05699416425,21543,Hutchinson,Kansas,39595
-823,1205,Southaven,Mississippi,271595.6921945673,38270,Southaven,Mississippi,57819
-824,1207,Shakopee,Minnesota,396781.5664629623,33268,Shakopee,Minnesota,49366
-825,1211,East Brunswick,New Jersey,621111.2369048542,45303,East Brunswick,New Jersey,50678
-826,1214,Cedar Hill,Texas,309412.8898561728,71249,Cedar Hill,Texas,49801
-827,1215,La Mirada,California,879128.2852296521,3073,La Mirada,California,45952
-828,1217,Coral Gables,Florida,1601228.9108349427,5118,Coral Gables,Florida,49578
-829,1222,West Orange,New Jersey,685853.5508661735,45122,West Orange,New Jersey,49557
-830,1223,Cleburne,Texas,264684.1527141472,71273,Cleburne,Texas,39942
-831,1224,Prattville,Alabama,266819.48712215427,348,Prattville,Alabama,40582
-832,1226,Barnstable,Massachusetts,710406.8659225618,28365,Barnstable,Massachusetts,233539
-833,1228,Everett,Massachusetts,617453.4490744976,28321,Everett,Massachusetts,53572
-834,1231,Hoffman Estates,Illinois,404270.5052669062,8490,Hoffman Estates,Illinois,50858
-835,1232,Wauwatosa,Wisconsin,418799.4006378769,77671,Wauwatosa,Wisconsin,48649
-836,1233,Martinez,California,750195.4044513606,3111,Martinez,California,36849
-837,1238,Milford,Connecticut,502109.3180525661,4661,Milford,Connecticut,53606
-838,1240,Newark,California,1164650.6737782191,3143,Newark,California,47895
-839,1241,Rexburg,Idaho,418133.21407155786,7625,Rexburg,Idaho,40334
-840,1242,Haines City,Florida,292173.3058642514,5186,Haines City,Florida,45973
-841,1243,Spring Hill,Tennessee,514780.8594249203,70442,Spring Hill,Tennessee,61336
-842,1244,Weslaco,Texas,173249.23938334887,72237,Weslaco,Texas,44203
-843,1248,Texas City,Texas,224669.4003961576,72160,Texas City,Texas,59733
-844,1249,Elmhurst,Illinois,631116.0233513415,8318,Elmhurst,Illinois,46111
-845,1250,Middletown,Connecticut,363839.4115827416,4645,Middletown,Connecticut,48439
-846,1252,Beavercreek,Ohio,330818.16360856144,53857,Beavercreek,Ohio,48134
-847,1255,Winter Springs,Florida,423369.822105359,5453,Winter Springs,Florida,39585
-848,1260,Urbana,Illinois,202706.204125468,9143,Urbana,Illinois,39719
-849,1261,Rockwall,Texas,464601.7766057623,72005,Rockwall,Texas,53980
-850,1262,Lake Oswego,Oregon,867018.7612553523,60885,Lake Oswego,Oregon,39722
-851,1268,East Providence,Rhode Island,441105.2919513605,67111,East Providence,Rhode Island,48249
-852,1276,Palm Springs,California,614522.236484862,3165,Palm Springs,California,45315
-853,1278,Los Banos,California,455760.4043415911,3099,Los Banos,California,49614
-854,1285,Jeffersonville,Indiana,251065.15347094988,15557,Jeffersonville,Indiana,54134
-855,1286,Hinesville,Georgia,235659.9879833396,6243,Hinesville,Georgia,36674
-856,1290,Arlington,Massachusetts,1054749.0974371822,28631,Arlington,Massachusetts,46563
-857,1292,Hackensack,New Jersey,474514.1572418131,44394,Hackensack,New Jersey,46380
-858,1293,Attleboro,Massachusetts,532674.2521532675,28310,Attleboro,Massachusetts,47447
-859,1296,Strongsville,Ohio,359746.0645588354,54591,Strongsville,Ohio,45629
-860,1304,Moorhead,Minnesota,282149.831922674,33089,Moorhead,Minnesota,46533
-861,1305,Ceres,California,447205.670401616,2926,Ceres,California,48982
-862,1306,Muskogee,Oklahoma,142451.96910298424,59753,Muskogee,Oklahoma,36760
-863,1308,Cleveland Heights,Ohio,206491.1826151509,53974,Cleveland Heights,Ohio,43750
-864,1309,Herriman,Utah,597390.6712149867,74293,Herriman,Utah,63282
-865,1310,Peachtree Corners,Georgia,531986.9445576033,6379,Peachtree Corners,Georgia,42519
-866,1315,Euclid,Ohio,147567.5821126336,54052,Euclid,Ohio,47962
-867,1317,Chesterfield,Michigan,324228.99029459705,31118,Chesterfield,Michigan,47770
-868,1323,Pine Bluff,Arkansas,68011.533177178,2059,Pine Bluff,Arkansas,38213
-869,1327,Bountiful,Utah,565798.2393079385,74220,Bountiful,Utah,44988
-870,1329,Freeport,New York,673822.8885558428,46334,Freeport,New York,44174
-871,1332,Haltom City,Texas,238869.7491241608,71516,Haltom City,Texas,45542
-872,1336,Rancho Santa Margarita,California,996359.9332596796,3196,Rancho Santa Margarita,California,45779
-873,1341,Moline,Illinois,149458.00183979698,8727,Moline,Illinois,42362
-874,1342,Oakland Park,Florida,371143.3537172945,5321,Oakland Park,Florida,45332
-875,1343,Spanish Fork,Utah,506470.13708564034,74418,Spanish Fork,Utah,48837
-876,1344,Wenatchee,Washington,486418.8929728668,76138,Wenatchee,Washington,35547
-877,1346,Riverton,Utah,613929.7385902144,74395,Riverton,Utah,47395
-878,1351,Owasso,Oklahoma,317010.22559636686,59787,Owasso,Oklahoma,43117
-879,1352,Ocoee,Florida,411470.59323427937,5325,Ocoee,Florida,51932
-880,1354,Hamburg,New York,314518.39932281413,47419,Hamburg,New York,60768
-881,1355,Wallingford,Connecticut,423765.5350383196,4849,Wallingford,Connecticut,44406
-882,1362,Pittsfield,Massachusetts,305308.8070452287,28348,Pittsfield,Massachusetts,42909
-883,1363,Burleson,Texas,332671.5321290292,71223,Burleson,Texas,56907
-884,1365,Orangeburg,South Carolina,166969.3511551722,67752,Orangeburg,South Carolina,83177
-885,1367,Walla Walla,Washington,409739.9235821282,76473,Walla Walla,Washington,62361
-886,1371,Oswego,Illinois,416963.13081141113,8850,Oswego,Illinois,39948
-887,1373,Okeechobee,Florida,285956.17472090124,5799,Okeechobee,Florida,42608
-888,1378,Linden,New Jersey,545445.8508460433,44437,Linden,New Jersey,45752
-889,1381,Southington,Connecticut,442793.1621867728,4697,Southington,Connecticut,44242
-890,1383,Brookfield,Wisconsin,520075.8970289582,77176,Brookfield,Wisconsin,41448
-891,1384,North Lauderdale,Florida,351371.97397596826,5313,North Lauderdale,Florida,45733
-892,1385,Oro Valley,Arizona,495947.842734638,1511,Oro Valley,Arizona,48085
-893,1389,Cutler Bay,Florida,565997.4000709034,5125,Cutler Bay,Florida,44750
-894,1390,Woonsocket,Rhode Island,382714.7785138297,67116,Woonsocket,Rhode Island,44580
-895,1392,Cape Girardeau,Missouri,220895.23438725612,38941,Cape Girardeau,Missouri,40977
-896,1394,Leominster,Massachusetts,462833.1363108447,28332,Leominster,Massachusetts,44194
-897,1402,Monrovia,California,970047.2752961428,3123,Monrovia,California,38264
-898,1403,North Brunswick,New Jersey,543430.2474931503,45320,North Brunswick,New Jersey,45097
-899,1405,The Colony,Texas,392781.2648228013,72163,The Colony,Texas,46196
-900,1406,Coppell,Texas,603753.7677104969,71300,Coppell,Texas,41386
-901,1407,Fitchburg,Massachusetts,397590.54801867175,28323,Fitchburg,Massachusetts,42136
-902,1408,Opelika,Alabama,305156.78323184483,319,Opelika,Alabama,35765
-903,1410,Campbell,California,1860488.5839146755,2918,Campbell,California,42490
-904,1414,San Bruno,California,1313862.6335580917,3223,San Bruno,California,42305
-905,1416,Milton,Georgia,936859.7720095614,6329,Milton,Georgia,41266
-906,1418,Enfield,Connecticut,334378.3309664351,4680,Enfield,Connecticut,41142
-907,1419,Salem,Massachusetts,603061.036633112,28352,Salem,Massachusetts,45381
-908,1421,Tonawanda,New York,254078.8192949711,47443,Tonawanda,New York,70853
-909,1423,Coachella,California,431346.4957508061,2939,Coachella,California,45411
-910,1424,Beloit,Wisconsin,206114.6982243059,77148,Beloit,Wisconsin,36649
-911,1427,Carol Stream,Illinois,381848.9820603437,8148,Carol Stream,Illinois,39315
-912,1431,North Miami Beach,Florida,458844.1388994988,5315,North Miami Beach,Florida,46236
-913,1432,Billerica,Massachusetts,692942.977419821,28637,Billerica,Massachusetts,42632
-914,1434,Bullhead City,Arizona,295831.4679702785,1469,Bullhead City,Arizona,43987
-915,1437,Bartlesville,Oklahoma,184297.26879417,59414,Bartlesville,Oklahoma,38278
-916,1439,Oakley,California,650585.8897982114,3151,Oakley,California,47583
-917,1442,Greenacres,Florida,283490.2508730827,5176,Greenacres,Florida,44736
-918,1445,Lenoir,North Carolina,207808.1717765917,50532,Lenoir,North Carolina,55837
-919,1447,Cibolo,Texas,326330.85148107767,71266,Cibolo,Texas,39019
-920,1448,Keller,Texas,642974.7532555136,71619,Keller,Texas,46078
-921,1449,Kearny,New Jersey,571767.4051467726,44424,Kearny,New Jersey,40862
-922,1450,Marlborough,Massachusetts,565977.2655599964,28336,Marlborough,Massachusetts,42772
-923,1452,Redmond,Oregon,505903.707360253,60944,Redmond,Oregon,38547
-924,1454,Urbandale,Iowa,346854.730175358,19977,Urbandale,Iowa,48570
-925,1455,Maplewood,Minnesota,338243.852516854,33051,Maplewood,Minnesota,40717
-926,1456,Bartlett,Illinois,438980.5773467308,8026,Bartlett,Illinois,40855
-927,1458,Friendswood,Texas,452602.4540381289,71449,Friendswood,Texas,41319
-928,1459,Teaneck,New Jersey,687931.6345869674,44846,Teaneck,New Jersey,43329
-929,1460,Shelton,Connecticut,557460.0866716418,4654,Shelton,Connecticut,42880
-930,1470,Marana,Arizona,414100.79120047885,1506,Marana,Arizona,65523
-931,1472,Tupelo,Mississippi,213560.2733371853,38289,Tupelo,Mississippi,38087
-932,1476,Upper Darby,Pennsylvania,193695.010854417,64401,Upper Darby,Pennsylvania,85458
-933,1478,Clifton Park,New York,482550.64516275673,48836,Clifton Park,New York,37775
-934,1479,Woburn,Massachusetts,747167.2982916143,28363,Woburn,Massachusetts,43962
-935,1480,Brighton,Colorado,484398.9426916608,3961,Brighton,Colorado,45395
-936,1481,New Berlin,Wisconsin,450439.4471797275,77475,New Berlin,Wisconsin,39953
-937,1484,Culver City,California,1283330.2089909855,2958,Culver City,California,39452
-938,1488,Streamwood,Illinois,332036.1099472977,9088,Streamwood,Illinois,38277
-939,1490,Eagle Mountain,Utah,498512.6373358375,74252,Eagle Mountain,Utah,66557
-940,1492,Sahuarita,Arizona,346454.4666283739,1526,Sahuarita,Arizona,37694
-941,1494,Germantown,Tennessee,476998.3364629574,70261,Germantown,Tennessee,40001
-942,1498,Holly Springs,North Carolina,570382.4518090504,49770,Holly Springs,North Carolina,50288
-943,1499,Duncanville,Texas,271964.2433906339,71379,Duncanville,Texas,38915
-944,1500,Hurst,Texas,330866.3394344056,71575,Hurst,Texas,38974
-945,1502,Norwich,Connecticut,303001.82838285586,4653,Norwich,Connecticut,40001
-946,1503,Copperas Cove,Texas,224340.41155147736,71301,Copperas Cove,Texas,40118
-947,1505,Bell Gardens,California,689911.9872066034,2891,Bell Gardens,California,37367
-948,1506,Park Ridge,Illinois,590076.1859772451,8869,Park Ridge,Illinois,38463
-949,1508,Indian Trail,North Carolina,407344.4074404637,49777,Indian Trail,North Carolina,44303
-950,1512,Chelsea,Massachusetts,519834.9069269193,28318,Chelsea,Massachusetts,40130
-951,1514,Reynoldsburg,Ohio,291760.09541868925,54494,Reynoldsburg,Ohio,43350
-952,1516,Lincoln Park,Michigan,151653.4945261451,29140,Lincoln Park,Michigan,38529
-953,1518,Aventura,Florida,419849.51296053664,5060,Aventura,Florida,39880
-954,1521,Rohnert Park,California,705347.34513604,3212,Rohnert Park,California,44811
-955,1523,Fort Lee,New Jersey,595904.8460323602,44380,Fort Lee,New Jersey,40345
-956,1524,Englewood,Colorado,494510.7187159546,4014,Englewood,Colorado,35305
-957,1527,Roy,Utah,426325.5968198975,74399,Roy,Utah,38794
-958,1534,Rancho Palos Verdes,California,1779990.179868671,3195,Rancho Palos Verdes,California,39654
-959,1535,Merrillville,Indiana,242186.54729100407,15630,Merrillville,Indiana,37407
-960,1539,Fairborn,Ohio,206525.24381022528,54054,Fairborn,Ohio,35754
-961,1545,Tucker,Georgia,381096.7470241078,6492,Tucker,Georgia,37290
-962,1548,Bettendorf,Iowa,338023.0919668108,19198,Bettendorf,Iowa,40710
-963,1550,La Vergne,Tennessee,341555.0458658576,70311,La Vergne,Tennessee,42146
-964,1551,Addison,Illinois,377790.8831966682,7963,Addison,Illinois,35758
-965,1553,Groton,Connecticut,443668.45048471,4868,Groton,Connecticut,39138
-966,1554,Romeoville,Illinois,320634.3522042208,8965,Romeoville,Illinois,41281
-967,1556,Buffalo Grove,Illinois,442505.1381247663,8108,Buffalo Grove,Illinois,42812
-968,1559,Holyoke,Massachusetts,329191.636591874,28330,Holyoke,Massachusetts,38023
-969,1561,Shrewsbury,Massachusetts,684656.4018397209,28837,Shrewsbury,Massachusetts,39627
-970,1562,Westfield,Indiana,474118.6525539512,15858,Westfield,Indiana,66258
-971,1563,Cullman,Alabama,262590.5041552051,637,Cullman,Alabama,94009
-972,1568,Moorpark,California,929282.5812950288,3130,Moorpark,California,35023
-973,1569,East Point,Georgia,228252.36328239072,6173,East Point,Georgia,38225
-974,1570,Menomonee Falls,Wisconsin,433886.9551174091,77434,Menomonee Falls,Wisconsin,41291
-975,1573,Cottage Grove,Minnesota,393960.97425519256,32724,Cottage Grove,Minnesota,43604
-976,1579,Beverly,Massachusetts,754799.9653365487,28312,Beverly,Massachusetts,43363
-977,1583,Manitowoc,Wisconsin,242315.61090689985,79279,Manitowoc,Wisconsin,81710
-978,1585,Hutto,Texas,321345.64741556026,71577,Hutto,Texas,46048
-979,1586,Midlothian,Texas,447923.1501428869,71775,Midlothian,Texas,46683
-980,1589,Greenfield,Wisconsin,326715.43632611114,77321,Greenfield,Wisconsin,37159
-981,1590,West Fargo,North Dakota,357532.0352675476,51246,West Fargo,North Dakota,41175
-982,1591,La Quinta,California,737796.2399193809,3077,La Quinta,California,39440
-983,1594,Portage,Indiana,266637.4396299168,15734,Portage,Indiana,38634
-984,1595,Pacifica,California,1270817.4191334303,3161,Pacifica,California,36890
-985,1598,Mableton,Georgia,346483.6607321077,6304,Mableton,Georgia,78820
-986,1599,Leavenworth,Kansas,259595.0369553913,21581,Leavenworth,Kansas,37012
-987,1602,Trumbull,Connecticut,668605.4057136535,4717,Trumbull,Connecticut,38075
-988,1604,Claremont,California,1011256.59807798,2934,Claremont,California,35838
-989,1607,Montclair,California,652014.9140766854,3125,Montclair,California,37563
-990,1608,Rock Island,Illinois,123614.24726024938,8961,Rock Island,Illinois,36225
-991,1609,Calexico,California,393798.6711309082,2912,Calexico,California,38623
-992,1611,San Juan Capistrano,California,1336621.4621922008,3238,San Juan Capistrano,California,35119
-993,1614,Riviera Beach,Florida,413303.0111393191,5377,Riviera Beach,Florida,39357
-994,1616,Richfield,Minnesota,341194.5463251246,33204,Richfield,Minnesota,36593
-995,1617,Spotsylvania,Virginia,428130.8652596903,75751,Spotsylvania,Virginia,155388
-996,1618,Atlantic City,New Jersey,222476.32297230125,44297,Atlantic City,New Jersey,38787
-997,1622,Huber Heights,Ohio,209398.45575556005,54170,Huber Heights,Ohio,43905
-998,1623,Northglenn,Colorado,446167.8336743838,4119,Northglenn,Colorado,38893
-999,1625,Royal Palm Beach,Florida,489295.7303507665,5379,Royal Palm Beach,Florida,42477
-1000,1627,Henderson,Kentucky,201654.765713242,26140,Henderson,Kentucky,44255
-1001,1628,Wheeling,Illinois,315639.9309687444,9213,Wheeling,Illinois,38391
-1002,1630,New Lenox,Illinois,448832.1404806382,15122,New Lenox,Illinois,45290
-1003,1631,Peachtree City,Georgia,559390.2864425763,6378,Peachtree City,Georgia,40880
-1004,1632,Hanover Park,Illinois,331183.70552724664,8450,Hanover Park,Illinois,36568
-1005,1634,College Park,Maryland,424129.6999986282,27979,College Park,Maryland,35418
-1006,1638,Lewiston,Maine,291266.1416208264,27330,Lewiston,Maine,38866
-1007,1645,Natick,Massachusetts,871133.5385450317,28669,Natick,Massachusetts,36969
-1008,1651,Andover,Massachusetts,982887.1970781888,28476,Andover,Massachusetts,37014
-1009,1654,Chelmsford,Massachusetts,667465.0251130377,28643,Chelmsford,Massachusetts,38549
-1010,1655,Adelanto,California,394069.8328731188,2858,Adelanto,California,38798
-1011,1656,Kankakee,Illinois,155453.31383319522,11922,Kankakee,Illinois,105525
-1012,1662,Laramie,Wyoming,382740.0791956782,81274,Laramie,Wyoming,102938
-1013,1673,Carpentersville,Illinois,296247.96699308377,8149,Carpentersville,Illinois,37045
-1014,1675,Upper Arlington,Ohio,638160.1878278716,54630,Upper Arlington,Ohio,35893
-1015,1676,Boardman,Ohio,198527.9853589612,57394,Boardman,Ohio,39687
-1016,1687,Sonoma,California,915633.0261933166,3869,Sonoma,California,486444
-1017,1693,Wildomar,California,645617.2238568728,3326,Wildomar,California,37889
-1018,1696,Oak Creek,Wisconsin,404247.3086767218,77490,Oak Creek,Wisconsin,38296
-1019,1698,Pleasant Grove,Utah,543181.2953188107,74382,Pleasant Grove,Utah,37773
-1020,1701,Midvale,Utah,478495.5615691035,74345,Midvale,Utah,36099
-1021,1704,Torrington,Connecticut,297655.84147049364,4657,Torrington,Connecticut,35796
-1022,1706,Cedar Falls,Iowa,264984.5787468681,19252,Cedar Falls,Iowa,41240
-1023,1709,Coventry,Rhode Island,460765.33180684486,67124,Coventry,Rhode Island,36281
-1024,1714,Watertown,Massachusetts,809080.5693490845,28358,Watertown,Massachusetts,35710
-1025,1716,Montrose,Colorado,463616.908566382,4484,Montrose,Colorado,44591
-1026,1717,Smithtown,New York,822010.002243381,49134,Smithtown,New York,116847
-1027,1719,Kearns,Utah,431486.4281186844,74318,Kearns,Utah,35404
-1028,1720,North Ridgeville,Ohio,331395.3778248038,54404,North Ridgeville,Ohio,37786
-1029,1723,Glastonbury,Connecticut,552663.5738201804,4682,Glastonbury,Connecticut,35503
-1030,1728,Fair Lawn,New Jersey,721542.1221960044,44371,Fair Lawn,New Jersey,37128
-1031,1732,Tooele,Utah,424245.7476868013,74428,Tooele,Utah,42270
-1032,1735,Lauderdale Lakes,Florida,135742.18606835077,5253,Lauderdale Lakes,Florida,36898
-1033,1739,Athens,Ohio,243408.9898057432,54910,Athens,Ohio,63197
-1034,1741,El Mirage,Arizona,335207.76994325995,1485,El Mirage,Arizona,35820
-1035,1743,Inver Grove Heights,Minnesota,369239.5127316372,32940,Inver Grove Heights,Minnesota,36873
-1036,1746,Temple City,California,1067746.8363409303,3290,Temple City,California,35125
-1037,1752,University Place,Washington,640993.769243299,76127,University Place,Washington,35479
-1038,1755,Vestavia Hills,Alabama,565237.7671445914,437,Vestavia Hills,Alabama,38306
-1039,1757,Hilton Head Island,South Carolina,781330.1210961217,67281,Hilton Head Island,South Carolina,38196
-1040,1765,Parkland,Florida,1077149.067630749,5350,Parkland,Florida,39186
-1041,1778,Ossining,New York,670325.1692176877,49452,Ossining,New York,39964
-1042,1780,Chester,Pennsylvania,112177.89829491718,63715,Chester,Pennsylvania,557116
-1043,1782,Winona,Minnesota,257781.2901320749,37832,Winona,Minnesota,50523
-1044,1791,Gahanna,Ohio,371461.424157345,54084,Gahanna,Ohio,35986
-1045,1792,Bastrop,Texas,341471.819692383,72348,Bastrop,Texas,118908
-1046,1794,Culpeper,Virginia,455565.8320617389,75509,Culpeper,Virginia,57666
-1047,1795,Niles,Illinois,417324.4825420604,10229,Niles,Illinois,109978
-1048,1811,Keizer,Oregon,443419.6090646072,60880,Keizer,Oregon,39140
-1049,1817,Indiana,Pennsylvania,205498.3729459592,64776,Indiana,Pennsylvania,82878
-1050,1819,Collinsville,Illinois,196917.27701972704,13241,Collinsville,Illinois,35276
-1051,1834,American Fork,Utah,516632.2087041003,74206,American Fork,Utah,41020
-1052,1840,Dunedin,Florida,413782.5571727215,5141,Dunedin,Florida,35227
-1053,1848,Frankfort,Illinois,496792.26508046896,15081,Frankfort,Illinois,60704
-1054,1856,Sun Prairie,Wisconsin,436269.5644640933,77628,Sun Prairie,Wisconsin,39227
-1055,1868,Sylvania,Ohio,320188.20148274285,57327,Sylvania,Ohio,50627
-1056,1872,Estero,Florida,486533.3305668402,5149,Estero,Florida,38365
-1057,1891,Farmers Branch,Texas,373922.1918269281,71427,Farmers Branch,Texas,38320
-1058,1893,Prosper,Texas,733105.2356826011,71953,Prosper,Texas,45605
-1059,1909,Edwardsville,Illinois,327776.16638366855,13248,Edwardsville,Illinois,40258
-1060,1915,Cooper City,Florida,669211.8196822307,5117,Cooper City,Florida,35030
-1061,1918,Harker Heights,Texas,295899.0041192115,71521,Harker Heights,Texas,35195
-1062,1919,Marquette,Michigan,336081.70734830847,31191,Marquette,Michigan,68064
-1063,1929,Ashtabula,Ohio,156193.5502575798,54849,Ashtabula,Ohio,96713
-1064,1936,Socorro,Texas,210820.23524524385,72098,Socorro,Texas,38787
-1065,1944,La Porte,Texas,254379.94441018763,71673,La Porte,Texas,37983
-1066,1945,Ashland,Ohio,235507.1165074775,54805,Ashland,Ohio,52523
-1067,1959,Schertz,Texas,305932.30228208244,72062,Schertz,Texas,45978
-1068,1978,Muscatine,Iowa,194275.8990993444,20887,Muscatine,Iowa,41853
-1069,1984,Cedar City,Utah,397037.7242109929,74228,Cedar City,Utah,41871
-1070,1998,Saratoga Springs,Utah,547287.1136651488,74408,Saratoga Springs,Utah,61397
-1071,2000,Lapeer,Michigan,265168.9298581001,30887,Lapeer,Michigan,89516
-1072,2007,Monterey,California,1162600.6439116516,3603,Monterey,California,433729
-1073,2029,Libertyville,Illinois,623120.0099275761,12262,Libertyville,Illinois,54621
-1074,2033,Oak Ridge,Tennessee,322547.81892128463,70376,Oak Ridge,Tennessee,35395
-1075,2043,Springville,Utah,497963.0451251927,74421,Springville,Utah,35670
-1076,2048,Batavia,Illinois,462819.09747409966,11836,Batavia,Illinois,35974
-1077,2051,Hobart,Indiana,242077.8781882072,17563,Hobart,Indiana,39973
-1078,2094,Magna,Utah,432886.9097696093,74335,Magna,Utah,35401
-1079,2115,Lisle,Illinois,427416.260213559,10665,Lisle,Illinois,119740
-1080,2137,Bourbonnais,Illinois,294648.42564237403,11950,Bourbonnais,Illinois,38541
-1081,2145,Algonquin,Illinois,414399.0429042722,12824,Algonquin,Illinois,89435
-1082,2184,Lockport,Illinois,369901.88423968776,15106,Lockport,Illinois,60618
-1083,2206,Defiance,Ohio,184947.157693465,55785,Defiance,Ohio,38292
-1084,2213,Dickson,Tennessee,340927.7916584744,70614,Dickson,Tennessee,58662
-1085,2220,Cortland,New York,209089.3114592161,47229,Cortland,New York,45850
-1086,2223,Celina,Texas,499750.5330066535,71252,Celina,Texas,64427
-1087,2227,Cornelius,North Carolina,515228.2164633288,49658,Cornelius,North Carolina,35094
-1088,2231,Galloway,New Jersey,335414.058052154,44649,Galloway,New Jersey,38380
-1089,2275,Ramsey,Minnesota,382868.9257193512,36580,Ramsey,Minnesota,541623
-1090,2278,Ewing,New Jersey,377060.1106420328,45265,Ewing,New Jersey,39030
-1091,2281,Talladega,Alabama,145935.69424792918,1044,Talladega,Alabama,81603
-1092,2305,Stanton,California,782784.437471039,3280,Stanton,California,40161
-1093,2329,Erie,Colorado,711136.6710664857,4015,Erie,Colorado,40904
-1094,2337,Austintown,Ohio,179195.50313745314,57389,Austintown,Ohio,35477
-1095,2338,Merrimack,New Hampshire,525270.5243488303,44174,Merrimack,New Hampshire,158078
-1096,2362,Huntington,Indiana,198970.342810472,17173,Huntington,Indiana,37224
-1097,2367,McHenry,Illinois,313023.8809819816,12788,McHenry,Illinois,317751
-1098,2368,Natchitoches,Louisiana,190330.0826335348,27121,Natchitoches,Louisiana,36089
-1099,2403,Riverhead,New York,633942.4021985373,49129,Riverhead,New York,36394
-1100,2426,Windsor,Colorado,570987.4832489685,4203,Windsor,Colorado,43840
-1101,2474,Lathrop,California,616456.9890066207,3079,Lathrop,California,42783
-1102,2477,Brookings,South Dakota,322602.1311669695,68260,Brookings,South Dakota,37635
-1103,2481,Darlington,South Carolina,152784.9332047727,67587,Darlington,South Carolina,62888
-1104,2546,Manheim,Pennsylvania,394506.7670587357,65074,Manheim,Pennsylvania,44826
-1105,2565,Bloomingdale,Illinois,434249.5657290153,10638,Bloomingdale,Illinois,111039
-1106,2634,Sandusky,Ohio,152019.15906253312,58434,Sandusky,Ohio,58655
-1107,2696,Elko,Nevada,361093.5132503528,43936,Elko,Nevada,54815
-1108,2733,Anna,Texas,333032.33493396087,71097,Anna,Texas,35245
-1109,2815,Princeton,Texas,279355.95423990634,71950,Princeton,Texas,43524
-1110,2886,San Luis,Arizona,235838.5549895304,1528,San Luis,Arizona,42030
-1111,2931,Rensselaer,New York,312776.8203289567,48656,Rensselaer,New York,160510
-1112,2933,Leland,North Carolina,382717.58407620224,49811,Leland,North Carolina,35731
-1113,3008,Clackamas,Oregon,574797.0953556852,61028,Clackamas,Oregon,426280
-1114,3015,Kaufman,Texas,287960.2371674806,73360,Kaufman,Texas,209235
-1115,3042,Newberry,South Carolina,167657.93986824123,67736,Newberry,South Carolina,39561
-1116,3058,Newport,Rhode Island,991438.52946524,67130,Newport,Rhode Island,83051
-1117,3071,Ionia,Michigan,228322.4116008792,30547,Ionia,Michigan,66557
-1118,3093,Loudon,Tennessee,501761.3442588795,70808,Loudon,Tennessee,63764
-1119,3104,Rutland,Vermont,277088.2794986258,75063,Rutland,Vermont,59653
-1120,3163,Sayreville,New Jersey,531703.0671506849,44545,Sayreville,New Jersey,46787
-1121,3165,Fulshear,Texas,493836.108022439,71455,Fulshear,Texas,64630
-1122,3170,Penfield,New York,389163.20548761496,47952,Penfield,New York,39139
-1123,3175,Islip,New York,667657.5922624851,49122,Islip,New York,340867
-1124,3180,Marlboro,New Jersey,906978.619147655,45431,Marlboro,New Jersey,42254
-1125,3191,Ocean,New Jersey,825051.6350293864,45548,Ocean,New Jersey,673746
-1126,3208,Woodbridge,New Jersey,480104.75083153,45337,Woodbridge,New Jersey,104802
-1127,3226,Northampton,Pennsylvania,351010.7637850553,63323,Northampton,Pennsylvania,39919
-1128,3231,Allegan,Michigan,274972.7332030928,29428,Allegan,Michigan,123188
-1129,3240,Shawano,Wisconsin,256628.2126962731,80380,Shawano,Wisconsin,41560
-1130,3256,Davidson,North Carolina,645511.2236123517,50333,Davidson,North Carolina,180182
-1131,3343,Imperial,California,440912.4738949197,3437,Imperial,California,181411
-1132,3347,Logan,Ohio,262262.71566687623,57151,Logan,Ohio,46302
-1133,3362,Pennsauken,New Jersey,314312.643171732,45003,Pennsauken,New Jersey,37742
-1134,3375,Huntingdon,Pennsylvania,189974.5382191992,64690,Huntingdon,Pennsylvania,43001
-1135,3402,Coshocton,Ohio,168511.49710902755,55443,Coshocton,Ohio,37188
-1136,3447,Anoka,Minnesota,327975.5832061208,33473,Anoka,Minnesota,381605
-1137,3477,Hernando,Florida,353688.1994568182,5627,Hernando,Florida,221701
-1138,3541,Bradford,Pennsylvania,108257.55197308748,63175,Bradford,Pennsylvania,59600
-1139,3587,Okmulgee,Oklahoma,104562.20410239456,60518,Okmulgee,Oklahoma,37241
-1140,3616,Wharton,Texas,218215.0907678292,74105,Wharton,Texas,42060
-1141,3676,Alachua,Florida,322749.0770681279,5458,Alachua,Florida,290028
-1142,3691,Forsyth,Georgia,322368.9998449202,6880,Forsyth,Georgia,282805
-1143,3693,Wabash,Indiana,181526.99285553343,18714,Wabash,Indiana,66098
-1144,3711,Rye,New York,2435121.947405918,49464,Rye,New York,50011
-1145,3713,Abington,Pennsylvania,409365.4962927681,65688,Abington,Pennsylvania,58656
-1146,3728,Cape May,New Jersey,765061.933037307,45019,Cape May,New Jersey,93390
-1147,3828,Morrow,Ohio,394482.0539617382,57820,Morrow,Ohio,36305
-1148,3838,Brazoria,Texas,230716.5642520059,72433,Brazoria,Texas,419080
-1149,3874,Beaver,Pennsylvania,275623.66653342656,62809,Beaver,Pennsylvania,166032
-1150,3907,Lake Villa,Illinois,382850.67143579415,12253,Lake Villa,Illinois,40029
-1151,3988,Louisa,Virginia,377482.1016064418,75616,Louisa,Virginia,42924
-1152,3996,Waupaca,Wisconsin,323058.14364177175,80905,Waupaca,Wisconsin,51461
-1153,4052,Bennington,Vermont,245178.750691072,74841,Bennington,Vermont,36630
-1154,4055,Hillsdale,Michigan,202790.8095119114,30355,Hillsdale,Michigan,45738
-1155,4155,Clearfield,Pennsylvania,136993.49226275485,63885,Clearfield,Pennsylvania,78100
-1156,4211,Burnet,Texas,397202.3554929655,72487,Burnet,Texas,57015
-1157,4268,Marinette,Wisconsin,202184.015952794,79442,Marinette,Wisconsin,42574
-1158,4445,Isanti,Minnesota,331215.7859619562,34943,Isanti,Minnesota,44386
-1159,4510,Kershaw,South Carolina,184163.9791245876,67676,Kershaw,South Carolina,73166
-1160,4561,Lonoke,Arkansas,201341.4664764341,2568,Lonoke,Arkansas,76664
-1161,4614,Winfield,Illinois,462472.32456730655,10697,Winfield,Illinois,46284
-1162,4626,Wagoner,Oklahoma,186976.19432134007,60724,Wagoner,Oklahoma,93263
-1163,4655,Haverstraw,New York,459365.2793705783,48724,Haverstraw,New York,40462
-1164,4687,Babylon,New York,754839.9959090515,49097,Babylon,New York,219766
-1165,4714,Troy,Illinois,333242.7629035154,15145,Troy,Illinois,50168
-1166,4742,Prince George,Virginia,343982.0781669126,75683,Prince George,Virginia,43936
-1167,4767,Oneida,New York,214259.7114693929,48207,Oneida,New York,226392
-1168,4907,Bernalillo,New Mexico,336303.5021844237,45970,Bernalillo,New Mexico,667601
-1169,4910,Newaygo,Michigan,272925.0125709218,31535,Newaygo,Michigan,51622
-1170,4922,Bedford,Pennsylvania,228921.6659462514,62929,Bedford,Pennsylvania,47480
-1171,5045,Southampton,New York,2254765.123104433,49139,Southampton,New York,71601
-1172,5077,Norfolk,Massachusetts,803048.1631285986,28699,Norfolk,Massachusetts,739749
-1173,5086,Henrietta,New York,303779.6160264697,47941,Henrietta,New York,48832
-1174,5123,Columbiana,Ohio,253432.1592017874,55378,Columbiana,Ohio,99377
-1175,5139,Beaufort,North Carolina,421676.1253082065,50137,Beaufort,North Carolina,44670
-1176,5189,Lyons,Illinois,281966.3867841991,10192,Lyons,Illinois,112345
-1177,5348,Jackson,Alabama,138927.6546396877,780,Jackson,Alabama,54281
-1178,5491,Cameron,Texas,239139.3346430386,72518,Cameron,Texas,433946
-1179,5494,Hidalgo,Texas,187934.49314255884,73189,Hidalgo,Texas,921549
-1180,5540,Houghton,Michigan,272381.5081765598,30401,Houghton,Michigan,37842
-1181,5555,Worth,Illinois,278552.979551901,10367,Worth,Illinois,148514
-1182,5615,Huron,Ohio,307908.53954417864,56775,Huron,Ohio,58250
-1183,5618,Herkimer,New York,161141.0449829363,47634,Herkimer,New York,59219
-1184,5708,Becker,Minnesota,376157.8283700797,33536,Becker,Minnesota,35497
-1185,5765,Clinton,Illinois,152632.60165389394,9863,Clinton,Illinois,37128
-1186,6020,Clarion,Pennsylvania,154265.43529293,63822,Clarion,Pennsylvania,36680
-1187,6192,Palm Beach,Florida,2189890.786918889,5821,Palm Beach,Florida,1575726
-1188,6263,Cleveland,North Carolina,308820.33213482733,50274,Cleveland,North Carolina,103325
-1189,6385,Atascosa,Texas,289180.36617999425,72325,Atascosa,Texas,53590
-1190,6423,Clayton,Georgia,358892.1770186937,6713,Clayton,Georgia,297471
-1191,6533,Northumberland,Pennsylvania,203981.93321198327,65873,Northumberland,Pennsylvania,89920
-1192,6603,Haverford,Pennsylvania,1148411.5024925566,64359,Haverford,Pennsylvania,50997
-1193,6801,Stickney,Illinois,294958.7729644976,10329,Stickney,Illinois,40266
-1194,6828,Oyster Bay,New York,1052835.8199442867,48143,Oyster Bay,New York,301115
-1195,6834,Cheltenham,Pennsylvania,391936.88682421664,65695,Cheltenham,Pennsylvania,38498
-1196,6880,Rice,Minnesota,346437.529513628,36795,Rice,Minnesota,69939
-1197,6935,Cumberland,Maine,740905.2249961235,27437,Cumberland,Maine,317222
-1198,7057,Oconto,Wisconsin,248487.6760381372,79636,Oconto,Wisconsin,40195
-1199,7129,Rock,Wisconsin,343553.1758142311,80105,Rock,Wisconsin,166472
-1200,7189,Okanogan,Washington,262202.0074322986,76345,Okanogan,Washington,45230
-1201,7377,Carver,Minnesota,495456.2876034574,33894,Carver,Minnesota,114379
-1202,7594,Barron,Wisconsin,225692.5055427136,77763,Barron,Wisconsin,46484
-1203,7735,Susquehanna,Pennsylvania,177684.7679379849,66343,Susquehanna,Pennsylvania,38237
-1204,7776,Eagle,Colorado,1007408.9489886062,4328,Eagle,Colorado,54291
-1205,7841,Alexander,North Carolina,407600.00958305056,50107,Alexander,North Carolina,36958
-1206,7887,Chelan,Washington,472962.44373761705,76173,Chelan,Washington,81941
-1207,7921,Catawba,North Carolina,317426.5875079462,50247,Catawba,North Carolina,170172
-1208,8006,Colquitt,Georgia,153582.07673173698,6744,Colquitt,Georgia,47438
-1209,8225,Elmore,Alabama,242955.65883176663,690,Elmore,Alabama,91577
-1210,8454,Northfield,Illinois,895441.3026497002,10237,Northfield,Illinois,89835
-1211,8501,Winnebago,Illinois,285325.0180196423,15195,Winnebago,Illinois,283674
-1212,8531,Walworth,Wisconsin,394344.9067976847,80669,Walworth,Wisconsin,106127
-1213,8587,Hampden,Massachusetts,450556.9016364628,28548,Hampden,Massachusetts,464338
-1214,8839,Halifax,North Carolina,117289.30903923558,50448,Halifax,North Carolina,46534
-1215,8855,Wayne,Illinois,782695.3756982624,10688,Wayne,Illinois,63935
-1216,8894,Dauphin,Pennsylvania,299707.9760792909,64222,Dauphin,Pennsylvania,293351
-1217,8970,Blue Earth,Minnesota,177680.53308653482,33744,Blue Earth,Minnesota,70634
-1218,8973,Umatilla,Oregon,293725.9499047433,61265,Umatilla,Oregon,81119
-1219,9052,Guilderland,New York,470353.1697738576,46766,Guilderland,New York,38216
-1220,9383,San Joaquin,California,295111.06160294684,3767,San Joaquin,California,823815
-1221,9475,Strafford,New Hampshire,536910.2149198028,44248,Strafford,New Hampshire,135043
-1222,9481,Marathon,Wisconsin,312019.29556948383,79335,Marathon,Wisconsin,139432
-1223,9503,Oxford,Maine,333152.1022325313,27631,Oxford,Maine,60346
-1224,9517,Shenandoah,Virginia,277713.1590148274,75730,Shenandoah,Virginia,45839
-1225,9545,Dyer,Tennessee,157198.57141407052,70622,Dyer,Tennessee,36320
-1226,9824,Tuolumne,California,361764.2910131181,3911,Tuolumne,California,53160
-1227,9853,Sedgwick,Kansas,248948.0284139728,24805,Sedgwick,Kansas,538433
-1228,10091,Pima,Arizona,335301.8206268512,1639,Pima,Arizona,1074685
-1229,10093,Belmont,Ohio,184513.8439173157,55004,Belmont,Ohio,64434
-1230,10143,Porter,Indiana,299905.9761241692,18194,Porter,Indiana,176049
-1231,10266,Essex,Massachusetts,893448.8887990555,28462,Essex,Massachusetts,826653
-1232,10299,Rusk,Texas,202812.83319435068,73828,Rusk,Texas,54854
-1233,10448,El Dorado,California,580897.8596744462,3403,El Dorado,California,192323
-1234,10680,Cattaraugus,New York,170974.45412928076,46883,Cattaraugus,New York,75390
-1235,11201,Mecosta,Michigan,228342.4161937961,31253,Mecosta,Michigan,42320
-1236,11328,Carlton,Minnesota,332052.61682975286,33844,Carlton,Minnesota,36711
-1237,11331,Shelby,Alabama,317139.9874830358,1016,Shelby,Alabama,238552
-1238,11333,Guilford,Indiana,414502.58825965767,17058,Guilford,Indiana,37203
-1239,11439,Yamhill,Oregon,566242.594441233,61326,Yamhill,Oregon,110024
-1240,11533,Luzerne,Pennsylvania,182993.53875579772,65251,Luzerne,Pennsylvania,332126
-1241,11713,Dubois,Indiana,248608.516004668,16537,Dubois,Indiana,44016
-1242,11770,Hamilton,Indiana,369594.26223536447,16901,Hamilton,Indiana,387036
-1243,11848,Gaston,North Carolina,94024.14572382157,50398,Gaston,North Carolina,246558
-1244,11972,Comanche,Oklahoma,108553.59160915732,60108,Comanche,Oklahoma,122158
-1245,12003,Dawson,Georgia,82429.18059491749,6784,Dawson,Georgia,35365
-1246,12127,Macon,Illinois,154254.37508689318,13017,Macon,Illinois,99300
-1247,12262,Deerfield,Ohio,241618.2610881845,59046,Deerfield,Ohio,43979
-1248,12409,Dane,Wisconsin,499976.4475554323,78266,Dane,Wisconsin,590375
-1249,12840,Lamar,Mississippi,175607.22096173387,38526,Lamar,Mississippi,67403
-1250,12888,Lucas,Ohio,261175.90475945463,57288,Lucas,Ohio,423347
-1251,12941,Dorchester,South Carolina,252937.45211212724,67599,Dorchester,South Carolina,178397
-1252,12960,Cascade,Montana,399102.6670732307,41741,Cascade,Montana,85029
-1253,12999,Goodhue,Minnesota,288152.6004786839,34722,Goodhue,Minnesota,48195
-1254,13073,Hunt,Texas,521374.039145258,73266,Hunt,Texas,123336
-1255,13406,Waller,Texas,287287.2804927979,74078,Waller,Texas,69858
-1256,13416,Mendocino,California,901303.2809908362,3583,Mendocino,California,88122
-1257,13550,Sutter,California,414123.4404198712,3891,Sutter,California,98787
-1258,13708,Stokes,North Carolina,226325.97153714555,50795,Stokes,North Carolina,46126
-1259,14162,Homer,Illinois,181706.77661679336,15090,Homer,Illinois,41948
-1260,14413,Cayuga,New York,306867.3999509027,46953,Cayuga,New York,74365
-1261,14416,Grafton,Illinois,268312.6068636335,12857,Grafton,Illinois,58301
-1262,14789,Houston,Alabama,392831.1910420396,766,Houston,Alabama,110318
-1263,15245,Hardin,Kentucky,140677.98614559768,26114,Hardin,Kentucky,113482
-1264,15394,Chittenden,Vermont,393373.6775779954,74890,Chittenden,Vermont,169115
-1265,15866,Ector,Texas,267307.6787867989,72840,Ector,Texas,173801
-1266,15932,Riley,Kansas,221910.4632456332,24609,Riley,Kansas,72598
-1267,16828,Greenup,Kentucky,126575.42028872477,26100,Greenup,Kentucky,35213
-1268,16867,McLean,Illinois,194598.208751509,12913,McLean,Illinois,171419
-1269,17067,Hanover,Illinois,106065.26765283624,10165,Hanover,Illinois,97956
-1270,17122,Cranberry,Pennsylvania,180617.3490102913,63408,Cranberry,Pennsylvania,35244
-1271,17244,Penobscot,Maine,328511.3855555545,27670,Penobscot,Maine,157967
-1272,17317,Avon,Illinois,94946.241897247,12201,Avon,Illinois,63208
-1273,17529,Dodge,Nebraska,243562.6037193437,42929,Dodge,Nebraska,38057
-1274,18185,Franklin,Illinois,142320.46769725604,10915,Franklin,Illinois,36916
-1275,18290,Uintah,Utah,592611.9334922611,74689,Uintah,Utah,38278
-1276,18408,Kandiyohi,Minnesota,260223.2134575628,35140,Kandiyohi,Minnesota,44720
-1277,18455,Newton,Georgia,109835.46149313742,7179,Newton,Georgia,125583
-1278,18480,Gordon,Georgia,106994.24869399736,6920,Gordon,Georgia,61701
-1279,18650,Wright,Minnesota,238269.82039670003,37892,Wright,Minnesota,157559
-1280,18861,Tippecanoe,Indiana,246913.6264434296,18680,Tippecanoe,Indiana,190456
-1281,18923,Kane,Illinois,231862.35835449456,11800,Kane,Illinois,525757
-1282,19085,Cochise,Arizona,227022.5493159478,1560,Cochise,Arizona,126332
-1283,19335,Chemung,New York,171313.8181720913,47086,Chemung,New York,80415
-1284,19757,Wapello,Iowa,150043.77709035238,21148,Wapello,Iowa,35210
-1285,19855,Washington,Arkansas,120384.20524963138,2808,Washington,Arkansas,271213
-1286,19868,Genesee,Michigan,160138.73043530036,30187,Genesee,Michigan,401093
-1287,20155,Carter,Oklahoma,166250.57053941817,60062,Carter,Oklahoma,48910
-1288,20686,Vernon,Illinois,154577.69585304183,12293,Vernon,Illinois,71353
-1289,20759,Sullivan,New Hampshire,383576.2638583272,44269,Sullivan,New Hampshire,43961
-1290,20798,Venango,Pennsylvania,175390.7912533063,66496,Venango,Pennsylvania,49346
-1291,21000,Canadian,Oklahoma,147109.7452104203,60051,Canadian,Oklahoma,187189
-1292,21245,Livingston,Illinois,96107.75411461874,12582,Livingston,Illinois,35057
-1293,21272,Arapahoe,Colorado,246680.6556059769,4225,Arapahoe,Colorado,673820
-1294,21641,Laclede,Missouri,201184.32965172568,40658,Laclede,Missouri,36943
-1295,22228,Webster,Iowa,111124.71272249556,21197,Webster,Iowa,36838
-1296,22333,Cobb,Georgia,340779.29829938913,6728,Cobb,Georgia,793345
-1297,22421,Chautauqua,New York,608237.3895729597,47009,Chautauqua,New York,124126
-1298,22761,Suwannee,Florida,257632.85554357257,5959,Suwannee,Florida,48149
-1299,22992,Dakota,Minnesota,278292.0894365463,34366,Dakota,Minnesota,457710
-1300,23145,Kootenai,Idaho,483020.8168795549,7847,Kootenai,Idaho,191864
-1301,23586,Gibson,Tennessee,139454.38462704126,70652,Gibson,Tennessee,51779
-1302,23669,Matagorda,Texas,302434.27377685625,73561,Matagorda,Texas,36463
-1303,23769,Warren,Illinois,118772.97747404368,12306,Warren,Illinois,65343
-1304,23977,Lumpkin,Georgia,59913.77772301257,7105,Lumpkin,Georgia,36178
-1305,24079,Tehama,California,271594.09705533454,3895,Tehama,California,64665
-1306,24113,Kittitas,Washington,291313.32974838937,76309,Kittitas,Washington,48803
+,RegionName,State,2026-10-31,POPESTIMATE2025
+0,New York,New York,827886.4650772455,8584629
+1,Los Angeles,California,926191.6178117011,3869089
+2,Chicago,Illinois,336918.18490364274,2731585
+3,San Antonio,Texas,243796.20780298105,1548422
+4,Philadelphia,Pennsylvania,230399.87720976525,1574281
+5,Phoenix,Arizona,401740.730187234,1665481
+6,Las Vegas,Nevada,413872.9856121622,679817
+7,San Diego,California,980476.2961768252,1406106
+8,Austin,Texas,488879.80335993,1002632
+9,San Jose,California,1360455.250357856,989814
+10,Jacksonville,Florida,283673.39778708154,1017689
+11,Indianapolis,Indiana,226172.07717229173,910638
+12,Fort Worth,Texas,291578.7097940372,1028117
+13,Orlando,Florida,370483.3531847596,333888
+14,San Francisco,California,1483667.9138629928,826079
+15,Tucson,Arizona,317277.0172544369,548371
+16,Miami,Florida,584741.2859092519,489812
+17,Denver,Colorado,517745.137635313,740613
+18,Seattle,Washington,818392.5617378401,784777
+19,Sacramento,California,469280.9992577666,536449
+20,Boston,Massachusetts,772404.6070174119,672973
+21,Detroit,Michigan,74983.46289362719,649095
+22,Pittsburgh,Pennsylvania,233434.7191090077,307632
+23,Albuquerque,New Mexico,341530.59322507,556588
+24,Memphis,Tennessee,152615.91841806448,609647
+25,Fresno,California,385532.3090848974,555549
+26,Baltimore,Maryland,185534.45905595264,569997
+27,Omaha,Nebraska,293000.8225680739,488797
+28,Atlanta,Georgia,377969.4732774839,529110
+29,Milwaukee,Wisconsin,221614.3190034523,562407
+30,Oklahoma City,Oklahoma,204098.86244571896,719849
+31,Raleigh,North Carolina,423295.2704166653,506306
+32,Mesa,Arizona,426277.3706960927,513656
+33,Colorado Springs,Colorado,435351.4853620499,494743
+34,Cincinnati,Ohio,245256.49489562176,314367
+35,Long Beach,California,854209.4533170679,450469
+36,Virginia Beach,Virginia,425656.4120409426,453737
+37,Bakersfield,California,385863.13867329614,422165
+38,Tampa,Florida,375171.8814532908,413554
+39,Oakland,California,718270.5460038699,440838
+40,Tulsa,Oklahoma,216654.7175236201,416209
+41,Minneapolis,Minnesota,328551.907780583,430324
+42,Aurora,Colorado,446352.25114247,410053
+43,Honolulu,Hawaii,780798.6352357529,988703
+44,Knoxville,Tennessee,367379.5526393315,202021
+45,Baton Rouge,Louisiana,228458.6110102004,222795
+46,New Orleans,Louisiana,242494.5010248229,362154
+47,Wichita,Kansas,202898.3619503006,400987
+48,Riverside,California,643121.3757536473,323057
+49,Anaheim,California,942424.4445516746,341008
+50,Vancouver,Washington,494235.9196479528,199698
+51,Stockton,California,422040.5178995289,324597
+52,Marietta,Georgia,465240.0595119232,63574
+53,Greensboro,North Carolina,258431.1709972357,308667
+54,Fort Wayne,Indiana,244637.2606230292,275203
+55,Corpus Christi,Texas,218714.5139815771,317247
+56,Santa Ana,California,864802.7292310186,315586
+57,Durham,North Carolina,381755.7284790461,305561
+58,Spokane,Washington,387370.96308533446,230783
+59,Irvine,California,1466014.1707777623,318764
+60,Toledo,Ohio,131008.81049258295,263423
+61,Chandler,Arizona,512425.46637633024,278748
+62,Tallahassee,Florida,289470.0641072793,204902
+63,Jersey City,New Jersey,664702.0519616507,302013
+64,Plano,Texas,484787.1209717293,293028
+65,Lubbock,Texas,208822.821796588,273071
+66,Modesto,California,441475.0316033669,219652
+67,Chula Vista,California,847670.3566809138,275533
+68,Gilbert,Arizona,564078.5139732345,287285
+69,Winston-Salem,North Carolina,258802.90037223653,257271
+70,Laredo,Texas,218863.61925171505,269515
+71,North Las Vegas,Nevada,398995.8313492904,296653
+72,San Bernardino,California,491402.097407861,222044
+73,Lakeland,Florida,307947.2736778981,125520
+74,Fort Myers,Florida,306195.97136272566,101581
+75,Irving,Texas,333282.9829600838,257076
+76,Mobile,Alabama,193892.8318872189,200824
+77,Glendale,Arizona,397829.542318617,260572
+78,Pensacola,Florida,261307.87258961555,53817
+79,Anchorage,Alaska,419376.8457176439,287155
+80,Chesapeake,Virginia,423901.92462559306,255332
+81,Sarasota,Florida,415081.9809148056,58458
+82,Birmingham,Alabama,133592.9630939294,195893
+83,Hialeah,Florida,443688.00326564704,230968
+84,Kissimmee,Florida,353640.3281914769,85591
+85,Scottsdale,Arizona,860329.4045788413,243006
+86,Ocala,Florida,263613.50404342124,71753
+87,Santa Clarita,California,782916.341551349,228430
+88,Fremont,California,1431548.6718876194,226442
+89,Fontana,California,631672.0402490366,221223
+90,Boca Raton,Florida,587442.5973867524,101582
+91,Grand Rapids,Michigan,301477.94747071713,201183
+92,Bradenton,Florida,352433.5642713548,58014
+93,Little Rock,Arkansas,217637.97736839764,206427
+94,Gainesville,Florida,290125.9132279305,148671
+95,Tacoma,Washington,478378.9595099733,229816
+96,Amarillo,Texas,209084.1794301237,205130
+97,Des Moines,Iowa,206630.84643933785,212086
+98,Savannah,Georgia,317792.0340464425,149440
+99,Oxnard,California,762457.7939533811,199651
+100,Santa Rosa,California,705654.6410788543,179437
+101,Huntsville,Alabama,287503.1845620363,233627
+102,Akron,Ohio,139664.00944350517,189691
+103,Brownsville,Texas,192242.03960617608,192957
+104,Yonkers,New York,701495.9253321333,212603
+105,Eugene,Oregon,466800.9071845876,178618
+106,Corona,California,751474.9513672624,161734
+107,Dayton,Ohio,137207.69026384252,136688
+108,Syracuse,New York,219439.42476371792,144896
+109,Montgomery,Alabama,148724.24588745311,195300
+110,Oceanside,California,868126.7005562581,170483
+111,Trenton,New Jersey,340653.0847117584,91506
+112,Moreno Valley,California,549833.4300154847,214263
+113,Shreveport,Louisiana,144174.36589581435,175902
+114,Wilmington,Delaware,326993.7041184991,73512
+115,Murfreesboro,Tennessee,420822.017996498,171178
+116,West Palm Beach,Florida,408814.58446853136,127189
+117,Fort Collins,Colorado,552277.5844056852,171500
+118,Salt Lake City,Utah,564107.0155750449,218428
+119,Beaverton,Oregon,517865.1367383226,97842
+120,Salinas,California,750963.3249517555,159134
+121,Frisco,Texas,626532.391253644,236955
+122,McKinney,Texas,464773.9176066348,236001
+123,Sioux Falls,South Dakota,326841.33262467565,213748
+124,Reading,Pennsylvania,265032.23612031824,95832
+125,Lancaster,California,458246.04029146297,170084
+126,Huntington Beach,California,1350894.0141141638,191451
+127,Cape Coral,Florida,336432.97623808176,236264
+128,Lake Worth Beach,Florida,446007.74823977513,43970
+129,Hayward,California,812969.9718350964,157113
+130,Clarksville,Tennessee,316597.90398793225,188829
+131,Grand Prairie,Texas,311236.59752515616,209434
+132,Charleston,South Carolina,589324.4283685267,159423
+133,Peoria,Arizona,477635.7542814506,200881
+134,Providence,Rhode Island,429578.01918342273,195310
+135,Whittier,California,815114.5337857143,85815
+136,Overland Park,Kansas,479299.8266780179,203677
+137,Henrico,Virginia,403049.451347304,342775
+138,Palmdale,California,495746.7211239848,161845
+139,Chattanooga,Tennessee,313815.964797155,194144
+140,Homestead,Florida,435290.4975751283,86242
+141,Fort Lauderdale,Florida,511977.3085264582,188677
+142,Elk Grove,California,619910.89228447,185007
+143,Rockford,Illinois,185447.9165485048,147384
+144,Columbus,Georgia,173652.1502775266,202171
+145,Evansville,Indiana,201803.32499410264,116176
+146,Edmond,Oklahoma,352240.510873744,100479
+147,Ontario,California,660106.1364336325,187013
+148,Killeen,Texas,216148.84446282164,161883
+149,Allentown,Pennsylvania,315215.260918728,126044
+150,Tempe,Arizona,458010.2367137888,190571
+151,Garden Grove,California,1004467.5494811074,170455
+152,Escondido,California,837122.840240334,146030
+153,El Cajon,California,812925.802644155,101755
+154,Rancho Cucamonga,California,778836.0400953373,177856
+155,Round Rock,Texas,389450.5440270716,141282
+156,Newport News,Virginia,290682.3388166515,183230
+157,Conroe,Texas,308522.91742922313,119564
+158,Boynton Beach,Florida,407108.29740797,82396
+159,Harrisburg,Pennsylvania,263791.7892867948,50522
+160,Roanoke,Virginia,275943.2068689749,99111
+161,Ann Arbor,Michigan,514159.63732107874,122233
+162,Sugar Land,Texas,435437.2679182603,107726
+163,Naperville,Illinois,617002.8615299071,153114
+164,Fairfax,Virginia,774083.0536010647,1167873
+165,Pembroke Pines,Florida,487394.2814903348,176714
+166,Edinburg,Texas,212418.1083848733,110700
+167,Topeka,Kansas,193661.4082559088,125795
+168,Pueblo,Colorado,277443.8077476672,110404
+169,Visalia,California,394099.8014540674,146541
+170,Odessa,Texas,248280.6565777645,122707
+171,Cary,North Carolina,612632.5883148347,183582
+172,Schenectady,New York,329618.00818438485,69471
+173,Paterson,New Jersey,527642.4806850996,161793
+174,Tyler,Texas,246234.82223694408,113723
+175,Clearwater,Florida,342029.32325463387,114364
+176,Sunnyvale,California,2019152.027264367,156577
+177,Kansas City,Kansas,200110.0649017742,157805
+178,Lansing,Michigan,164518.17659710054,113884
+179,Las Cruces,New Mexico,285198.68970798934,116978
+180,Hollywood,Florida,443775.20777980704,157019
+181,Pomona,California,682928.9632449877,147807
+182,Roseville,California,643048.5544418955,167302
+183,South Bend,Indiana,197040.5417060785,103201
+184,Mesquite,Texas,254984.7521591192,150693
+185,Renton,Washington,714943.9841793203,104975
+186,Surprise,Arizona,414111.0743188185,175304
+187,Denton,Texas,340530.6681102604,169431
+188,Pasadena,California,1183262.7790920322,135804
+189,Santa Maria,California,670936.3296620544,111390
+190,Thornton,Colorado,485177.1740540748,147766
+191,Torrance,California,1108203.2981648743,138391
+192,Victorville,California,432218.41368719685,141395
+193,Summerville,South Carolina,376450.1740929292,53177
+194,Bridgeport,Connecticut,357170.8568795285,152273
+195,McAllen,Texas,225321.70788741388,150640
+196,Manassas,Virginia,543583.8303847727,44332
+197,Yuma,Arizona,299298.6695967177,105227
+198,Cedar Rapids,Iowa,211046.4294231592,137935
+199,Fullerton,California,1036714.912693683,138675
+200,Olathe,Kansas,431770.5605811626,150025
+201,Myrtle Beach,South Carolina,319699.5531245678,40937
+202,Frederick,Maryland,453960.3900012029,92059
+203,Billings,Montana,395546.4200571281,121239
+204,Abilene,Texas,224960.29165813903,131588
+205,West Valley City,Utah,460511.8914279062,137491
+206,Orange,California,1119746.0289842857,138365
+207,Pearland,Texas,374499.1918148191,129930
+208,Kalamazoo,Michigan,237583.07598398035,72683
+209,Compton,California,640491.2357505095,90500
+210,Lake Charles,Louisiana,200250.36664640563,82676
+211,Hampton,Virginia,279081.8540891845,137315
+212,Miramar,Florida,520055.6507009154,142570
+213,Stamford,Connecticut,717831.9691998553,139535
+214,Hemet,California,441258.9937646696,93649
+215,Carrollton,Texas,392681.8608410593,134562
+216,Coral Springs,Florida,520773.6881337012,138783
+217,Sterling Heights,Michigan,302459.97405250295,133931
+218,Murrieta,California,683153.3857970024,114124
+219,Elizabeth,New Jersey,542543.5001776464,141675
+220,Inglewood,California,751839.1825987942,101662
+221,Clovis,California,513923.7560563501,129347
+222,Concord,California,718177.3852874488,123261
+223,Melbourne,Florida,358623.99383927183,87097
+224,New Haven,Connecticut,334143.72634106706,138774
+225,Santa Fe,New Mexico,575314.2718450691,89837
+226,Boulder,Colorado,942097.7206800462,105689
+227,Tracy,California,663574.3176494768,101901
+228,Broken Arrow,Oklahoma,286572.06587737566,124991
+229,Bend,Oregon,716100.049656194,107342
+230,College Station,Texas,342958.335288559,127472
+231,Rochester,Minnesota,338028.6789367769,124292
+232,Puyallup,Washington,552643.1363748068,42682
+233,Flint,Michigan,63738.6091797334,79306
+234,Simi Valley,California,829518.0370146729,124861
+235,Fargo,North Dakota,320827.6450485759,136275
+236,Sparks,Nevada,534592.340527536,111902
+237,Santa Clara,California,1655102.84771957,133446
+238,Saginaw,Michigan,131041.92754293769,42863
+239,Nampa,Idaho,415973.1280227779,120384
+240,Vallejo,California,513893.89307977626,123287
+241,Temecula,California,753527.746795951,114865
+242,Norman,Oklahoma,259542.9300518404,130943
+243,Thousand Oaks,California,1025741.7510079622,122230
+244,Meridian,Idaho,531312.1899934764,142988
+245,Joliet,Illinois,268285.2292742204,152241
+246,Richmond,California,602064.4317278195,114861
+247,Charlottesville,Virginia,505387.9288839143,44388
+248,Bellingham,Washington,651904.2123223423,96395
+249,Arvada,Colorado,590179.1697936067,122901
+250,Yakima,Washington,355963.9414211666,97458
+251,Tuscaloosa,Alabama,242085.82278750165,114316
+252,Elgin,Illinois,338726.46643354185,115476
+253,Chico,California,455480.4996228085,105081
+254,Spartanburg,South Carolina,228849.5275595396,39978
+255,Bowling Green,Kentucky,278254.14287748374,78505
+256,Largo,Florida,336697.1210416981,80690
+257,Springfield,Illinois,168844.36514062193,112989
+258,Hartford,Connecticut,202390.87940621792,121981
+259,Toms River,New Jersey,463403.17003727023,100899
+260,Lewisville,Texas,381505.5772919239,139006
+261,Berkeley,California,1483806.019582783,121911
+262,Gresham,Oregon,456635.2861658229,111513
+263,Palm Bay,Florida,303561.7557336854,148092
+264,Asheville,North Carolina,440721.1255476127,93523
+265,Delray Beach,Florida,346944.80910740333,69809
+266,New Braunfels,Texas,342676.1654410855,122492
+267,Cambridge,Massachusetts,1038098.0345976396,122588
+268,Carlsbad,California,1548772.4860354902,112260
+269,Perris,California,542997.003569336,83237
+270,West Jordan,Utah,549406.8166575603,116812
+271,Vista,California,873300.1059976815,98274
+272,Fairfield,California,595662.3900888567,122489
+273,Hillsboro,Oregon,506572.8279397897,111126
+274,Waco,Texas,191915.3633928436,147788
+275,Richardson,Texas,432748.8727551115,118542
+276,Lowell,Massachusetts,476490.9614553591,119971
+277,Costa Mesa,California,1424599.564299513,108881
+278,Santa Barbara,California,1850615.7838675568,86422
+279,Rock Hill,South Carolina,317594.934433717,75911
+280,Waterbury,Connecticut,283927.41273481754,115771
+281,Downey,California,878142.1677688016,108468
+282,League City,Texas,370292.0046133169,119905
+283,Pflugerville,Texas,358097.7618253326,68316
+284,Provo,Utah,476073.9669454754,114527
+285,Ventura,California,889164.2848363317,830851
+286,Lexington,South Carolina,303963.4669879934,317588
+287,Antioch,California,586725.1316934859,118958
+288,Redding,California,385779.4550681768,94092
+289,Kennesaw,Georgia,397719.2330334826,37970
+290,El Monte,California,748967.1077575997,105075
+291,North Charleston,South Carolina,306962.92333906307,129245
+292,West Covina,California,831533.1219533904,105301
+293,Pompano Beach,Florida,352596.2081727243,117211
+294,San Leandro,California,798070.7330115371,85353
+295,Vacaville,California,597512.6081533289,103850
+296,High Point,North Carolina,246451.9394339286,120571
+297,Winter Haven,Florida,270796.4903296902,62313
+298,Grand Junction,Colorado,416766.5623325417,71827
+299,Miami Gardens,Florida,478844.5607096755,113579
+300,Centennial,Colorado,624632.5738311632,108658
+301,Menifee,California,580084.6974173518,118592
+302,Hesperia,California,458471.7664784589,102605
+303,Bothell,Washington,964518.730012372,52199
+304,San Mateo,California,1692923.7192304183,103337
+305,Douglasville,Georgia,298994.6090952833,41523
+306,Green Bay,Wisconsin,281944.3385462204,106675
+307,Lynnwood,Washington,729313.1597954907,42132
+308,Madera,California,421885.29983090615,69017
+309,Greenville,North Carolina,233551.165522712,96443
+310,Burbank,California,1165754.6115613466,102988
+311,Baytown,Texas,242416.42763764423,86561
+312,Davie,Florida,516351.3344656876,110851
+313,Edison,New Jersey,632153.9997679628,109077
+314,Greeley,Colorado,409819.0249547477,115073
+315,Merced,California,391661.9259825868,99724
+316,Rockville,Maryland,592824.09652876,67563
+317,Longmont,Colorado,539286.8109391849,100109
+318,Sandy Springs,Georgia,685551.1832056657,105013
+319,Missouri City,Texas,327415.94910303905,77327
+320,Gaithersburg,Maryland,511047.5540237944,71113
+321,Chapel Hill,North Carolina,618649.8582237813,63565
+322,Woodstock,Georgia,449626.0726236909,39895
+323,Daly City,California,1135439.3152930995,101261
+324,Jurupa Valley,California,671519.5440811291,107311
+325,Idaho Falls,Idaho,389411.2748516477,71785
+326,Rio Rancho,New Mexico,357391.40904881264,114419
+327,Apopka,Florida,392149.9520002762,65552
+328,Davenport,Iowa,193386.52899517264,100358
+329,Brockton,Massachusetts,502009.7064434938,106134
+330,Wichita Falls,Texas,172411.7614371009,101951
+331,Longview,Texas,229791.2556709912,83236
+332,Norwalk,California,756260.6863943255,97104
+333,Plainfield,Illinois,424625.5970943069,50043
+334,Parker,Colorado,668674.5861217872,65985
+335,Rialto,California,588291.1483577375,106554
+336,Roswell,Georgia,646743.675362002,91505
+337,Lafayette,Indiana,264133.2462912908,71238
+338,Federal Way,Washington,573797.5515880306,99729
+339,Elkhart,Indiana,230022.30769558056,54092
+340,Fayetteville,Arkansas,379540.1310576641,106623
+341,Gastonia,North Carolina,270804.0809314222,87067
+342,Kennewick,Washington,423728.8172627853,88366
+343,Lawton,Oklahoma,143238.99793724998,90503
+344,Champaign,Illinois,233907.641009664,91195
+345,Clermont,Florida,425229.1623891526,52812
+346,Lynchburg,Virginia,261351.769802518,81347
+347,Sandy,Utah,653720.4371340813,92386
+348,Redwood City,California,1907047.646036825,82178
+349,Fishers,Indiana,443133.4863334972,104812
+350,Carmel,Indiana,574899.1464562708,105634
+351,Livermore,California,1063376.8498093945,83457
+352,Canton,Georgia,506520.8864899911,40778
+353,Fort Mill,South Carolina,516569.2500707206,38673
+354,Lynn,Massachusetts,574287.0268740514,104236
+355,Portsmouth,Virginia,265308.177947727,96777
+356,Kenosha,Wisconsin,279721.777145683,99239
+357,Scranton,Pennsylvania,200581.25514822616,75514
+358,New Bedford,Massachusetts,437828.3548924382,101834
+359,Bowie,Maryland,513185.7334607834,58383
+360,San Marcos,California,953540.8400138968,94908
+361,Napa,California,853267.4744178117,76562
+362,Annapolis,Maryland,617723.9503568389,40634
+363,San Angelo,Texas,206978.417206154,100640
+364,Pittsburg,California,556230.2129946193,77542
+365,Chino,California,742096.885012169,96957
+366,Johnson City,Tennessee,291666.67046543694,74943
+367,Mission Viejo,California,1197504.6716227194,90484
+368,Missoula,Montana,558936.2318274658,78903
+369,Newnan,Georgia,361071.4887218734,45867
+370,Sunrise,Florida,358703.38638024445,98846
+371,Hawthorne,California,869636.0657627602,82741
+372,Orem,Utah,495547.8175219996,95214
+373,Rapid City,South Dakota,360378.9079169352,80589
+374,Spokane Valley,Washington,401530.5522567613,108405
+375,Livonia,Michigan,310770.34628225694,92603
+376,Loveland,Colorado,490183.63717414415,81387
+377,Indio,California,507811.1416637323,94269
+378,Cheyenne,Wyoming,389025.9964776553,66507
+379,Valdosta,Georgia,211312.9737954534,56186
+380,South Gate,California,693815.6287784157,90071
+381,Gulfport,Mississippi,203567.0370803316,76506
+382,Flagstaff,Arizona,651494.275180771,77260
+383,Ogden,Utah,387098.8653582946,89510
+384,Apex,North Carolina,586718.8299025407,80419
+385,Plantation,Florida,494008.3065677194,99183
+386,Fort Smith,Arkansas,189874.3737271425,90855
+387,Terre Haute,Indiana,157793.85833248784,58764
+388,Holland,Michigan,367880.5854790054,35372
+389,Santa Monica,California,1677414.659378997,90082
+390,Goodyear,Arizona,460979.7455380524,125359
+391,Lacey,Washington,501787.7341491229,58833
+392,Bismarck,North Dakota,376045.5569509292,77963
+393,Fort Pierce,Florida,276724.48207555874,51737
+394,Manteca,California,570528.3296038028,96693
+395,Fall River,Massachusetts,446240.902710048,95298
+396,Florissant,Missouri,192748.3259914801,51124
+397,Palm Coast,Florida,344176.38407249795,109886
+398,Albany,Georgia,130661.8978480698,66907
+399,Macomb,Michigan,422440.9412473132,886221
+400,Greenwood,Indiana,324653.01148804405,69349
+401,Duluth,Minnesota,290139.1358875105,88330
+402,Westminster,California,1093450.3440880743,88966
+403,Nashua,New Hampshire,502368.3917804453,92435
+404,Appleton,Wisconsin,302521.8427678512,75452
+405,Deltona,Florida,296800.81588362873,100267
+406,Harlingen,Texas,194880.385533807,72467
+407,Greer,South Carolina,347547.53361788293,50007
+408,Muncie,Indiana,153973.01441958034,65466
+409,Waukegan,Illinois,245845.81852351944,87940
+410,Sanford,Florida,338349.6267600052,67483
+411,Clifton,New Jersey,600047.2026723386,91127
+412,Stafford,Virginia,544562.6960428096,170803
+413,Warner Robins,Georgia,213607.1508119249,87761
+414,Walnut Creek,California,994044.1435440182,70012
+415,Jonesboro,Arkansas,224123.3506252643,83296
+416,San Ramon,California,1436135.4362249963,86209
+417,Citrus Heights,California,467046.4604308219,86348
+418,Mooresville,North Carolina,471966.90024121135,55842
+419,Owensboro,Kentucky,211829.7759515985,60892
+420,Victoria,Texas,212645.5010947229,66500
+421,Sioux City,Iowa,198667.70696284567,86356
+422,Poughkeepsie,New York,427976.8821835247,45986
+423,Iowa City,Iowa,299413.2396071465,76229
+424,Buckeye,Arizona,389055.0331842199,125445
+425,Bloomington,Illinois,265772.2235755669,78804
+426,Danbury,Connecticut,488173.9250616861,89033
+427,Rancho Cordova,California,525260.3840607424,87554
+428,Newport Beach,California,3770005.26538602,81977
+429,Mission,Texas,215282.44500542065,88992
+430,Brooklyn Park,Minnesota,340959.33415573643,83543
+431,Alpharetta,Georgia,707904.8884489835,66921
+432,Westland,Michigan,210931.57044587424,82333
+433,Avondale,Arizona,390773.0436494432,100983
+434,Cedar Park,Texas,451890.56351522607,79032
+435,Cicero,Illinois,279258.4523992675,81858
+436,Kirkland,Washington,1135829.426417929,97410
+437,Springdale,Arkansas,336305.54755157564,90685
+438,Eau Claire,Wisconsin,314581.0151583,72465
+439,Hattiesburg,Mississippi,218733.36107233155,48802
+440,Temple,Texas,242597.01838906147,98412
+441,Deerfield Beach,Florida,272559.99675961264,89339
+442,Apple Valley,California,429044.0940996544,75247
+443,Valparaiso,Indiana,360519.6471050375,35177
+444,Battle Creek,Michigan,181768.4939608993,52021
+445,Buena Park,California,930671.5974409943,81741
+446,Covina,California,787245.3800350657,49404
+447,Watsonville,California,820588.8542921343,50716
+448,Camarillo,California,905177.7778776708,68652
+449,Farmington Hills,Michigan,380657.1481196834,83291
+450,Arlington Heights,Illinois,491430.9759866477,76216
+451,Smyrna,Georgia,437321.1187930121,57513
+452,Conway,Arkansas,247824.598860432,72328
+453,Wake Forest,North Carolina,500280.6107290797,58147
+454,Mountain View,California,1962122.4852317544,85438
+455,Des Plaines,Illinois,356408.0373746978,58772
+456,Oviedo,Florida,503232.138962372,41317
+457,Alhambra,California,912308.9608545098,79820
+458,Evanston,Illinois,494577.2817646728,76380
+459,Cranston,Rhode Island,452340.74877166445,84647
+460,Westerville,Ohio,444580.94712594966,38165
+461,Miami Beach,Florida,537083.5992788214,81594
+462,Upland,California,810363.2985728496,79446
+463,Kingsport,Tennessee,253321.39917358052,57530
+464,Carson,California,788964.0059621393,90808
+465,Schaumburg,Illinois,357299.0436844568,77249
+466,Lakewood,California,872154.9535540525,78010
+467,Salisbury,North Carolina,277029.5406665213,36879
+468,Johns Creek,Georgia,683819.0397405149,80401
+469,Noblesville,Indiana,391172.3926430233,76111
+470,Turlock,California,479611.202514712,72864
+471,Pharr,Texas,160326.27067865303,80830
+472,Tustin,California,1140707.541170127,77843
+473,Parma,Ohio,214713.045122664,78581
+474,Milpitas,California,1388850.739473501,78596
+475,Yuba City,California,435579.0340538311,69485
+476,Lodi,California,506703.7523867841,69100
+477,State College,Pennsylvania,412007.1520967826,40844
+478,Marysville,Washington,606390.4103193918,77686
+479,Lake Forest,California,1165081.8797525223,86333
+480,Porterville,California,327643.94546174904,63088
+481,Lake Elsinore,California,580997.4378655992,75067
+482,Plant City,Florida,335960.4064708273,44118
+483,Hoover,Alabama,434933.4043658917,93550
+484,Dalton,Georgia,236468.28323085493,35322
+485,Rome,Georgia,229841.5702367636,38934
+486,Somerville,Massachusetts,911857.5253664228,84211
+487,Folsom,California,750809.1355568726,91983
+488,Bellflower,California,796077.4775011963,74719
+489,Layton,Utah,516743.4466762117,85308
+490,Rogers,Arkansas,377977.1414899631,76956
+491,Castle Rock,Colorado,653052.9552068961,83815
+492,Olympia,Washington,520047.903832489,56724
+493,Tulare,California,355283.43304188503,73907
+494,Redlands,California,634223.7737508338,74128
+495,Bozeman,Montana,716411.4087851628,58814
+496,Dothan,Alabama,202321.1741065561,72060
+497,Jupiter,Florida,714735.9032750167,62350
+498,Madison,Alabama,373930.6229209289,67968
+499,Leander,Texas,411734.6267365259,91132
+500,La Mesa,California,886585.0973510869,59914
+501,Racine,Wisconsin,216133.6040143788,77908
+502,Hagerstown,Maryland,297001.7176494433,44228
+503,Rochester Hills,Michigan,460998.9592155742,77539
+504,Southfield,Michigan,246605.35787525176,76111
+505,White Plains,New York,802519.5446396662,62871
+506,Binghamton,New York,189768.3073845064,46418
+507,Pleasanton,California,1494916.7721585054,74556
+508,Bremerton,Washington,475577.13483162224,45482
+509,New Rochelle,New York,943082.8798543812,85864
+510,Brentwood,California,775842.1751599178,66607
+511,Pawtucket,Rhode Island,393854.7232123222,77065
+512,Hot Springs,Arkansas,240717.4478582537,37979
+513,Flower Mound,Texas,594819.6257762845,79540
+514,Chino Hills,California,965462.8678541392,77519
+515,New Britain,Connecticut,308033.3244068849,76286
+516,Caldwell,Idaho,398251.7922986,76629
+517,Gary,Indiana,88808.32647387976,67289
+518,Palm Beach Gardens,Florida,703917.5111370786,63883
+519,Queen Creek,Arizona,626011.868070037,89770
+520,Petaluma,California,896877.526344493,59688
+521,Great Falls,Montana,337010.5019234705,60208
+522,Warwick,Rhode Island,419161.4526815308,84187
+523,South Jordan,Utah,654836.7742030673,87614
+524,Davis,California,827846.4784509306,66110
+525,North Port,Florida,304326.94360310794,96551
+526,Lauderhill,Florida,208022.34046401992,75668
+527,Aiken,South Carolina,273990.10881586507,181515
+528,Broomfield,Colorado,614097.0109122165,79174
+529,Mount Vernon,New York,596431.4431824394,72304
+530,Brick,New Jersey,521622.39623267454,77402
+531,Kokomo,Indiana,181965.63977221632,59999
+532,Baldwin Park,California,707752.7838566027,68880
+533,Utica,New York,209087.85058905603,62978
+534,Lakeville,Minnesota,477469.1918890989,79270
+535,Daytona Beach,Florida,245731.81303700985,88471
+536,Wilkes-Barre,Pennsylvania,184833.3651746211,44523
+537,Grants Pass,Oregon,393274.0629691855,39239
+538,Lebanon,Pennsylvania,289213.4574245525,146380
+539,San Rafael,California,1320989.4036871332,59410
+540,Bossier City,Louisiana,227640.1130611704,63259
+541,North Little Rock,Arkansas,164313.1814281029,65120
+542,Casper,Wyoming,308861.1731660585,58771
+543,Framingham,Massachusetts,650426.449775458,73021
+544,Bolingbrook,Illinois,369369.4089458968,74803
+545,West Lafayette,Indiana,360899.5959537912,45747
+546,Council Bluffs,Iowa,224869.9498533781,62680
+547,Harrisonburg,Virginia,350519.715009018,50839
+548,Hendersonville,Tennessee,511921.7062397296,64266
+549,Corvallis,Oregon,551385.0872321517,61499
+550,Yorba Linda,California,1394912.075381643,65632
+551,Huntersville,North Carolina,539095.0529998918,68535
+552,Auburn,Alabama,415731.6790818832,85113
+553,Maple Grove,Minnesota,418474.95866794366,73893
+554,Waterloo,Iowa,144755.96309943552,66919
+555,Hickory,North Carolina,290831.3426961575,45975
+556,Winter Garden,Florida,564334.8234420292,48063
+557,Hanford,California,380277.6062208363,62229
+558,Lehi,Utah,563475.7238415369,95313
+559,Palatine,Illinois,389091.5645644648,65842
+560,Passaic,New Jersey,550889.315147847,71337
+561,Dubuque,Iowa,245750.01705396967,59148
+562,Huntington Park,California,668317.449091975,51544
+563,Stockbridge,Georgia,287007.5666102408,36331
+564,North Richland Hills,Texas,362533.5268204656,70843
+565,Tamarac,Florida,289086.6337022096,74134
+566,Snohomish,Washington,888528.1729438951,870656
+567,Hammond,Indiana,176405.00183770797,75712
+568,Ames,Iowa,298143.69006926223,68220
+569,Blaine,Minnesota,376324.0648758536,76603
+570,Redondo Beach,California,1475219.9814924176,67281
+571,Palo Alto,California,3664292.697397692,67609
+572,East Orange,New Jersey,479575.5828132005,72159
+573,Dover,Delaware,339787.8088810776,40592
+574,Jefferson City,Missouri,277563.2343355103,42489
+575,Alameda,California,1152811.9037955855,76876
+576,Norristown,Pennsylvania,330490.0760339782,35911
+577,Eagan,Minnesota,394937.9634889739,67109
+578,Cookeville,Tennessee,317109.0582436701,38212
+579,Portland,Maine,546949.0596091632,69911
+580,Union City,California,1189097.1404925296,65282
+581,Woodland,California,548644.1280439025,62513
+582,Littleton,Colorado,609387.7774701742,46246
+583,Waukesha,Wisconsin,419595.9087936135,70872
+584,Weatherford,Texas,391637.3238444317,40634
+585,Maricopa,Arizona,338366.1164384641,78362
+586,Bellevue,Nebraska,298048.6202471582,64863
+587,Casa Grande,Arizona,313744.0528614447,69753
+588,Haverhill,Massachusetts,540992.4310706098,68361
+589,Shawnee,Kansas,422026.9138146253,69848
+590,Doral,Florida,542039.4301752056,81634
+591,Arcadia,California,1360201.0924250989,54117
+592,Kenner,Louisiana,255883.0008892148,65136
+593,Lynwood,California,689395.6565593411,63512
+594,Tigard,Oregon,596072.8567146558,57929
+595,Oshkosh,Wisconsin,258325.4603535765,67460
+596,Grove City,Ohio,329631.08632157743,45180
+597,Weston,Florida,717774.3234552414,69588
+598,Manhattan,Kansas,291892.8856395401,54673
+599,Gilroy,California,1042616.0623511744,60764
+600,Vineland,New Jersey,304719.78721557534,62703
+601,Lorain,Ohio,154050.55608566248,65366
+602,Pocatello,Idaho,337951.4660063384,58771
+603,Bluffton,South Carolina,497660.4113959169,36807
+604,Malden,Massachusetts,664414.6562521596,66370
+605,West Des Moines,Iowa,317544.0193251623,74224
+606,Rocklin,California,684759.3208282888,76821
+607,Orland Park,Illinois,410512.6634304349,57954
+608,Port Orange,Florida,337565.5285984805,66395
+609,Sammamish,Washington,1462545.4869312886,66110
+610,Midland,Michigan,246810.3987781164,42806
+611,Medina,Ohio,379092.1335734649,185025
+612,Eastvale,California,924865.6367390436,70594
+613,Prescott,Arizona,591507.3010650725,48420
+614,West Hartford,Connecticut,500783.5385780127,64242
+615,Little Elm,Texas,386192.4951499139,62727
+616,Statesboro,Georgia,269005.886804102,35366
+617,Decatur,Alabama,219249.8336841632,58056
+618,Waltham,Massachusetts,805925.36301173,65037
+619,South San Francisco,California,1233037.349237568,64941
+620,Mansfield,Ohio,152166.44323615657,47381
+621,San Luis Obispo,California,1086813.3874341834,50636
+622,Crown Point,Indiana,360339.5057268627,35616
+623,La Crosse,Wisconsin,281950.2807386378,50784
+624,Burnsville,Minnesota,361514.3750184428,65244
+625,West Chester,Ohio,417577.04892246966,67165
+626,Valley Stream,New York,768371.5527299267,40379
+627,Biloxi,Mississippi,237156.8774682897,48516
+628,Laguna Niguel,California,1482575.380046526,64107
+629,Niagara Falls,New York,168250.7146489128,47255
+630,Dublin,California,1206586.7389413535,71602
+631,Eden Prairie,Minnesota,495416.42591933993,63075
+632,Goldsboro,North Carolina,187426.40898029777,35012
+633,Coon Rapids,Minnesota,324533.62848267454,64193
+634,San Gabriel,California,1088791.1772498728,38186
+635,Taylor,Michigan,176520.23330501645,61279
+636,Hilliard,Ohio,379558.7217410064,38898
+637,Mount Juliet,Tennessee,554874.5456665138,45172
+638,Brookline,Massachusetts,1260771.0127482463,63414
+639,Commerce City,Colorado,474254.74719365104,72345
+640,Fond du Lac,Wisconsin,261271.23351267944,44541
+641,Ankeny,Iowa,336028.1089030267,77833
+642,Euless,Texas,348447.2502405175,60008
+643,Youngstown,Ohio,69968.05562325683,58832
+644,Dearborn Heights,Michigan,210605.25890826425,60664
+645,Elyria,Ohio,185490.5195733922,53634
+646,Skokie,Illinois,427671.9453615987,66544
+647,Janesville,Wisconsin,292537.0018837184,66929
+648,Montebello,California,817611.9366335003,60693
+649,Panama City,Florida,280266.3264342486,37806
+650,Phenix City,Alabama,211043.3418461985,38344
+651,La Habra,California,898771.8353653284,60908
+652,Florence,Alabama,213240.70342174373,42581
+653,Medford,Massachusetts,811246.0130339717,59834
+654,Altamonte Springs,Florida,289027.28948412806,48000
+655,Pico Rivera,California,746473.334971062,58915
+656,Downers Grove,Illinois,501748.46425203286,50365
+657,Bentonville,Arkansas,486710.9920309552,63057
+658,Novato,California,1063413.15442816,51947
+659,Pontiac,Michigan,134200.3942193871,62077
+660,Wylie,Texas,404364.8526254848,63842
+661,Encinitas,California,1936633.8380975013,60736
+662,San Clemente,California,1757242.7415855292,62226
+663,Wellington,Florida,662857.2175350072,62662
+664,Greenwich,Connecticut,2432982.2249550256,64801
+665,Hamden,Connecticut,363385.1773092246,61824
+666,Altoona,Pennsylvania,136416.3907268315,42347
+667,Piscataway,New Jersey,593125.5927883409,62253
+668,Grand Forks,North Dakota,303174.63343842473,60365
+669,Gardena,California,778668.3473699972,58460
+670,Azusa,California,704076.7412335832,47447
+671,Novi,Michigan,462598.0989640132,67319
+672,Monterey Park,California,906273.8888860918,57457
+673,Mishawaka,Indiana,211348.63615328408,51226
+674,Bristol,Connecticut,346983.58212505904,62341
+675,Joplin,Missouri,204612.1723831352,53930
+676,Taylorsville,Utah,487543.195801865,57484
+677,Irvington,New Jersey,420266.4004237889,62233
+678,West Allis,Wisconsin,271258.98525176296,60119
+679,New Castle,Delaware,276200.4644439097,588026
+680,North Miami,Florida,427077.7293777967,60884
+681,Meriden,Connecticut,323846.3266517178,60810
+682,Hoboken,New Jersey,916860.4890333444,59027
+683,Rosemead,California,890367.3091584357,49410
+684,Texarkana,Texas,202271.6553540237,36195
+685,Manchester,Connecticut,331653.0062774307,59773
+686,Lompoc,California,598759.3482058174,43315
+687,Coeur d'Alene,Idaho,602459.9132748861,58179
+688,Helena,Montana,474104.2475270885,35138
+689,Farmington,New Mexico,285379.5924822651,46055
+690,Oak Lawn,Illinois,300297.9954138124,56450
+691,Tinley Park,Illinois,335634.9842823404,55140
+692,Wheaton,Illinois,508882.0849937017,54065
+693,Goose Creek,South Carolina,318196.0448509459,52010
+694,Hempstead,New York,646284.4112740856,59819
+695,Taunton,Massachusetts,516007.4082460837,62522
+696,Edmonds,Washington,892668.5447714353,42748
+697,Bayonne,New Jersey,590999.0802176436,74744
+698,Twin Falls,Idaho,368594.7399567599,56216
+699,Lake Havasu City,Arizona,458981.61740013934,59358
+700,Danville,California,1824108.8169790723,43302
+701,Wilson,North Carolina,213483.1273568236,49572
+702,Ormond Beach,Florida,363439.5612109367,44692
+703,Royal Oak,Michigan,323609.8662901,57583
+704,Cupertino,California,3007135.193198036,58333
+705,National City,California,690792.5425724706,57807
+706,Stillwater,Oklahoma,266204.7414853641,50046
+707,Waxahachie,Texas,365090.314877788,50090
+708,Mount Prospect,Illinois,448303.9012163056,55395
+709,Lenexa,Kansas,475400.8154800215,60506
+710,Blacksburg,Virginia,407382.766218078,45104
+711,Freehold,New Jersey,648345.6307111509,36052
+712,Apache Junction,Arizona,365843.3045420887,45672
+713,Margate,Florida,320488.850904801,60070
+714,Titusville,Florida,270795.6623033536,49800
+715,Leesburg,Florida,272732.4991069844,38905
+716,Glenview,Illinois,693670.1884405619,47711
+717,Santee,California,792701.522188912,58205
+718,Bensalem,Pennsylvania,424042.85596966505,62783
+719,Mason,Ohio,503627.2020975195,35834
+720,Kingman,Arizona,272911.0392606973,35829
+721,Kettering,Ohio,242729.01685849973,57396
+722,Midwest City,Oklahoma,167502.14825364863,58799
+723,Colton,California,494263.6719292775,53383
+724,Berwyn,Illinois,318942.2721376092,55001
+725,Fountain Valley,California,1384552.622812868,55508
+726,Oregon City,Oregon,586971.6975214869,38175
+727,Bonita Springs,Florida,505222.2265898148,57634
+728,Coconut Creek,Florida,277668.6058262465,58626
+729,Olive Branch,Mississippi,330636.247250971,47563
+730,Shoreline,Washington,769425.7332536746,66542
+731,Hollister,California,756721.4543569068,45695
+732,Wyoming,Michigan,288569.11424295814,78588
+733,La Puente,California,716090.7336260034,36423
+734,Muskegon,Michigan,189898.9810980705,37224
+735,Blue Springs,Missouri,307716.737873487,61632
+736,Revere,Massachusetts,605718.4343715789,60141
+737,New Brunswick,New Jersey,442030.1819724138,57133
+738,El Centro,California,391227.2506346077,44382
+739,Grand Island,Nebraska,248851.9389610424,53943
+740,Wausau,Wisconsin,247242.2662202544,40188
+741,Garner,North Carolina,374515.9956464598,41562
+742,Port Arthur,Texas,126532.62757922588,55804
+743,Lincoln,California,636744.0554648614,57367
+744,Palm Desert,California,538453.7518877911,53259
+745,Chicopee,Massachusetts,318531.51377181144,55310
+746,Anderson,Indiana,130860.1818011763,56153
+747,Alexandria,Louisiana,145289.8297361662,42938
+748,Beaumont,California,534030.4202618684,60835
+749,Brookhaven,Georgia,746577.9644570397,59643
+750,Delano,California,330936.8818276192,52334
+751,Perth Amboy,New Jersey,496722.6913020303,56739
+752,Kentwood,Michigan,328142.7908398092,54776
+753,Collierville,Tennessee,498727.33050814254,51909
+754,Mankato,Minnesota,299172.3341759257,46529
+755,Nacogdoches,Texas,222353.292667615,66035
+756,Minot,North Dakota,276493.5227004373,47308
+757,Rocky Mount,North Carolina,184239.72399098644,55120
+758,Glendora,California,876013.6087543959,49671
+759,Rowlett,Texas,358862.5569090287,67890
+760,Oak Park,Illinois,482078.4254956303,52823
+761,San Jacinto,California,480416.67071277247,56014
+762,Findlay,Ohio,243493.1586746616,40370
+763,Seminole,Florida,384656.8238606116,491884
+764,West Sacramento,California,519377.2472503097,56216
+765,Peabody,Massachusetts,688665.9727573324,55953
+766,Yucaipa,California,573596.0072047737,54953
+767,Rosenberg,Texas,308030.47899803903,42701
+768,West Haven,Connecticut,360812.1980655265,55351
+769,Paramount,California,649018.1872844095,50755
+770,Edina,Minnesota,617929.9407852845,54356
+771,Crystal Lake,Illinois,380171.1275922893,42288
+772,Lombard,Illinois,386032.2214184206,44399
+773,Elizabethtown,Kentucky,264691.01680478663,35448
+774,Methuen,Massachusetts,614828.1469359644,54584
+775,West New York,New Jersey,462358.26600215695,53192
+776,Bloomfield,New Jersey,605025.7290439367,56375
+777,Cuyahoga Falls,Ohio,215466.2983706573,50975
+778,Placentia,California,1101177.6220200686,54911
+779,Mentor,Ohio,274277.9081351455,47010
+780,Sheboygan,Wisconsin,262422.7885021892,49376
+781,Galveston,Texas,314694.5457289048,53636
+782,Highland,California,537962.7696363396,57614
+783,East Lansing,Michigan,312821.5401142889,49355
+784,Draper,Utah,805317.0921211267,50652
+785,Normal,Illinois,262598.14303475845,53275
+786,Plymouth,Massachusetts,649520.4942779989,546829
+787,Lake Stevens,Washington,672269.9821236572,42091
+788,Kannapolis,North Carolina,273358.25837240927,61708
+789,Prescott Valley,Arizona,453143.5986975751,52423
+790,Morgan Hill,California,1313111.9325758724,45625
+791,Kyle,Texas,290448.57209053094,69917
+792,Forney,Texas,301349.233348446,41658
+793,Enid,Oklahoma,134673.30216635417,50297
+794,Cypress,California,1068637.1815923874,48781
+795,Stratford,Connecticut,462280.8197058863,53908
+796,Diamond Bar,California,998035.050403548,51884
+797,Sherman,Texas,245709.19718227847,52417
+798,Pinellas Park,Florida,301654.29395839485,52295
+799,Aliso Viejo,California,977389.6744760048,49844
+800,East Hartford,Connecticut,306381.7270700818,50968
+801,Issaquah,Washington,1072018.6798312992,39423
+802,Grapevine,Texas,546847.436777473,50714
+803,Belleville,Illinois,157516.07152541343,40237
+804,Seguin,Texas,267499.0574975713,41048
+805,Wentzville,Missouri,400019.6466554026,49495
+806,Hobbs,New Mexico,208075.81167625336,40863
+807,Brea,California,1114974.879347001,47260
+808,Quincy,Illinois,182158.87169359185,38918
+809,New Albany,Indiana,235102.09981154103,37463
+810,Dunwoody,Georgia,667502.4210233362,51792
+811,Lawrence,Indiana,265583.1409971928,50420
+812,Poway,California,1203530.900084272,49180
+813,Post Falls,Idaho,532116.2826642677,46715
+814,Sierra Vista,Arizona,297874.9702799491,44907
+815,Minnetonka,Minnesota,478461.0754303385,53969
+816,Burien,Washington,619814.5599972936,51859
+817,Cathedral City,California,473078.7815892185,52375
+818,Salina,Kansas,177361.1696440454,46094
+819,Benton,Arkansas,237136.6964966225,38898
+820,Georgetown,Kentucky,340760.41291204444,40883
+821,Cerritos,California,1083291.911643115,46367
+822,Hutchinson,Kansas,149044.05699416425,39595
+823,Southaven,Mississippi,271595.6921945673,57819
+824,Shakopee,Minnesota,396781.5664629623,49366
+825,East Brunswick,New Jersey,621111.2369048542,50678
+826,Cedar Hill,Texas,309412.8898561728,49801
+827,La Mirada,California,879128.2852296521,45952
+828,Coral Gables,Florida,1601228.9108349427,49578
+829,West Orange,New Jersey,685853.5508661735,49557
+830,Cleburne,Texas,264684.1527141472,39942
+831,Prattville,Alabama,266819.48712215427,40582
+832,Barnstable,Massachusetts,710406.8659225618,233539
+833,Everett,Massachusetts,617453.4490744976,53572
+834,Hoffman Estates,Illinois,404270.5052669062,50858
+835,Wauwatosa,Wisconsin,418799.4006378769,48649
+836,Martinez,California,750195.4044513606,36849
+837,Milford,Connecticut,502109.3180525661,53606
+838,Newark,California,1164650.6737782191,47895
+839,Rexburg,Idaho,418133.21407155786,40334
+840,Haines City,Florida,292173.3058642514,45973
+841,Spring Hill,Tennessee,514780.8594249203,61336
+842,Weslaco,Texas,173249.23938334887,44203
+843,Texas City,Texas,224669.4003961576,59733
+844,Elmhurst,Illinois,631116.0233513415,46111
+845,Middletown,Connecticut,363839.4115827416,48439
+846,Beavercreek,Ohio,330818.16360856144,48134
+847,Winter Springs,Florida,423369.822105359,39585
+848,Urbana,Illinois,202706.204125468,39719
+849,Rockwall,Texas,464601.7766057623,53980
+850,Lake Oswego,Oregon,867018.7612553523,39722
+851,East Providence,Rhode Island,441105.2919513605,48249
+852,Palm Springs,California,614522.236484862,45315
+853,Los Banos,California,455760.4043415911,49614
+854,Jeffersonville,Indiana,251065.15347094988,54134
+855,Hinesville,Georgia,235659.9879833396,36674
+856,Arlington,Massachusetts,1054749.0974371822,46563
+857,Hackensack,New Jersey,474514.1572418131,46380
+858,Attleboro,Massachusetts,532674.2521532675,47447
+859,Strongsville,Ohio,359746.0645588354,45629
+860,Moorhead,Minnesota,282149.831922674,46533
+861,Ceres,California,447205.670401616,48982
+862,Muskogee,Oklahoma,142451.96910298424,36760
+863,Cleveland Heights,Ohio,206491.1826151509,43750
+864,Herriman,Utah,597390.6712149867,63282
+865,Peachtree Corners,Georgia,531986.9445576033,42519
+866,Euclid,Ohio,147567.5821126336,47962
+867,Chesterfield,Michigan,324228.99029459705,47770
+868,Pine Bluff,Arkansas,68011.533177178,38213
+869,Bountiful,Utah,565798.2393079385,44988
+870,Freeport,New York,673822.8885558428,44174
+871,Haltom City,Texas,238869.7491241608,45542
+872,Rancho Santa Margarita,California,996359.9332596796,45779
+873,Moline,Illinois,149458.00183979698,42362
+874,Oakland Park,Florida,371143.3537172945,45332
+875,Spanish Fork,Utah,506470.13708564034,48837
+876,Wenatchee,Washington,486418.8929728668,35547
+877,Riverton,Utah,613929.7385902144,47395
+878,Owasso,Oklahoma,317010.22559636686,43117
+879,Ocoee,Florida,411470.59323427937,51932
+880,Hamburg,New York,314518.39932281413,60768
+881,Wallingford,Connecticut,423765.5350383196,44406
+882,Pittsfield,Massachusetts,305308.8070452287,42909
+883,Burleson,Texas,332671.5321290292,56907
+884,Orangeburg,South Carolina,166969.3511551722,83177
+885,Walla Walla,Washington,409739.9235821282,62361
+886,Oswego,Illinois,416963.13081141113,39948
+887,Okeechobee,Florida,285956.17472090124,42608
+888,Linden,New Jersey,545445.8508460433,45752
+889,Southington,Connecticut,442793.1621867728,44242
+890,Brookfield,Wisconsin,520075.8970289582,41448
+891,North Lauderdale,Florida,351371.97397596826,45733
+892,Oro Valley,Arizona,495947.842734638,48085
+893,Cutler Bay,Florida,565997.4000709034,44750
+894,Woonsocket,Rhode Island,382714.7785138297,44580
+895,Cape Girardeau,Missouri,220895.23438725612,40977
+896,Leominster,Massachusetts,462833.1363108447,44194
+897,Monrovia,California,970047.2752961428,38264
+898,North Brunswick,New Jersey,543430.2474931503,45097
+899,The Colony,Texas,392781.2648228013,46196
+900,Coppell,Texas,603753.7677104969,41386
+901,Fitchburg,Massachusetts,397590.54801867175,42136
+902,Opelika,Alabama,305156.78323184483,35765
+903,Campbell,California,1860488.5839146755,42490
+904,San Bruno,California,1313862.6335580917,42305
+905,Milton,Georgia,936859.7720095614,41266
+906,Enfield,Connecticut,334378.3309664351,41142
+907,Salem,Massachusetts,603061.036633112,45381
+908,Tonawanda,New York,254078.8192949711,70853
+909,Coachella,California,431346.4957508061,45411
+910,Beloit,Wisconsin,206114.6982243059,36649
+911,Carol Stream,Illinois,381848.9820603437,39315
+912,North Miami Beach,Florida,458844.1388994988,46236
+913,Billerica,Massachusetts,692942.977419821,42632
+914,Bullhead City,Arizona,295831.4679702785,43987
+915,Bartlesville,Oklahoma,184297.26879417,38278
+916,Oakley,California,650585.8897982114,47583
+917,Greenacres,Florida,283490.2508730827,44736
+918,Lenoir,North Carolina,207808.1717765917,55837
+919,Cibolo,Texas,326330.85148107767,39019
+920,Keller,Texas,642974.7532555136,46078
+921,Kearny,New Jersey,571767.4051467726,40862
+922,Marlborough,Massachusetts,565977.2655599964,42772
+923,Redmond,Oregon,505903.707360253,38547
+924,Urbandale,Iowa,346854.730175358,48570
+925,Maplewood,Minnesota,338243.852516854,40717
+926,Bartlett,Illinois,438980.5773467308,40855
+927,Friendswood,Texas,452602.4540381289,41319
+928,Teaneck,New Jersey,687931.6345869674,43329
+929,Shelton,Connecticut,557460.0866716418,42880
+930,Marana,Arizona,414100.79120047885,65523
+931,Tupelo,Mississippi,213560.2733371853,38087
+932,Upper Darby,Pennsylvania,193695.010854417,85458
+933,Clifton Park,New York,482550.64516275673,37775
+934,Woburn,Massachusetts,747167.2982916143,43962
+935,Brighton,Colorado,484398.9426916608,45395
+936,New Berlin,Wisconsin,450439.4471797275,39953
+937,Culver City,California,1283330.2089909855,39452
+938,Streamwood,Illinois,332036.1099472977,38277
+939,Eagle Mountain,Utah,498512.6373358375,66557
+940,Sahuarita,Arizona,346454.4666283739,37694
+941,Germantown,Tennessee,476998.3364629574,40001
+942,Holly Springs,North Carolina,570382.4518090504,50288
+943,Duncanville,Texas,271964.2433906339,38915
+944,Hurst,Texas,330866.3394344056,38974
+945,Norwich,Connecticut,303001.82838285586,40001
+946,Copperas Cove,Texas,224340.41155147736,40118
+947,Bell Gardens,California,689911.9872066034,37367
+948,Park Ridge,Illinois,590076.1859772451,38463
+949,Indian Trail,North Carolina,407344.4074404637,44303
+950,Chelsea,Massachusetts,519834.9069269193,40130
+951,Reynoldsburg,Ohio,291760.09541868925,43350
+952,Lincoln Park,Michigan,151653.4945261451,38529
+953,Aventura,Florida,419849.51296053664,39880
+954,Rohnert Park,California,705347.34513604,44811
+955,Fort Lee,New Jersey,595904.8460323602,40345
+956,Englewood,Colorado,494510.7187159546,35305
+957,Roy,Utah,426325.5968198975,38794
+958,Rancho Palos Verdes,California,1779990.179868671,39654
+959,Merrillville,Indiana,242186.54729100407,37407
+960,Fairborn,Ohio,206525.24381022528,35754
+961,Tucker,Georgia,381096.7470241078,37290
+962,Bettendorf,Iowa,338023.0919668108,40710
+963,La Vergne,Tennessee,341555.0458658576,42146
+964,Addison,Illinois,377790.8831966682,35758
+965,Groton,Connecticut,443668.45048471,39138
+966,Romeoville,Illinois,320634.3522042208,41281
+967,Buffalo Grove,Illinois,442505.1381247663,42812
+968,Holyoke,Massachusetts,329191.636591874,38023
+969,Shrewsbury,Massachusetts,684656.4018397209,39627
+970,Westfield,Indiana,474118.6525539512,66258
+971,Cullman,Alabama,262590.5041552051,94009
+972,Moorpark,California,929282.5812950288,35023
+973,East Point,Georgia,228252.36328239072,38225
+974,Menomonee Falls,Wisconsin,433886.9551174091,41291
+975,Cottage Grove,Minnesota,393960.97425519256,43604
+976,Beverly,Massachusetts,754799.9653365487,43363
+977,Manitowoc,Wisconsin,242315.61090689985,81710
+978,Hutto,Texas,321345.64741556026,46048
+979,Midlothian,Texas,447923.1501428869,46683
+980,Greenfield,Wisconsin,326715.43632611114,37159
+981,West Fargo,North Dakota,357532.0352675476,41175
+982,La Quinta,California,737796.2399193809,39440
+983,Portage,Indiana,266637.4396299168,38634
+984,Pacifica,California,1270817.4191334303,36890
+985,Mableton,Georgia,346483.6607321077,78820
+986,Leavenworth,Kansas,259595.0369553913,37012
+987,Trumbull,Connecticut,668605.4057136535,38075
+988,Claremont,California,1011256.59807798,35838
+989,Montclair,California,652014.9140766854,37563
+990,Rock Island,Illinois,123614.24726024938,36225
+991,Calexico,California,393798.6711309082,38623
+992,San Juan Capistrano,California,1336621.4621922008,35119
+993,Riviera Beach,Florida,413303.0111393191,39357
+994,Richfield,Minnesota,341194.5463251246,36593
+995,Spotsylvania,Virginia,428130.8652596903,155388
+996,Atlantic City,New Jersey,222476.32297230125,38787
+997,Huber Heights,Ohio,209398.45575556005,43905
+998,Northglenn,Colorado,446167.8336743838,38893
+999,Royal Palm Beach,Florida,489295.7303507665,42477
+1000,Henderson,Kentucky,201654.765713242,44255
+1001,Wheeling,Illinois,315639.9309687444,38391
+1002,New Lenox,Illinois,448832.1404806382,45290
+1003,Peachtree City,Georgia,559390.2864425763,40880
+1004,Hanover Park,Illinois,331183.70552724664,36568
+1005,College Park,Maryland,424129.6999986282,35418
+1006,Lewiston,Maine,291266.1416208264,38866
+1007,Natick,Massachusetts,871133.5385450317,36969
+1008,Andover,Massachusetts,982887.1970781888,37014
+1009,Chelmsford,Massachusetts,667465.0251130377,38549
+1010,Adelanto,California,394069.8328731188,38798
+1011,Kankakee,Illinois,155453.31383319522,105525
+1012,Laramie,Wyoming,382740.0791956782,102938
+1013,Carpentersville,Illinois,296247.96699308377,37045
+1014,Upper Arlington,Ohio,638160.1878278716,35893
+1015,Boardman,Ohio,198527.9853589612,39687
+1016,Sonoma,California,915633.0261933166,486444
+1017,Wildomar,California,645617.2238568728,37889
+1018,Oak Creek,Wisconsin,404247.3086767218,38296
+1019,Pleasant Grove,Utah,543181.2953188107,37773
+1020,Midvale,Utah,478495.5615691035,36099
+1021,Torrington,Connecticut,297655.84147049364,35796
+1022,Cedar Falls,Iowa,264984.5787468681,41240
+1023,Coventry,Rhode Island,460765.33180684486,36281
+1024,Watertown,Massachusetts,809080.5693490845,35710
+1025,Montrose,Colorado,463616.908566382,44591
+1026,Smithtown,New York,822010.002243381,116847
+1027,Kearns,Utah,431486.4281186844,35404
+1028,North Ridgeville,Ohio,331395.3778248038,37786
+1029,Glastonbury,Connecticut,552663.5738201804,35503
+1030,Fair Lawn,New Jersey,721542.1221960044,37128
+1031,Tooele,Utah,424245.7476868013,42270
+1032,Lauderdale Lakes,Florida,135742.18606835077,36898
+1033,Athens,Ohio,243408.9898057432,63197
+1034,El Mirage,Arizona,335207.76994325995,35820
+1035,Inver Grove Heights,Minnesota,369239.5127316372,36873
+1036,Temple City,California,1067746.8363409303,35125
+1037,University Place,Washington,640993.769243299,35479
+1038,Vestavia Hills,Alabama,565237.7671445914,38306
+1039,Hilton Head Island,South Carolina,781330.1210961217,38196
+1040,Parkland,Florida,1077149.067630749,39186
+1041,Ossining,New York,670325.1692176877,39964
+1042,Chester,Pennsylvania,112177.89829491718,557116
+1043,Winona,Minnesota,257781.2901320749,50523
+1044,Gahanna,Ohio,371461.424157345,35986
+1045,Bastrop,Texas,341471.819692383,118908
+1046,Culpeper,Virginia,455565.8320617389,57666
+1047,Niles,Illinois,417324.4825420604,109978
+1048,Keizer,Oregon,443419.6090646072,39140
+1049,Indiana,Pennsylvania,205498.3729459592,82878
+1050,Collinsville,Illinois,196917.27701972704,35276
+1051,American Fork,Utah,516632.2087041003,41020
+1052,Dunedin,Florida,413782.5571727215,35227
+1053,Frankfort,Illinois,496792.26508046896,60704
+1054,Sun Prairie,Wisconsin,436269.5644640933,39227
+1055,Sylvania,Ohio,320188.20148274285,50627
+1056,Estero,Florida,486533.3305668402,38365
+1057,Farmers Branch,Texas,373922.1918269281,38320
+1058,Prosper,Texas,733105.2356826011,45605
+1059,Edwardsville,Illinois,327776.16638366855,40258
+1060,Cooper City,Florida,669211.8196822307,35030
+1061,Harker Heights,Texas,295899.0041192115,35195
+1062,Marquette,Michigan,336081.70734830847,68064
+1063,Ashtabula,Ohio,156193.5502575798,96713
+1064,Socorro,Texas,210820.23524524385,38787
+1065,La Porte,Texas,254379.94441018763,37983
+1066,Ashland,Ohio,235507.1165074775,52523
+1067,Schertz,Texas,305932.30228208244,45978
+1068,Muscatine,Iowa,194275.8990993444,41853
+1069,Cedar City,Utah,397037.7242109929,41871
+1070,Saratoga Springs,Utah,547287.1136651488,61397
+1071,Lapeer,Michigan,265168.9298581001,89516
+1072,Monterey,California,1162600.6439116516,433729
+1073,Libertyville,Illinois,623120.0099275761,54621
+1074,Oak Ridge,Tennessee,322547.81892128463,35395
+1075,Springville,Utah,497963.0451251927,35670
+1076,Batavia,Illinois,462819.09747409966,35974
+1077,Hobart,Indiana,242077.8781882072,39973
+1078,Magna,Utah,432886.9097696093,35401
+1079,Lisle,Illinois,427416.260213559,119740
+1080,Bourbonnais,Illinois,294648.42564237403,38541
+1081,Algonquin,Illinois,414399.0429042722,89435
+1082,Lockport,Illinois,369901.88423968776,60618
+1083,Defiance,Ohio,184947.157693465,38292
+1084,Dickson,Tennessee,340927.7916584744,58662
+1085,Cortland,New York,209089.3114592161,45850
+1086,Celina,Texas,499750.5330066535,64427
+1087,Cornelius,North Carolina,515228.2164633288,35094
+1088,Galloway,New Jersey,335414.058052154,38380
+1089,Ramsey,Minnesota,382868.9257193512,541623
+1090,Ewing,New Jersey,377060.1106420328,39030
+1091,Talladega,Alabama,145935.69424792918,81603
+1092,Stanton,California,782784.437471039,40161
+1093,Erie,Colorado,711136.6710664857,40904
+1094,Austintown,Ohio,179195.50313745314,35477
+1095,Merrimack,New Hampshire,525270.5243488303,158078
+1096,Huntington,Indiana,198970.342810472,37224
+1097,McHenry,Illinois,313023.8809819816,317751
+1098,Natchitoches,Louisiana,190330.0826335348,36089
+1099,Riverhead,New York,633942.4021985373,36394
+1100,Windsor,Colorado,570987.4832489685,43840
+1101,Lathrop,California,616456.9890066207,42783
+1102,Brookings,South Dakota,322602.1311669695,37635
+1103,Darlington,South Carolina,152784.9332047727,62888
+1104,Manheim,Pennsylvania,394506.7670587357,44826
+1105,Bloomingdale,Illinois,434249.5657290153,111039
+1106,Sandusky,Ohio,152019.15906253312,58655
+1107,Elko,Nevada,361093.5132503528,54815
+1108,Anna,Texas,333032.33493396087,35245
+1109,Princeton,Texas,279355.95423990634,43524
+1110,San Luis,Arizona,235838.5549895304,42030
+1111,Rensselaer,New York,312776.8203289567,160510
+1112,Leland,North Carolina,382717.58407620224,35731
+1113,Clackamas,Oregon,574797.0953556852,426280
+1114,Kaufman,Texas,287960.2371674806,209235
+1115,Newberry,South Carolina,167657.93986824123,39561
+1116,Newport,Rhode Island,991438.52946524,83051
+1117,Ionia,Michigan,228322.4116008792,66557
+1118,Loudon,Tennessee,501761.3442588795,63764
+1119,Rutland,Vermont,277088.2794986258,59653
+1120,Sayreville,New Jersey,531703.0671506849,46787
+1121,Fulshear,Texas,493836.108022439,64630
+1122,Penfield,New York,389163.20548761496,39139
+1123,Islip,New York,667657.5922624851,340867
+1124,Marlboro,New Jersey,906978.619147655,42254
+1125,Ocean,New Jersey,825051.6350293864,673746
+1126,Woodbridge,New Jersey,480104.75083153,104802
+1127,Northampton,Pennsylvania,351010.7637850553,39919
+1128,Allegan,Michigan,274972.7332030928,123188
+1129,Shawano,Wisconsin,256628.2126962731,41560
+1130,Davidson,North Carolina,645511.2236123517,180182
+1131,Imperial,California,440912.4738949197,181411
+1132,Logan,Ohio,262262.71566687623,46302
+1133,Pennsauken,New Jersey,314312.643171732,37742
+1134,Huntingdon,Pennsylvania,189974.5382191992,43001
+1135,Coshocton,Ohio,168511.49710902755,37188
+1136,Anoka,Minnesota,327975.5832061208,381605
+1137,Hernando,Florida,353688.1994568182,221701
+1138,Bradford,Pennsylvania,108257.55197308748,59600
+1139,Okmulgee,Oklahoma,104562.20410239456,37241
+1140,Wharton,Texas,218215.0907678292,42060
+1141,Alachua,Florida,322749.0770681279,290028
+1142,Forsyth,Georgia,322368.9998449202,282805
+1143,Wabash,Indiana,181526.99285553343,66098
+1144,Rye,New York,2435121.947405918,50011
+1145,Abington,Pennsylvania,409365.4962927681,58656
+1146,Cape May,New Jersey,765061.933037307,93390
+1147,Morrow,Ohio,394482.0539617382,36305
+1148,Brazoria,Texas,230716.5642520059,419080
+1149,Beaver,Pennsylvania,275623.66653342656,166032
+1150,Lake Villa,Illinois,382850.67143579415,40029
+1151,Louisa,Virginia,377482.1016064418,42924
+1152,Waupaca,Wisconsin,323058.14364177175,51461
+1153,Bennington,Vermont,245178.750691072,36630
+1154,Hillsdale,Michigan,202790.8095119114,45738
+1155,Clearfield,Pennsylvania,136993.49226275485,78100
+1156,Burnet,Texas,397202.3554929655,57015
+1157,Marinette,Wisconsin,202184.015952794,42574
+1158,Isanti,Minnesota,331215.7859619562,44386
+1159,Kershaw,South Carolina,184163.9791245876,73166
+1160,Lonoke,Arkansas,201341.4664764341,76664
+1161,Winfield,Illinois,462472.32456730655,46284
+1162,Wagoner,Oklahoma,186976.19432134007,93263
+1163,Haverstraw,New York,459365.2793705783,40462
+1164,Babylon,New York,754839.9959090515,219766
+1165,Troy,Illinois,333242.7629035154,50168
+1166,Prince George,Virginia,343982.0781669126,43936
+1167,Oneida,New York,214259.7114693929,226392
+1168,Bernalillo,New Mexico,336303.5021844237,667601
+1169,Newaygo,Michigan,272925.0125709218,51622
+1170,Bedford,Pennsylvania,228921.6659462514,47480
+1171,Southampton,New York,2254765.123104433,71601
+1172,Norfolk,Massachusetts,803048.1631285986,739749
+1173,Henrietta,New York,303779.6160264697,48832
+1174,Columbiana,Ohio,253432.1592017874,99377
+1175,Beaufort,North Carolina,421676.1253082065,44670
+1176,Lyons,Illinois,281966.3867841991,112345
+1177,Jackson,Alabama,138927.6546396877,54281
+1178,Cameron,Texas,239139.3346430386,433946
+1179,Hidalgo,Texas,187934.49314255884,921549
+1180,Houghton,Michigan,272381.5081765598,37842
+1181,Worth,Illinois,278552.979551901,148514
+1182,Huron,Ohio,307908.53954417864,58250
+1183,Herkimer,New York,161141.0449829363,59219
+1184,Becker,Minnesota,376157.8283700797,35497
+1185,Clinton,Illinois,152632.60165389394,37128
+1186,Clarion,Pennsylvania,154265.43529293,36680
+1187,Palm Beach,Florida,2189890.786918889,1575726
+1188,Cleveland,North Carolina,308820.33213482733,103325
+1189,Atascosa,Texas,289180.36617999425,53590
+1190,Clayton,Georgia,358892.1770186937,297471
+1191,Northumberland,Pennsylvania,203981.93321198327,89920
+1192,Haverford,Pennsylvania,1148411.5024925566,50997
+1193,Stickney,Illinois,294958.7729644976,40266
+1194,Oyster Bay,New York,1052835.8199442867,301115
+1195,Cheltenham,Pennsylvania,391936.88682421664,38498
+1196,Rice,Minnesota,346437.529513628,69939
+1197,Cumberland,Maine,740905.2249961235,317222
+1198,Oconto,Wisconsin,248487.6760381372,40195
+1199,Rock,Wisconsin,343553.1758142311,166472
+1200,Okanogan,Washington,262202.0074322986,45230
+1201,Carver,Minnesota,495456.2876034574,114379
+1202,Barron,Wisconsin,225692.5055427136,46484
+1203,Susquehanna,Pennsylvania,177684.7679379849,38237
+1204,Eagle,Colorado,1007408.9489886062,54291
+1205,Alexander,North Carolina,407600.00958305056,36958
+1206,Chelan,Washington,472962.44373761705,81941
+1207,Catawba,North Carolina,317426.5875079462,170172
+1208,Colquitt,Georgia,153582.07673173698,47438
+1209,Elmore,Alabama,242955.65883176663,91577
+1210,Northfield,Illinois,895441.3026497002,89835
+1211,Winnebago,Illinois,285325.0180196423,283674
+1212,Walworth,Wisconsin,394344.9067976847,106127
+1213,Hampden,Massachusetts,450556.9016364628,464338
+1214,Halifax,North Carolina,117289.30903923558,46534
+1215,Wayne,Illinois,782695.3756982624,63935
+1216,Dauphin,Pennsylvania,299707.9760792909,293351
+1217,Blue Earth,Minnesota,177680.53308653482,70634
+1218,Umatilla,Oregon,293725.9499047433,81119
+1219,Guilderland,New York,470353.1697738576,38216
+1220,San Joaquin,California,295111.06160294684,823815
+1221,Strafford,New Hampshire,536910.2149198028,135043
+1222,Marathon,Wisconsin,312019.29556948383,139432
+1223,Oxford,Maine,333152.1022325313,60346
+1224,Shenandoah,Virginia,277713.1590148274,45839
+1225,Dyer,Tennessee,157198.57141407052,36320
+1226,Tuolumne,California,361764.2910131181,53160
+1227,Sedgwick,Kansas,248948.0284139728,538433
+1228,Pima,Arizona,335301.8206268512,1074685
+1229,Belmont,Ohio,184513.8439173157,64434
+1230,Porter,Indiana,299905.9761241692,176049
+1231,Essex,Massachusetts,893448.8887990555,826653
+1232,Rusk,Texas,202812.83319435068,54854
+1233,El Dorado,California,580897.8596744462,192323
+1234,Cattaraugus,New York,170974.45412928076,75390
+1235,Mecosta,Michigan,228342.4161937961,42320
+1236,Carlton,Minnesota,332052.61682975286,36711
+1237,Shelby,Alabama,317139.9874830358,238552
+1238,Guilford,Indiana,414502.58825965767,37203
+1239,Yamhill,Oregon,566242.594441233,110024
+1240,Luzerne,Pennsylvania,182993.53875579772,332126
+1241,Dubois,Indiana,248608.516004668,44016
+1242,Hamilton,Indiana,369594.26223536447,387036
+1243,Gaston,North Carolina,94024.14572382157,246558
+1244,Comanche,Oklahoma,108553.59160915732,122158
+1245,Dawson,Georgia,82429.18059491749,35365
+1246,Macon,Illinois,154254.37508689318,99300
+1247,Deerfield,Ohio,241618.2610881845,43979
+1248,Dane,Wisconsin,499976.4475554323,590375
+1249,Lamar,Mississippi,175607.22096173387,67403
+1250,Lucas,Ohio,261175.90475945463,423347
+1251,Dorchester,South Carolina,252937.45211212724,178397
+1252,Cascade,Montana,399102.6670732307,85029
+1253,Goodhue,Minnesota,288152.6004786839,48195
+1254,Hunt,Texas,521374.039145258,123336
+1255,Waller,Texas,287287.2804927979,69858
+1256,Mendocino,California,901303.2809908362,88122
+1257,Sutter,California,414123.4404198712,98787
+1258,Stokes,North Carolina,226325.97153714555,46126
+1259,Homer,Illinois,181706.77661679336,41948
+1260,Cayuga,New York,306867.3999509027,74365
+1261,Grafton,Illinois,268312.6068636335,58301
+1262,Houston,Alabama,392831.1910420396,110318
+1263,Hardin,Kentucky,140677.98614559768,113482
+1264,Chittenden,Vermont,393373.6775779954,169115
+1265,Ector,Texas,267307.6787867989,173801
+1266,Riley,Kansas,221910.4632456332,72598
+1267,Greenup,Kentucky,126575.42028872477,35213
+1268,McLean,Illinois,194598.208751509,171419
+1269,Hanover,Illinois,106065.26765283624,97956
+1270,Cranberry,Pennsylvania,180617.3490102913,35244
+1271,Penobscot,Maine,328511.3855555545,157967
+1272,Avon,Illinois,94946.241897247,63208
+1273,Dodge,Nebraska,243562.6037193437,38057
+1274,Franklin,Illinois,142320.46769725604,36916
+1275,Uintah,Utah,592611.9334922611,38278
+1276,Kandiyohi,Minnesota,260223.2134575628,44720
+1277,Newton,Georgia,109835.46149313742,125583
+1278,Gordon,Georgia,106994.24869399736,61701
+1279,Wright,Minnesota,238269.82039670003,157559
+1280,Tippecanoe,Indiana,246913.6264434296,190456
+1281,Kane,Illinois,231862.35835449456,525757
+1282,Cochise,Arizona,227022.5493159478,126332
+1283,Chemung,New York,171313.8181720913,80415
+1284,Wapello,Iowa,150043.77709035238,35210
+1285,Washington,Arkansas,120384.20524963138,271213
+1286,Genesee,Michigan,160138.73043530036,401093
+1287,Carter,Oklahoma,166250.57053941817,48910
+1288,Vernon,Illinois,154577.69585304183,71353
+1289,Sullivan,New Hampshire,383576.2638583272,43961
+1290,Venango,Pennsylvania,175390.7912533063,49346
+1291,Canadian,Oklahoma,147109.7452104203,187189
+1292,Livingston,Illinois,96107.75411461874,35057
+1293,Arapahoe,Colorado,246680.6556059769,673820
+1294,Laclede,Missouri,201184.32965172568,36943
+1295,Webster,Iowa,111124.71272249556,36838
+1296,Cobb,Georgia,340779.29829938913,793345
+1297,Chautauqua,New York,608237.3895729597,124126
+1298,Suwannee,Florida,257632.85554357257,48149
+1299,Dakota,Minnesota,278292.0894365463,457710
+1300,Kootenai,Idaho,483020.8168795549,191864
+1301,Gibson,Tennessee,139454.38462704126,51779
+1302,Matagorda,Texas,302434.27377685625,36463
+1303,Warren,Illinois,118772.97747404368,65343
+1304,Lumpkin,Georgia,59913.77772301257,36178
+1305,Tehama,California,271594.09705533454,64665
+1306,Kittitas,Washington,291313.32974838937,48803

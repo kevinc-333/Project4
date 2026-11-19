@@ -67,7 +67,7 @@ census = census.drop_duplicates(subset=['NAME'])
 
 merged = zillow.merge(census, how="inner", left_on=["RegionName", "State"], right_on=["NAME", "STNAME"])
 # merged = merged[merged["POPESTIMATE2025"] > 15000]
-# merged = merged[["RegionName", "State", "2026-10-31", "POPESTIMATE2025"]]
+merged = merged[["RegionName", "State", "2026-10-31", "POPESTIMATE2025"]]
 print(merged)
 
 merged.to_csv("merged_csv.csv")
